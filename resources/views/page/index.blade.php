@@ -2206,11 +2206,11 @@
 
 <script src="{{asset('vendor/js/jquery-3.4.1.js')}}"></script>
 
-<script src="{{asset('vendor/js/crum-mega-menu.js')}}"></script>
-<script src="{{asset('vendor/js/swiper.jquery.min.js')}}"></script>
+<script src="{{asset('vendor/js/js-plugins/crum-mega-menu.js')}}"></script>
+<script src="{{asset('vendor/js/js-plugins/swiper.jquery.min.js')}}"></script>
 <script src="{{asset('vendor/js/js-plugins/waypoints.js')}}"></script>
-<script src="{{asset('vendor/js/Uncompressed/jquery.drawsvg.js')}}"></script>
-<script src="{{asset('vendor/js/Uncompressed/jquery.countTo.js')}}"></script>
+<script src="{{asset('vendor/js/js-plugins/jquery.drawsvg.js')}}"></script>
+<script src="{{asset('vendor/js/js-plugins/jquery-countTo.js')}}"></script>
 <script src="{{asset('vendor/js/js-plugins/jquery.mousewheel.js')}}"></script>
 <script src="{{asset('vendor/js/js-plugins/jquery.mCustomScrollbar.js')}}"></script>
 <script src="{{asset('vendor/js/js-plugins/imagesLoaded.js')}}"></script>
