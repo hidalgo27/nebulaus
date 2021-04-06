@@ -302,12 +302,9 @@
 							<span class="short-line"></span>
 							<span class="long-line"></span>
 						</div>
-						<p class="heading-text">Qolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibham
-							liber tempor cum soluta nobis eleifend option congue nihil uarta decima et quinta.
-							Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-							ut aliquip ex ea commodo consequat eleifend option nihil. Investigationes demonstraverunt
-							lectores legere me lius quod ii legunt saepius parum claram.
-						</p>
+						<p class="heading-text">
+                            Somos especialistas en servicios de marketing digital en el 2021. Tendrás la oportunidad de trabajar con las mejores herramientas y profesionales desde el diseño y desarrollo web, implementación y creación de propuestas de imagen corporativa Branding y creación de contenidos audiovisuales para grandes y pequeñas empresas.    
+                        </p>
 					</div>
 					<div class="socials">
 						<a href="" class="social__item">
