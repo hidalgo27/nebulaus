@@ -1,7 +1,11 @@
 input.input-dark, textarea.input-dark  {
     border-radius: 50px !important;
-};
+}
 .contenedor:hover .imagen {
     -webkit-transform:scale(1.3);transform:scale(1.3) !important;
 }
 .contenedor {overflow:hidden !important;}
+
+.Header{
+    display: none !important;
+}
