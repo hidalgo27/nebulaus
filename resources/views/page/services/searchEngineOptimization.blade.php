@@ -6,7 +6,7 @@
 @section('content')
 	<div class="stunning-header stunning-header-bg-lightgray">
 		<div class="stunning-header-content">
-			<h1 class="stunning-header-title c-dark">SEO y POSICIONAMIENTO WEB</h1>
+			<h1 class="stunning-header-title c-dark">SEO y posicionamiento web</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
 					<a href="/" class="c-gray">Home</a>
@@ -21,16 +21,20 @@
 			</ul>
 		</div>
 	</div>
-
-	<div class="container">
-		<div class="row medium-padding120">
+	<!--INTRODUCCION-->
+	<div class="container medium-padding80">
+		<div class="heading align-center pb30">
+			<h1 class="h2">¿Qué es el seo y posicionamiento web?</h1>
+			<div class="heading-line">
+				<span class="short-line bg-primary-color"></span>
+				<span class="long-line bg-primary-color"></span>
+			</div>
+		</div>
+		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb30">
 				<img loading="lazy" src="img/mac-book.png" alt="pc">
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<h5 class="mb30">
-					¿Qué es el seo y posicionamiento web?
-				</h5>
 				<p>
 					El Posicionamiento web en Buscadores, internacionalmente conocido como SEO (Search Engine Optimization), busca brindarte todo el apoyo
 					necesario para que tu página web aparezca en la TOP 10 de las mejores ubicaciones en Google acorde a las  palabras o frases (palabras clave) que las personas realmente están buscando.
@@ -38,15 +42,11 @@
 			</div>
 		</div>
 	</div>
-
-	<!-- Counters -->
-
-
-	<div class="container-fluid">
+	<!--COUNTER-->
+	<div class="container-fluid pb80">
 		<div class="row bg-blue-color medium-padding120">
 			<div class="container">
 				<div class="row">
-
 					<div class="counters-modern">
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 							<div class="counter-item-modern">
@@ -55,14 +55,13 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="83" data-from="10">83%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Organic Traffic - Increase</span>
+								<span class="counter-title-modern">Aumento de tráfico orgánico</span>
 								<div class="counter-line-modern">
 									<span class="short-line-modern bg-blue-color-light"></span>
 									<span class="long-line-modern bg-blue-color-light"></span>
 								</div>
 							</div>
 						</div>
-
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 							<div class="counter-item-modern">
 								<i class="seoicon-pie-graph"></i>
@@ -70,7 +69,7 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="52" data-from="5">52%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Bounce Rate - Decrease</span>
+								<span class="counter-title-modern">Disminuir-Tasa de rebote</span>
 								<div class="counter-line-modern">
 									<span class="short-line-modern bg-blue-color-light"></span>
 									<span class="long-line-modern bg-blue-color-light"></span>
@@ -85,7 +84,7 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="38" data-from="1">38%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Average Visit Duration - Increase</span>
+								<span class="counter-title-modern">Duración media de la visita: aumento</span>
 								<div class="counter-line-modern">
 									<span class="short-line-modern bg-blue-color-light"></span>
 									<span class="long-line-modern bg-blue-color-light"></span>
@@ -100,167 +99,134 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="27" data-from="1">27%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Pages Per Session - Increase</span>
+								<span class="counter-title-modern">Páginas por sesión: aumento</span>
 								<div class="counter-line-modern">
 									<span class="short-line-modern bg-blue-color-light"></span>
 									<span class="long-line-modern bg-blue-color-light"></span>
 								</div>
 							</div>
 						</div>
-
 					</div>
-
 				</div>
 			</div>
 		</div>
 	</div>
-
-	<!-- End Counters -->
-
-
-	<div class="container">
-		<div class="row medium-padding120">
-
-			<div class="col-lg-12">
-
-				<div class="row mb30">
-					<div class="col-lg-12">
-						<h5>
-							Beneficios que aporta el SEO al Posicionamiento Web
-						</h5>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<ul class="list list--secondary">
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">
-									Te posiciona sobre los competidores
-								</a>
-							</li>
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">
-									Publicidad organica GRATIS
-								</a>
-							</li>
-						</ul>
-					</div>
-
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<ul class="list list--secondary">
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">
-									Posicionamiento a largo plazo
-								</a>
-							</li>
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">
-									Aumenta la visibilidad de tu marca.
-								</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-
+	<!--BENEFICIOS-->
+	<div class="container pb80">
+		<div class="heading">
+			<h2 class="h3">Beneficios que aporta el SEO al Posicionamiento Web</h2>
+			<div class="heading-line">
+				<span class="short-line bg-primary-color"></span>
+				<span class="long-line bg-primary-color"></span>
 			</div>
-
 		</div>
-	</div>
-
-	<!-- Info box -->
-
-	<div class="container-fluid">
-		<div class="row medium-padding120 bg-border-color">
-			<div class="container">
-
-				<div class="row mb30">
-					<div class="col-lg-12 col-md-12">
-						<div class="heading align-center">
-							<h4 class="h1 heading-title">						
-								Servicios basicos de optimizacion SEO web para motores de busqueda:
-							</h4>
-							<div class="heading-line">
-								<span class="short-line"></span>
-								<span class="long-line"></span>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="row mb60">
-					<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-						<div class="info-box--standard-bg">
-							<div class="info-box-content">
-								<h4 class="info-box-title">Organic Search</h4>
-								<p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-									sed diam nonummy nibh euismod.
-								</p>
-
-								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box15.png" alt="image">
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-						<div class="info-box--standard-bg">
-							<div class="info-box-content">
-								<h4 class="info-box-title">On-Page SEO</h4>
-								<p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-									sed diam nonummy nibh euismod.
-								</p>
-
-								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box16.png" alt="image">
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-						<div class="info-box--standard-bg">
-							<div class="info-box-content">
-								<h4 class="info-box-title">Link Building</h4>
-								<p class="text">Lorem ipsum dolor sit amet,
-									consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-								</p>
-
-								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box17.png" alt="image">
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-				<div class="row">
-					<div class="col-lg-3 col-lg-offset-3 col-md-4 col-md-offset-2 col-sm-6 col-xs-12">
-						<a href="22_contacts.html" class="btn btn-medium btn--light-green btn-hover-shadow mb30">
-							<span class="text">Free SEO Consultation</span>
-							<span class="semicircle"></span>
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+				<ul class="list list--secondary h4">
+					<li>
+						<i class="seoicon-check"></i>
+						<a href="#" class="h5">
+							Te posiciona sobre los competidores
 						</a>
-					</div>
-
-					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-						<a href="22_contacts.html" class="btn btn-medium btn--dark btn-hover-shadow mb30">
-							<span class="text">Request a Free Quote</span>
-							<span class="semicircle"></span>
+					</li>
+					<li>
+						<i class="seoicon-check"></i>
+						<a href="#" class="h5">
+							Publicidad organica GRATIS
 						</a>
-					</div>
-				</div>
-
+					</li>
+				</ul>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+				<ul class="list list--secondary">
+					<li>
+						<i class="seoicon-check"></i>
+						<a href="#" class="h5">
+							Posicionamiento a largo plazo
+						</a>
+					</li>
+					<li>
+						<i class="seoicon-check"></i>
+						<a href="#" class="h5">
+							Aumenta la visibilidad de tu marca.
+						</a>
+					</li>
+				</ul>
 			</div>
 		</div>
 	</div>
+	<!--SERVICIOS-->
+	<div class="container pb80">
+		<div class="heading">
+			<h2 class="h3">Servicios básicos de SEO para motores de búsqueda</h2>
+			<div class="heading-line">
+				<span class="short-line bg-primary-color"></span>
+				<span class="long-line bg-primary-color"></span>
+			</div>
+		</div>
+		<div class="row mb60">
+			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+				<div class="info-box--standard-bg">
+					<div class="info-box-content">
+						<h4 class="info-box-title">BÚSQUEDA ORGÁNICA</h4>
+						<p class="text">
+							Enfoca tu marca a las intenciones de búsqueda que realiza el usuario.
+						</p>
 
-	<!-- End Info box -->
+						<div class="info-box-image">
+							<img loading="lazy" src="img/info-box15.png" alt="image">
+						</div>
+					</div>
+				</div>
+			</div>
 
+			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+				<div class="info-box--standard-bg">
+					<div class="info-box-content">
+						<h4 class="info-box-title">ON-PAGE SEO</h4>
+						<p class="text">
+							Organiza el contenido sobre tu producto o servicio con las mejores prácticas de SEO Marketing.
+						</p>
+
+						<div class="info-box-image">
+							<img loading="lazy" src="img/info-box16.png" alt="image">
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+				<div class="info-box--standard-bg">
+					<div class="info-box-content">
+						<h4 class="info-box-title">LINK BUILDING</h4>
+						<p class="text">
+							Importante práctica del marketing online,  Incrementa tu autoridad como marca de forma orgánica.
+						</p>
+
+						<div class="info-box-image">
+							<img loading="lazy" src="img/info-box17.png" alt="image">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-3 col-lg-offset-3 col-md-4 col-md-offset-2 col-sm-6 col-xs-12">
+				<a href="22_contacts.html" class="btn btn-medium btn--light-green btn-hover-shadow mb30">
+					<span class="text">CONSULTA SEO GRATIS</span>
+					<span class="semicircle"></span>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+				<a href="22_contacts.html" class="btn btn-medium btn--dark btn-hover-shadow mb30">
+					<span class="text">COTIZACIÓN GRATIS</span>
+					<span class="semicircle"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!--ANALISIS-->
 	<div class="container-fluid">
 		<div class="row medium-padding120 bg-orange-color">
 			<div class="container">
@@ -297,9 +263,137 @@
 			</div>
 		</div>
 	</div>
+	<!--PLANES-->
+	<div class="container-fluid pt80">
+		<div class="row pb30">
+			<div class="heading mb30 align-center">
+				<h4 class="h2 heading-title">2 Planes</h4>
+				<div class="heading-line">
+					<span class="short-line"></span>
+					<span class="long-line"></span>
+				</div>
+			</div>
+			<div class="pricing-tables pricing-tables-head bg-white-color">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding">
+							<div class="pricing-tables-item">
+								<div class="pricing-head bg-primary-color"></div>
+								<div class="pricing-content-wrap">
 
-	<!-- Case Slider -->
+									<div class="pricing-tables-icon">
+										<img loading="lazy" src="img/pricing1.png" alt="personal">
+									</div>
+									<a href="#" class="pricing-title">Plan Básico</a><br>
+									<ul class="pricing-tables-position align-left h6">
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											SEO interno por cada página del sitio web
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Keywords de baja y mediana competencia
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Resultados entre 3-7 meses
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											SEO posicionamiento - <span class="count">6 keywords</span>
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Colocamos 80%-100% en 1era. PÁGINA GOOGLE
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											SEO local de la keyword principal
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Estrategias de Linkbuilding profesional
+										</li>									
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Seguimiento y Reporte Estadístico de la campaña
+										</li>
+									</ul>
+									<p class="h6 pb30">
+										<b>Desde</b> 
+										<span class="rate">s/.650</span>
+										<br><b>por mes</b>
+									</p>
+									<a href="#" class="btn btn-medium btn--dark">
+										<span class="text">Order Now!</span>
+										<span class="semicircle"></span>
+									</a>
 
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding">
+							<div class="pricing-tables-item">
+								<div class="pricing-head bg-secondary-color"></div>
+								<div class="pricing-content-wrap">
+
+									<div class="pricing-tables-icon">
+										<img loading="lazy" src="img/pricing2.png" alt="personal">
+									</div>
+									<a href="#" class="pricing-title">Plan Empresarial</a><br>
+									<ul class="pricing-tables-position align-left h6">
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Community Manager (FB + Twitter viral)
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Email Marketing
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Campaña ADWORDS(Configuración)
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											SEO posicionamiento - <span class="count">6 keywords</span>
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Colocamos 80%-100% en 1era. PÁGINA GOOGLE
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											SEO local de la keyword principal
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Estrategias de Linkbuilding profesional
+										</li>									
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Seguimiento y Reporte Estadístico de la campaña
+										</li>
+									</ul>
+									<p class="h6 pb30">
+										<b>Desde</b> 
+										<span class="rate">s/.1350</span>
+										<br><b>por mes</b>
+									</p>
+									<a href="#" class="btn btn-medium btn--dark">
+										<span class="text">Order Now!</span>
+										<span class="semicircle"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--FORMULARIO-->
 	<div class="container">
 		<div class="row medium-padding120">
 			<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
@@ -316,7 +410,7 @@
 						Por que es IMPORTANTE saber el análisis de tu sitio web
 					</h5>
 					<p>
-					El análisis de una web es obligatoria en cualquier EMPRESA  que tenga un sitio web, porque ayudará de forma exponencial a reducir los costes y aumentar las ventas.
+						El análisis de una web es obligatoria en cualquier EMPRESA que tenga un sitio web, porque ayudará de forma exponencial a reducir los costes y aumentar las ventas.
 					</p>
 				</div>
 			</div>
@@ -326,45 +420,39 @@
 				<form class="contact-form crumina-submit" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="site" class="input-standard-grey" placeholder="Website URL" type="text" required>
+							<input name="site" class="input-standard-grey" placeholder="URL Sitio Web" type="text" required>
 						</div>
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="name" class="input-standard-grey" placeholder="Your Name" type="text" required>
+							<input name="name" class="input-standard-grey" placeholder="Tu nombre" type="text" required>
 						</div>
 
 					</div>
 
 					<div class="row">
-
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="email" class="input-standard-grey" placeholder="Email Address" type="email" required>
+							<input name="email" class="input-standard-grey" placeholder="Email" type="email" required>
 						</div>
-
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="phone" class="input-standard-grey" placeholder="Phone" type="text">
+							<input name="phone" class="input-standard-grey" placeholder="Celular" type="text">
 						</div>
-
 					</div>
 
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-							<textarea name="message" class="input-standard-grey" placeholder="Details"></textarea>
+							<textarea name="message" class="input-standard-grey" placeholder="Detalles"></textarea>
 						</div>
 					</div>
-
 					<div class="row">
 						<div class="submit-block table">
 							<div class="col-lg-3 table-cell">
 								<button class="btn btn-small btn--primary">
-									<span class="text">Submit Now</span>
+									<span class="text">Saber Más</span>
 								</button>
 							</div>
-
 							<div class="col-lg-5 table-cell">
 								<div class="submit-block-text">
-									Please, let us know any particular things to check and the best time
-									to contact you by phone (if provided).
+									Conoce más en una evaluación GRATIS de sobre aspectos SEO de tu página web
 								</div>
 							</div>
 						</div>

@@ -1,11 +1,9 @@
 @extends('layouts.default')
 @section('title')
 	<meta name="description" content="La Publicidad en redes sociales es la mejor forma de generar oportunidades de negocios a corto y mediano plazo.¡ Conoce a tu público objetivo.!" />
-    <title>publicidad y marketing en redes sociales</title>
+    <title>publicidad y marketing en redes sociales 2021</title>
 @endsection
 @section('content')
-
-<div class="content-wrapper">
 	<!-- Stunning Header -->
 	<div class="stunning-header stunning-header-bg-breez">
 		<div class="stunning-header-content">
@@ -14,7 +12,7 @@
 				<li class="breadcrumbs-item">
 					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
-					<a href="/Our-Services">Services</a>
+					<a href="/Our-Services">Servicios</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
@@ -46,322 +44,190 @@
 	</div>
 
 	<!-- End Overlay Search -->
-
 	<div class="container-fluid">
 		<div class="row medium-padding80 bg-border-color">
+			<div class="container heading mb30 align-center">
+				<h4 class="h1 heading-title">CATEGORÍAS</h4>
+				<div class="heading-line">
+					<span class="short-line"></span>
+					<span class="long-line"></span>
+				</div>
+			</div>
 			<div class="container">
-				<div class="row">
-					<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-						<div class="heading mb30">
-							<h4 class="h1 heading-title">COMBO EMPRENDEDOR</h4>
-							<div class="heading-line">
-								<span class="short-line"></span>
-								<span class="long-line"></span>
-							</div>
-						</div>
-						<ul class="list list--secondary mb60">
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Administración de redes sociales (página de Facebook e Instagram)</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Actualización de las redes sociales (optimización, configuración de datos de la empresa)</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#"><b>8 POST (Publicaciones de Servicio y/o Producto)</b></a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">6 diseños gráfico de sus productos para su post y texto</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 diseño gráfico de sus productos para su perfil</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 diseño gráfico de sus productos para su portada</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Campañas y anuncios para (Facebook Ads e Instagram Ads)</a>
-							</li>
-						</ul>
-						<div class="heading">
-							<h5 class="heading-subtitle">
-								<b>Inversión 1 mes s/.250 4to mes Dscto 25%</b>
-							</h5>
-						</div>
+				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+					<div class="heading mb30">
+						<h4 class="h3 heading-title">Creación de Contenidos Para Redes Sociales</h4>
+						<p>
+							Ideamos estrategias de contenido a media para tu negocio, teniendo en cuenta los formatos y las redes sociales que se adecuen a tu marca (Producto, Servicio), así mismo asignamos a nuestros especialistas en diseños estratégicos para cada tipo de negocio y creación de videos promocionales.  
+						</p>
 					</div>
-
-					<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-						<img loading="lazy" src="img/social-photo.png" alt="social">
+				</div>
+				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
+					<img loading="lazy" src="img/social-photo.png" alt="social">
+				</div>
+			</div>
+		</div>
+		<div class="row medium-padding80 bg-border-color">
+			<div class="container">
+				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
+					<img loading="lazy" src="img/social-photo.png" alt="social">
+				</div>
+				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+					<div class="heading mb30">
+						<h4 class="h3 heading-title">Administración y Monitoreo de Redes Sociales</h4>
+						<p>
+							Administramos todas tus plataformas de redes sociales de tu marca, Conoce todos los datos que deben ser gestionados y comprender el alcance de las acciones que se realizan en tus RRSS, con la finalidad de tener conclusiones sobre los objetivos realizados en tus redes sociales.	
+						</p>
 					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row medium-padding80 bg-border-color">
+			<div class="container">
+				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+					<div class="heading mb30">
+						<h4 class="h3 heading-title">Publicidad en Facebook Ads 2021</h4>
+						<p>
+							Hay algo claro sobre esta estrategia de marketing y publicidad en facebook: El alcance y la visibilidad de tu marca va de aumenta a corto y mediano plazo.  Una buena segmentación de tu público y/o audiencia te brinda la oportunidad de llegar a potenciales clientes, En nebula trabajamos en conjunto  con nuestros especialistas para potenciar tu negocio en las redes sociales. 	
+						</p>
+					</div>
+				</div>
+
+				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
+					<img loading="lazy" src="img/social-photo.png" alt="social">
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div class="container-fluid">
-		<div class="row medium-padding80 bg-border-color">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-						<div class="heading mb30">
-							<h4 class="h1 heading-title">COMBO MYPE</h4>
-							<div class="heading-line">
-								<span class="short-line"></span>
-								<span class="long-line"></span>
-							</div>
-						</div>
-						<ul class="list list--secondary mb60">
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Administración de redes sociales (página de Facebook e Instagram)</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Actualización de las redes sociales (optimización,configuración de datos de la empresa</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#"><b>18 POST</b></a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">13 diseños gráficos de sus productos para su post y texto</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">2 Videos GIF animados</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 diseño gráfico de sus productos para su perfil</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 diseño gráfico de sus productos para su portada</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 Story</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Campañas y anuncios para (Facebook Ads e Instagram Ads)</a>
-							</li>
-						</ul>
-						<div class="heading">
-							<h5 class="heading-subtitle">
-								<b>Inversión 1 mes s/.500 4to mes Dscto 25%</b>
-							</h5>
-						</div>
-					</div>
-
-					<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-						<img loading="lazy" src="img/social-photo.png" alt="social">
-					</div>
+	<div class="container-fluid medium-padding80">
+		<div class="row pb30">
+			<div class="heading mb30 align-center">
+				<h4 class="h2 heading-title">3 Planes</h4>
+				<div class="heading-line">
+					<span class="short-line"></span>
+					<span class="long-line"></span>
 				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="container-fluid">
-		<div class="row medium-padding80 bg-border-color">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-						<div class="heading mb30">
-							<h4 class="h1 heading-title">COMBO NEBULA</h4>
-							<div class="heading-line">
-								<span class="short-line"></span>
-								<span class="long-line"></span>
-							</div>
-						</div>
-						<ul class="list list--secondary mb60">
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Administración de redes sociales (página de Facebook e Instagram)</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Actualización de las redes sociales (optimización,configuración de datos de la empresa)</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#"><b>28 POST</b></a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">20 diseños gráfico de sus productos para su post y texto</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">2 Videos GIF animados</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">3 Storys</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 diseño gráfico de sus productos para su perfil</a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 diseño gráfico de sus productos para su portada </a>
-							</li>
-
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">1 video de portada</a>
-							</li>
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Sesión de Foto en Estudio (Según campaña)</a>
-							</li>
-							<li>
-								<i class="seoicon-check"></i>
-								<a href="#">Campañas y/o anuncios para (Facebook Ads e Instagram Ads)</a>
-							</li>
-						</ul>
-						<div class="heading">
-							<h5 class="heading-subtitle">
-								<b>Inversión 1 mes s/.800 4to mes Dscto 25%</b>
-							</h5>
-						</div>
-					</div>
-
-					<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-						<img loading="lazy" src="img/social-photo.png" alt="social">
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="container-fluid">
-		<div class="row medium-padding80">
-			<div class="heading">
-				<h3 class="h1 headig-title align-center pb30">3 Planes</h3>
 			</div>
 			<div class="pricing-tables pricing-tables-head bg-white-color">
 				<div class="container">
-
 					<div class="row">
-
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
-
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
 							<div class="pricing-tables-item">
-
 								<div class="pricing-head bg-primary-color"></div>
-
 								<div class="pricing-content-wrap">
 
 									<div class="pricing-tables-icon">
 										<img loading="lazy" src="img/pricing1.png" alt="personal">
 									</div>
-									<a href="#" class="pricing-title">Personal</a>
-									<ul class="pricing-tables-position">
-										<li class="position-item">
-											<span class="count">5</span>
-											Analytics Campaigns
+									<a href="#" class="pricing-title">Combo<br>Emprendedor</a><br>
+									<ul class="pricing-tables-position align-left h6">
+										<li class="position-item h5">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">8</span> POST
 										</li>
 										<li class="position-item">
-											<span class="count">300</span>
-											Keywords
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">6</span> Diseños gráficos para su post
 										</li>
 										<li class="position-item">
-											<span class="count">250,000</span>
-											Crawled Pages
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Diseño gráfico para su perfil
 										</li>
 										<li class="position-item">
-											-
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Diseño gráfico para su portada
 										</li>
 										<li class="position-item">
-											<span class="count">15</span>
-											Social Accounts
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Administracion en redes sociales
 										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Actualizacion en redes sociales
+										</li>									
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Campañas y anuncios
+										</li><br><br><br>
 									</ul>
-									<h4 class="rate">$49.99</h4>
+									<p class="h6 pb30">
+										<b>Inversión 1 mes</b> 
+										<span class="rate">s/.250</span>
+										<br><b>4to mes Dscto</b>
+										<span class="rate">25%</span>
+									</p>
 									<a href="#" class="btn btn-medium btn--dark">
 										<span class="text">Order Now!</span>
 										<span class="semicircle"></span>
 									</a>
 
 								</div>
-
 							</div>
-
 						</div>
 
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
 							<div class="pricing-tables-item">
-
 								<div class="pricing-head bg-secondary-color"></div>
-
 								<div class="pricing-content-wrap">
 
 									<div class="pricing-tables-icon">
 										<img loading="lazy" src="img/pricing2.png" alt="personal">
 									</div>
-									<a href="#" class="pricing-title">Webmaster</a>
-									<ul class="pricing-tables-position">
-										<li class="position-item">
-											<span class="count">25</span>
-											Analytics Campaigns
+									<a href="#" class="pricing-title">Combo<br>MYPE</a><br>
+									<ul class="pricing-tables-position align-left h6">
+										<li class="position-item h5">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">18</span> POST
 										</li>
 										<li class="position-item">
-											<span class="count">1,900</span>
-											Keywords
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">13</span> Diseños gráficos para su post
 										</li>
 										<li class="position-item">
-											<span class="count">1,250,000</span>
-											Crawled Pages
-										</li>
-										<li class="position-item include">
-											Includes Branded Reports
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Diseño gráfico para su perfil
 										</li>
 										<li class="position-item">
-											<span class="count">50</span>
-											Social Accounts
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Diseño gráfico para su portada
+										</li>	
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">2</span> Videos GIF animados
 										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Story
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Administracion en redes sociales
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Actualizacion en redes sociales
+										</li>									
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Campañas y anuncios
+										</li><br>
 									</ul>
-									<h4 class="rate">$99.99</h4>
+									<p class="h6 pb30">
+										<b>Inversión 1 mes</b> 
+										<span class="rate">s/.500</span>
+										<br><b>4to mes Dscto</b>
+										<span class="rate">25%</span>
+									</p>
 									<a href="#" class="btn btn-medium btn--dark">
 										<span class="text">Order Now!</span>
 										<span class="semicircle"></span>
 									</a>
-
 								</div>
 							</div>
 						</div>
 
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
 
 							<div class="pricing-tables-item">
 
@@ -372,29 +238,55 @@
 									<div class="pricing-tables-icon">
 										<img loading="lazy" src="img/pricing3.png" alt="personal">
 									</div>
-									<a href="#" class="pricing-title">Professional</a>
-									<ul class="pricing-tables-position">
-										<li class="position-item">
-											<span class="count">100</span>
-											Analytics Campaigns
+									<a href="#" class="pricing-title">Combo<br>Nebula</a><br>
+									<ul class="pricing-tables-position align-left h6">
+										<li class="position-item h5">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">28</span> POST
 										</li>
 										<li class="position-item">
-											<span class="count">7500</span>
-											Keywords
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">20</span> Diseños gráficos para su post
 										</li>
 										<li class="position-item">
-											<span class="count">1,250,000</span>
-											Crawled Pages
-										</li>
-										<li class="position-item include">
-											Includes Branded Reports
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Diseño gráfico para su perfil
 										</li>
 										<li class="position-item">
-											<span class="count">150</span>
-											Social Accounts
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">1</span> Diseño gráfico para su portada
 										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">2</span> Videos GIF animados
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											<span class="count">3</span> Storys
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Sesión de fotos en estudio
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Administracion en redes sociales
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Actualizacion en redes sociales
+										</li>
+										<li class="position-item">
+											<i class="fa fa-caret-right" aria-hidden="true"></i>
+											Campañas y anuncios
+										</li>										
 									</ul>
-									<h4 class="rate">$169.99</h4>
+									<p class="h6 pb30">
+										<b>Inversión 1 mes</b> 
+										<span class="rate">s/.800</span>
+										<br><b>4to mes Dscto</b>
+										<span class="rate">25%</span>
+									</p>
 									<a href="#" class="btn btn-medium btn--dark">
 										<span class="text">Order Now!</span>
 										<span class="semicircle"></span>
