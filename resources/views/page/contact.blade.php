@@ -116,6 +116,7 @@
 
 <div class="section">
     <!--<div id="map"></div>-->
+    <!--
     <div class="container align-center medium-padding80 ">
         <h3>Ubícanos en:</h3>
         <div class="row">
@@ -128,6 +129,7 @@
             </div>
         </div>
     </div> 
+    -->
 </div>
 
 <!-- End Leaflet map -->

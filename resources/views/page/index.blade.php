@@ -4,6 +4,7 @@
     <title>Agencia de Diseño Web y Marketing Digital | NEBULA Cusco 2021</title>
 @endsection
 @section('content')
+	<!--SLIDER-->
     <div class="container-full-width">
         <div class="swiper-container main-slider" data-effect="fade" data-autoplay="4000">
             <!-- SLIDER -->
@@ -221,12 +222,12 @@
                 <use xlink:href="#arrow-left"></use>
             </svg>
         </div>
-    </div>
-
-    <div class="container pb80">
+	</div>
+	<!--SERVICES-->
+    <div class="container">
         <div class="row align-center pb30">
             <div class="heading">
-                <h2 class="heading-title c-gray">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
+                <h2 class="heading-title">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
                 <div class="heading-line">
                     <span class="short-line"></span>
                     <span class="long-line"></span>
@@ -235,7 +236,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 pb30">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-primary-color">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/branding.png" alt="service">
@@ -255,7 +256,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 pb30">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-green-color">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/sitio-web.png" alt="pagina-Web">
@@ -275,7 +276,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 pb30">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-orange-color">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/redes-sociales.png" alt="redes-sociales">
@@ -295,48 +296,47 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 pb30">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-orangedark-color">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/seo.png" alt="seo">
                     </div>
                     <div class="servises-item__content">
-						<h3 class="servises-title align-center">SEO</h3>
-						<br>
+						<h3 class="servises-title align-center">SEO</h3><br>
                         <p class="servises-text">
 							Estrategia de Marketing SEO y Posicionamiento de negocios en internet 
-                        </p>
+                        </p><br><br>
 					</div>
                     <div class="align-center">
                         <a href="/seo-y-posicionamiento-web-peru" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
                             <span class="text">Te van a querer ver</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
-                        </a>
+                        </a><br><br>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 pb30">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-secondary-color">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/audio-visual.png" alt="service">
                     </div>
                     <div class="servises-item__content">
-                        <h3 class="servises-title align-center">PRODUCCION AUDIOVISUAL</h3>
+                        <h3 class="servises-title align-center">PRODUCCIÓN AUDIOVISUAL</h3>
                         <p class="servises-text">
 							Edición y producción de videos para productos, servicios y eventos.
-                        </p>
+                        </p><br><br>
                     </div>
                     <div class="align-center">
                         <a href="/Audio-Visual-Production" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
                             <span class="text">Te van a inspirar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
-                        </a>
+                        </a><br><br>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 pb30">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-violet-color">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/educacion.png" alt="educacion">
@@ -346,187 +346,185 @@
 						<br>
                         <p class="servises-text">
 							Aprende todo sobre nuestros productos y crea tu modelo de negocios para ti.
-                        </p>
+                        </p><br><br>
                     </div>
                     <div class="align-center">
                         <a href="/Nebula-EDU" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
                             <span class="text">Te van a enseñar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
-                        </a>
+                        </a><br><br>
                     </div>
                 </div>
 			</div>
-			
         </div>
     </div>
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="background-mountains scrollme">
-                <div class="images">
-                    <img loading="lazy" src="img/mountain1.png" alt="mountain">
-                    <img loading="lazy" src="img/mountain2.png" alt="mountain">
-                </div>
-                <div class="container">
-                    <div class="row align-center">
-                        <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
-                            <div class="heading ">
-                                <h2 class="heading-title">¿POR QUE NEBULA?</h2>
-                                <div class="heading-line">
-                                    <span class="short-line"></span>
-                                    <span class="long-line"></span>
-                                </div>
-                                <p class="heading-text">Nos caracterizamos por:
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                            <div class="info-box--standard-centered">
-                                <div class="info-box-image">
-                                    <img loading="lazy" src="img/info-box7.png" alt="image">
-                                </div>
-                                <div class="info-box-content">
-                                    <h4 class="info-box-title">Nosotros</h4>
-                                    <p class="text">Somos un equipo creativo, apasionado con ganas de ayudarte.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                            <div class="info-box--standard-centered">
-                                <div class="info-box-image">
-                                    <img loading="lazy" src="img/info-box8.png" alt="image">
-                                </div>
-                                <div class="info-box-content">
-                                    <h4 class="info-box-title">Calidad</h4>
-                                    <p class="text">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                            <div class="info-box--standard-centered">
-                                <div class="info-box-image">
-                                    <img loading="lazy" src="img/info-box9.png" alt="image">
-                                </div>
-                                <div class="info-box-content">
-                                    <h4 class="info-box-title">Confianza</h4>
-                                    <p class="text">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                            <div class="info-box--standard-centered">
-                                <div class="info-box-image">
-                                    <img loading="lazy" src="img/info-box10.png" alt="image">
-                                </div>
-                                <div class="info-box-content">
-                                    <h4 class="info-box-title">Conversemos</h4>
-                                    <p class="text">Nos gustaría ayudarete, ¡JUNTÉMONOS!.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+	<!--WHY-->
+    <div class="container-fluid pt80">
+		<div class="row">
+			<div class="background-mountains scrollme">
+				<div class="images">
+					<img loading="lazy" src="img/mountain1.png" alt="mountain">
+					<img loading="lazy" src="img/mountain2.png" alt="mountain">
+				</div>
+				<div class="container">
+					<div class="row align-center">
+						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
+							<div class="heading">
+								<h2 class="heading-title">¿POR QUÉ NEBULA?</h2>
+								<div class="heading-line">
+									<span class="short-line"></span>
+									<span class="long-line"></span>
+								</div>
+								<p class="heading-text">NOS CARACTERIZAMOS POR
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+							<div class="info-box--standard-centered">
+								<div class="info-box-image">
+									<img loading="lazy" src="img/info-box7.png" alt="image">
+								</div>
+								<div class="info-box-content">
+									<h4 class="info-box-title">Nosotros</h4>
+									<p class="text">Somos un equipo creativo, apasionado con ganas de ayudarte.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+							<div class="info-box--standard-centered">
+								<div class="info-box-image">
+									<img loading="lazy" src="img/info-box8.png" alt="image">
+								</div>
+								<div class="info-box-content">
+									<h4 class="info-box-title">Calidad</h4>
+									<p class="text">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+							<div class="info-box--standard-centered">
+								<div class="info-box-image">
+									<img loading="lazy" src="img/info-box9.png" alt="image">
+								</div>
+								<div class="info-box-content">
+									<h4 class="info-box-title">Confianza</h4>
+									<p class="text">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+							<div class="info-box--standard-centered">
+								<div class="info-box-image">
+									<img loading="lazy" src="img/info-box10.png" alt="image">
+								</div>
+								<div class="info-box-content">
+									<h4 class="info-box-title">Conversemos</h4>
+									<p class="text">Nos gustaría ayudarte, ¡JUNTÉMONOS!.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--ABOUT YOU-->
     <div class="container medium-padding80">
         <div class="row align-center">
             <div class="heading ">
-                <h2 class="heading-title">Acerca de ti:</h2>
-                <span class="heading-text">Que perfil te identifica</span>
-                <div class="counters-modern">
-                    <div class="counter-item-modern">
-                        <i class="seoicon-play c-secondary " style="transform:rotate(90deg);font-size:2em"></i>
-                    </div>
-                </div>
+				<h2 class="heading-title">ACERCA DE TÍ</h2>
+				<div class="heading-line">
+					<span class="short-line"></span>
+					<span class="long-line"></span>
+				</div>
+                <p class="heading-text">¿QUE PERFIL TE IDENTIFICA?</p>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-8">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
-                    <img loading="lazy" src="svg/emprendedor01-2.svg" alt="emprendedor">
-                    <h6 class="case-item__text">Emprendedor de un startup</h6>
+					<img loading="lazy" src="img/START-UP.png" alt="start-up">
+					<h6 class="case-item__title">START UP</h6>
+                    <h6 class="case-item__text">Iniciando algo grande</h6>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-8">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
-                    <img loading="lazy" src="svg/emprendedor02b.svg" alt="emprendedor">
-                    <h6 class="case-item__text">Empresario que recién comienza</h6>
+					<img loading="lazy" src="img/EMPRENDEDOR.png" alt="emprendedor">
+					<h6 class="case-item__title">EMPRENDEDOR</h6>
+                    <h6 class="case-item__text">Listo para dar el sgte gran paso</h6>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-8">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
-                    <img loading="lazy" src="svg/emprendedor03c.svg" alt="emprendedor">
-                    <h6 class="case-item__text">Profesional que representa a una empresa grande</h6>
+					<img loading="lazy" src="img/MIEMBRO-DE-EMPRESA.png" alt="empresa">
+					<h6 class="case-item__title">EMPRESA</h6>
+                    <h6 class="case-item__text">Servicios a la medida</h6>
                 </div>
-            </div>      
-            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-8">
-                <div class="case-item align-center">
-                    <img loading="lazy" src="svg/emprendedor04b.svg" alt="emprendedor">
-                    <h6 class="case-item__text">Gerente de mi propio negocio</h6>
-                </div>
-            </div>
-        </div>
+            </div>   
+		</div>
     </div>
-
+	<!--OUR PROJECTS-->
     <div class="container-fluid align-center pb80">
         <div class="row">
             <div class="heading ">
-                <h2 class="heading-title">Nuestros Proyectos</h2>
-                <div class="counters-modern">
-                    <div class="counter-item-modern">
-                        <i class="seoicon-play c-secondary " style="transform:rotate(90deg);font-size:2em"></i>
-                    </div>
-                </div>
+                <h2 class="heading-title">NUESTROS PROYECTOS</h2>
+                <div class="heading-line">
+					<span class="short-line"></span>
+					<span class="long-line"></span>
+				</div>
+                <p class="heading-text">ESTOS SON ALGUNOS</p>
             </div>
         </div>
-		<div class="row ">
-			<div class="container">
-				<div class="row pb30">
-					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                        <div class="features-item">
-                            <iframe width="280" height="420" src="https://www.instagram.com/p/XmLlLsoqEF/embed" frameborder="0">
-                            </iframe>
-                            
-                        </div>
+		<div class="container align-center">
+			<div class="row pb30 align-center">
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+					<div class="features-item">
+						<blockquote class="instagram-media" 
+							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+						</blockquote>    
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-						<div class="features-item">
-                            <iframe width="280" height="420" src="https://www.instagram.com/p/XmLlLsoqEF/embed" frameborder="0">
-                            </iframe>
-						</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+					<div class="features-item">
+						<blockquote class="instagram-media" 
+							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+						</blockquote>    
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-						<div class="features-item">
-                            <iframe width="280" height="420" src="https://www.instagram.com/p/XmLlLsoqEF/embed" frameborder="0">
-                            </iframe>
-						</div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-						<div class="features-item">
-                            <iframe width="280" height="420" src="https://www.instagram.com/p/XmLlLsoqEF/embed" frameborder="0">
-                            </iframe>
-						</div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-						<div class="features-item">
-                            <iframe width="280" height="420" src="https://www.instagram.com/p/XmLlLsoqEF/embed" frameborder="0">
-                            </iframe>
-						</div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-						<div class="features-item">
-                            <iframe width="280" height="420" src="https://www.instagram.com/p/XmLlLsoqEF/embed" frameborder="0">
-                            </iframe>
-						</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+					<div class="features-item">
+						<blockquote class="instagram-media" 
+							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+						</blockquote>    
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+					<div class="features-item">
+						<blockquote class="instagram-media" 
+							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+						</blockquote>    
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+					<div class="features-item">
+						<blockquote class="instagram-media" 
+							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+						</blockquote>    
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+					<div class="features-item">
+						<blockquote class="instagram-media" 
+							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+						</blockquote>    
 					</div>
 				</div>
 			</div>
@@ -537,144 +535,162 @@
             <span class="semicircle"></span>
         </a>
     </div>
-    
-    <div class="container-fluid align-center">
-		<div class="row">
-			<div class="pricing-tables bg-border-color">
-				<div class="container medium-padding80">
-					<div class="row">
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">								
-                            <div class="heading ">
-                                <h2 class="heading-title">Nuestros Precios</h2>
-                                <p class="heading-text">
-                                    Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium.
-                                </p>
-                            </div>
+    <!--PRICES-->
+	<div class="container-fluid pb80">
+		
+		<div class="pricing-tables">
+			<div class="heading align-center pb30">
+				<h2 class="heading-title">NUESTROS PRECIOS</h2>
+				<div class="heading-line">
+					<span class="short-line"></span>
+					<span class="long-line"></span>
+				</div>
+				<p class="heading-text">ALGUNAS DE NUESTRAS OFERTAS</p>
+			</div>
+			<div class="container no-padding">		
+				<div class="pricing-tables-wrap no-padding">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
+						<div class="pricing-tables-item">
+							<div class="pricing-tables-icon">
+								<img loading="lazy" src="img/pricing1.png" alt="personal">
+							</div>
+							<a href="/diseño-paginas-web-para-empresas-en-peru" class="pricing-title">Diseño Web</a>
+							<b class="h5 c-secondary">Landing</b><br><br>
+							<ul class="pricing-tables-position">
+								<li class="position-item">
+									<span class="count">5</span>
+									Analytics Campaigns
+								</li>
+								<li class="position-item">
+									<span class="count">300</span>
+									Keywords
+								</li>
+								<li class="position-item">
+									<span class="count">250,000</span>
+									Crawled Pages
+								</li>
+								<li class="position-item">
+									-
+								</li>
+								<li class="position-item">
+									<span class="count">15</span>
+									Social Accounts
+								</li>
+							</ul>
+							<h4 class="rate">$49.99</h4>
+							<a href="/diseño-paginas-web-para-empresas-en-peru" class="btn btn-medium btn--dark">
+								<span class="text">¡Ver más!</span>
+								<span class="semicircle"></span>
+							</a>
+							<img loading="lazy" src="img/pricing-dots.png" class="dots" alt="dots">
+						</div>
+
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
+						<div class="pricing-tables-item">
+							<div class="pricing-tables-icon">
+								<img loading="lazy" src="img/pricing2.png" alt="personal">
+							</div>
+							<a href="/publicidad-marketing-en-redes-sociales" class="pricing-title">Redes Sociales</a>
+							<b class="h5 c-secondary">Combo Emprendedor</b><br><br>
+							<ul class="pricing-tables-position align-left h6">
+								<li class="position-item h5">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									<span class="count">8</span> POST
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									<span class="count">6</span> Diseños gráficos para su post
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									<span class="count">1</span> Diseño gráfico para su perfil
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									<span class="count">1</span> Diseño gráfico para su portada
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Administracion en redes sociales
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Actualizacion en redes sociales
+								</li>									
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Campañas y anuncios
+								</li><br><br><br>
+							</ul>
+							<p class="h6 pb30">
+								<b>Inversión 1 mes</b> 
+								<span class="rate">s/.250</span>
+								<br><b>4to mes Dscto</b>
+								<span class="rate">25%</span>
+							</p>
+							<a href="/publicidad-marketing-en-redes-sociales" class="btn btn-medium btn--dark">
+								<span class="text">¡Ver más!</span>
+								<span class="semicircle"></span>
+							</a>
+							<img loading="lazy" src="img/pricing-dots.png" class="dots" alt="dots">
 						</div>
 					</div>
-
-					<div class="row">
-						<div class="pricing-tables-wrap ">
-							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-								<div class="pricing-tables-item">
-									<div class="pricing-tables-icon">
-										<img loading="lazy" src="img/pricing1.png" alt="personal">
-                                    </div>
-                                    <div class="pb30">
-                                        <h4 class="pricing-title">PAGINAS WEB</h4>
-                                        <h5><b>Landing Page</b></h5>
-                                    </div>
-									<ul class="pricing-tables-position">
-										<li class="position-item">
-											<span class="count">5</span>
-											Analytics Campaigns
-										</li>
-										<li class="position-item">
-											<span class="count">300</span>
-											Keywords
-										</li>
-										<li class="position-item">
-											<span class="count">250,000</span>
-											Crawled Pages
-										</li>
-										<li class="position-item">
-											-
-										</li>
-										<li class="position-item">
-											<span class="count">15</span>
-											Social Accounts
-										</li>
-									</ul>
-									<h4 class="rate">$100 USD</h4>
-									<a href="20_checkout.html" class="btn btn-medium btn--dark">
-										<span class="text">Order Now!</span>
-										<span class="semicircle"></span>
-									</a>
-								</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
+						<div class="pricing-tables-item">
+							<div class="pricing-tables-icon">
+								<img loading="lazy" src="img/pricing3.png" alt="personal">
 							</div>
+							<a href="/seo-y-posicionamiento-web-peru" class="pricing-title">SEO</a>
+							<b class="h5 c-secondary">Plan Básico</b><br><br>
+							<ul class="pricing-tables-position align-left h6">										
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Keywords de baja y mediana competencia
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Resultados entre 3-7 meses
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									SEO posicionamiento - <span class="count">6 keywords</span>
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Colocamos 80%-100% en 1era. PÁGINA GOOGLE
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									SEO local de la keyword principal
+								</li>
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Estrategias de Linkbuilding profesional
+								</li>									
+								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Seguimiento y Reporte Estadístico de la campaña
+								</li>
+							</ul>
+							<p class="h6 pb30">
+								<b>Desde</b> 
+								<span class="rate">s/.650</span>
+								<br><b>por mes</b>
+							</p>
+							<a href="/seo-y-posicionamiento-web-peru" class="btn btn-medium btn--dark">
+								<span class="text">¡Ver más!</span>
+								<span class="semicircle"></span>
+							</a>
 
-							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-								<div class="pricing-tables-item">
-									<div class="pricing-tables-icon">
-										<img loading="lazy" src="img/pricing2.png" alt="personal">
-									</div>
-									<div class="pb30">
-                                        <h4 class="pricing-title">REDES SOCIALES</h4>
-                                        <h5><b>Plan Emprendedor</b></h5>
-                                    </div>
-									<ul class="pricing-tables-position">
-										<li class="position-item">
-											<span class="count">25</span>
-											Analytics Campaigns
-										</li>
-										<li class="position-item">
-											<span class="count">1,900</span>
-											Keywords
-										</li>
-										<li class="position-item">
-											<span class="count">1,250,000</span>
-											Crawled Pages
-										</li>
-										<li class="position-item include">
-											Includes Branded Reports
-										</li>
-										<li class="position-item">
-											<span class="count">50</span>
-											Social Accounts
-										</li>
-									</ul>
-									<h4 class="rate">$70 USD</h4>
-									<a href="20_checkout.html" class="btn btn-medium btn--dark">
-										<span class="text">Order Now!</span>
-										<span class="semicircle"></span>
-                                    </a>
-                                </div>
-							</div>
-
-							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-								<div class="pricing-tables-item">
-									<div class="pricing-tables-icon">
-										<img loading="lazy" src="img/pricing3.png" alt="personal">
-									</div>
-									<div class="pb30">
-                                        <h4 class="pricing-title">SEO</h4>
-                                        <h5><b>Plan Base</b></h5>
-                                    </div>
-									<ul class="pricing-tables-position">
-										<li class="position-item">
-											<span class="count">100</span>
-											Analytics Campaigns
-										</li>
-										<li class="position-item">
-											<span class="count">7500</span>
-											Keywords
-										</li>
-										<li class="position-item">
-											<span class="count">1,250,000</span>
-											Crawled Pages
-										</li>
-										<li class="position-item include">
-											Includes Branded Reports
-										</li>
-										<li class="position-item">
-											<span class="count">150</span>
-											Social Accounts
-										</li>
-									</ul>
-									<h4 class="rate">$120 USD</h4>
-									<a href="20_checkout.html" class="btn btn-medium btn--dark">
-										<span class="text">Order Now!</span>
-										<span class="semicircle"></span>
-                                    </a>
-                                </div>
-							</div>
+							<img loading="lazy" src="img/pricing-dots.png" class="dots" alt="dots">
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-    </div>
-
+	</div>
+	<!--COMENTS CLIENTS-->							
     <div class="container-fluid">
 		<div class="row">
 			<div class="testimonial-slider scrollme">
@@ -687,7 +703,8 @@
 									<span class="short-line bg-yellow-color"></span>
 									<span class="long-line bg-yellow-color"></span>
 								</div>
-								<p class="heading-text c-white">Claritas est etiam processus dynamicus, qui lectorum.
+								<p class="heading-text c-white">
+									Algunos comentarios que expresan nuestros clientes acerca de nuestra empresa
 								</p>
 							</div>
 							<div class="signature js-animate-icon">
@@ -775,20 +792,18 @@
 			</div>
 		</div>
     </div>
-    
+    <!--CLIENTS BRANDS-->
     <div class="container">
 		<div class="container medium-padding80">
             <div class="row pb30">
-                <div class="heading align-center">
-                    <h2 class="h1 heading-title">Mas de <b>100</b> clientes satisfechos</h2>
-                    <div class="counters-modern">
-						<div class="counter-item-modern">
-							<i class="seoicon-play c-secondary " style="transform:rotate(90deg);font-size:2em"></i>
-						</div>
-                	</div>
-                </div>
-            </div>
-            
+				<div class="heading align-center pb30">
+					<h2 class="heading-title">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
+					<div class="heading-line">
+						<span class="short-line"></span>
+						<span class="long-line"></span>
+					</div>
+				</div>
+            </div>           
             <div class="row">
                 <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
                     <a href="09_our_clients.html" class="client-image">
@@ -829,11 +844,31 @@
                     <a href="09_our_clients.html" class="client-image">
                         <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
                     </a>
+				</div>
+				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <a href="09_our_clients.html" class="client-image">
+                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
+                    </a>
+				</div>
+				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <a href="09_our_clients.html" class="client-image">
+                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
+                    </a>
+				</div>
+				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <a href="09_our_clients.html" class="client-image">
+                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
+                    </a>
+				</div>
+				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <a href="09_our_clients.html" class="client-image">
+                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
+                    </a>
                 </div>
             </div>
         </div>
     </div>
-
+	<!--TALKING-->
     <div class="container-fluid">
 		<div class="row">
 			<div class="seo-score scrollme">
@@ -861,7 +896,7 @@
                                             </div>
 										</div>
 										<button class="btn btn-medium btn--green btn-hover-shadow">
-											<span class="text">Check Up!</span>
+											<span class="text">Enviar</span>
 											<span class="semicircle"></span>
 										</button>
 									</form>
@@ -879,6 +914,7 @@
 
 			</div>
 		</div>
-	</div>
+	</div>	
+	
 
 @endsection

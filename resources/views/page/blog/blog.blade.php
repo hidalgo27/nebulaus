@@ -19,9 +19,9 @@
 @section('contentBlog')
 	<article class="hentry post post-standard has-post-thumbnail sticky">
 		<div class="post-thumb">
-			<img loading="lazy" src="img/post1.jpg" alt="seo">
+			<img loading="lazy" src="img/blog/definir-publico-objetivo.jpg" alt="seo">
 			<div class="overlay"></div>
-			<a href="img/post1.jpg" class="link-image js-zoom-image">
+			<a href="img/blog/definir-publico-objetivo.jpg" class="link-image js-zoom-image">
 				<i class="seoicon-zoom"></i>
 			</a>
 			<a href="/Objetive-Public" class="link-post">
@@ -68,9 +68,9 @@
 	<article class="hentry post post-standard has-post-thumbnail sticky">
 
 		<div class="post-thumb">
-			<img loading="lazy" src="img/post1.jpg" alt="seo">
+			<img loading="lazy" src="img/blog/posicionamiento-de-marca.jpg" alt="seo">
 			<div class="overlay"></div>
-			<a href="img/post1.jpg" class="link-image js-zoom-image">
+			<a href="img/blog/posicionamiento-de-marca.jpg" class="link-image js-zoom-image">
 				<i class="seoicon-zoom"></i>
 			</a>
 			<a href="/Position-Brand" class="link-post">
@@ -113,9 +113,9 @@
 	<article class="hentry post post-standard has-post-thumbnail sticky">
 
 		<div class="post-thumb">
-			<img loading="lazy" src="img/post1.jpg" alt="seo">
+			<img loading="lazy" src="img/blog/audio-video.jpg" alt="seo">
 			<div class="overlay"></div>
-			<a href="img/post1.jpg" class="link-image js-zoom-image">
+			<a href="img/blog/audio-video.jpg" class="link-image js-zoom-image">
 				<i class="seoicon-zoom"></i>
 			</a>
 			<a href="/Position-Brand" class="link-post">
@@ -159,9 +159,9 @@
 	<article class="hentry post post-standard has-post-thumbnail sticky">
 
 		<div class="post-thumb">
-			<img loading="lazy" src="img/post1.jpg" alt="seo">
+			<img loading="lazy" src="img/blog/creacion-pagina-web.jpg" alt="seo">
 			<div class="overlay"></div>
-			<a href="img/post1.jpg" class="link-image js-zoom-image">
+			<a href="img/blog/creacion-pagina-web.jpg" class="link-image js-zoom-image">
 				<i class="seoicon-zoom"></i>
 			</a>
 			<a href="/Position-Brand" class="link-post">
@@ -205,9 +205,9 @@
 	<article class="hentry post post-standard has-post-thumbnail sticky">
 
 		<div class="post-thumb">
-			<img loading="lazy" src="img/post1.jpg" alt="seo">
+			<img loading="lazy" src="img/blog/branding-porque-es-importante.jpg" alt="seo">
 			<div class="overlay"></div>
-			<a href="img/post1.jpg" class="link-image js-zoom-image">
+			<a href="img/blog/branding-porque-es-importante.jpg" class="link-image js-zoom-image">
 				<i class="seoicon-zoom"></i>
 			</a>
 			<a href="/Position-Brand" class="link-post">
@@ -251,9 +251,9 @@
 	<article class="hentry post post-standard has-post-thumbnail sticky">
 
 		<div class="post-thumb">
-			<img loading="lazy" src="img/post1.jpg" alt="seo">
+			<img loading="lazy" src="img/blog/B2B-marketing.jpg" alt="seo">
 			<div class="overlay"></div>
-			<a href="img/post1.jpg" class="link-image js-zoom-image">
+			<a href="img/blog/B2B-marketing.jpg" class="link-image js-zoom-image">
 				<i class="seoicon-zoom"></i>
 			</a>
 			<a href="/Position-Brand" class="link-post">

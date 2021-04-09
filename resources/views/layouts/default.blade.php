@@ -261,23 +261,20 @@
     <div class="container-fluid bg-green-color">
 		<div class="row">
 			<div class="container">
-
 				<div class="row">
-
 					<div class="subscribe scrollme">
-
 						<div class="col-lg-6 col-lg-offset-5 col-md-6 col-md-offset-5 col-sm-12 col-xs-12">
-							<h4 class="subscribe-title">Email Newsletters!</h4>
+							<h4 class="subscribe-title">Emprende con Nosotros</h4>
 							<form class="subscribe-form crumina-submit" method="post" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
-								<input class="input-standard-grey input-white" name="email" placeholder="Your Email Address" type="email" required>
-								<button class="subscr-btn">subscribe
+								<input class="input-standard-grey input-white" name="email" placeholder="Tu email" type="email" required>
+								<button class="subscr-btn">¡Únete!
 									<span class="semicircle--right"></span>
 								</button>
 							</form>
-							<div class="sub-title">Sign up for new Seosignt content, updates, surveys & offers.</div>
-
+							<div class="sub-title">
+                                Sé el primero en recibir las mejores ofertas. ¡No pierdas oportunidades!
+                            </div>
 						</div>
-
 						<div class="images-block">
 							<img loading="lazy" src="img/subscr-gear.png" alt="gear" class="gear">
 							<img loading="lazy" src="img/subscr1.png" alt="mail" class="mail">
@@ -575,7 +572,7 @@
 <script src="{{asset('vendor/modules/forms/src/js/sweetalert2.all.js')}}"></script>
 <script src="{{asset('vendor/modules/forms/src/js/scripts.js')}}"></script>
 <!-- /jQuery-scripts for Modules (Send Message) -->
-
+<script async src="//www.instagram.com/embed.js"></script>
 <!-- ...end JS Script -->
 
 </body>
