@@ -11,7 +11,7 @@
 				<li class="breadcrumbs-item">
 					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
-					<a href="Our-services">Servicios</a>
+					<a href="/#servicios">Servicios</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
@@ -26,7 +26,7 @@
 		<div class="container">
 			<div class="row" >
 				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
-					<div class="heading pb30 align-center">	
+					<div class="heading pb30 align-center">
 						<h1 class="h1">Diseño de Página Web 2021</h1>
 						<div class="heading-line">
 							<span class="short-line bg-yellow-color"></span>
@@ -34,9 +34,9 @@
 						</div>
 						<p class="heading-text">
 							Diseñamos las mejores páginas web para empresas y negocios de todos los tamaños,  páginas web a medida para empresas online.
-						</p> 
+						</p>
 					</div>
-					<p class="h4 pb30">PRECIOS</p>			
+					<p id="precios" class="h4 pb30">PRECIOS</p>
 					<table>
 						<tbody class="h5">
 							<tr>
@@ -328,7 +328,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="overlay_search">
 		<div class="container">
 			<div class="row">

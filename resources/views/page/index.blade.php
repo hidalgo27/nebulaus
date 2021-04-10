@@ -15,10 +15,10 @@
 							<div class="col-lg-12">
 								<div class="slider-content align-center">
 									<h1 class="slider-content-title" data-swiper-parallax="-100">
-                                        BRANDING
+                                        Agencia de marketing digital y publicidad Cusco
                                     </h1>
 									<h5 class="slider-content-text c-gray" data-swiper-parallax="-200">
-                                        Discover More AboutOur SEO Expertise!
+                                        Somos una agencia de marketing especializada en servicios digitales  e integrales
                                     </h5>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 										<a href="04_service_detail_seo.html" class="btn btn-medium btn--dark btn-hover-shadow">
@@ -42,14 +42,10 @@
 							<div class="col-lg-5 table-cell">
 								<div class="slider-content">
 									<h3 class="slider-content-title" data-swiper-parallax="-100">
-										<span class="c-dark">DISEÑO WEB</span>
-										is about bringing
-										customers through
-										your doors.</h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">Ut wisi enim ad minim
-										veniam, quis nostrud exerci tation
-										ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat
-										eleifend option.
+										<span class="c-dark">¡Promoción!</span>
+                                        Diseño Web Para Empresas.</h3>
+									<p class="slider-content-text" data-swiper-parallax="-200">
+                                        Servicio de <b>diseño</b> y desarrollo <b>web para tu negocio</b> a medida, consulta precios y promoción REACTIVACIÓN-10%reactivación
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 										<a href="05_service_details_localseo.html"
@@ -78,11 +74,10 @@
 						<div class="row table-cell">
 							<div class="col-lg-6 table-cell">
 								<div class="slider-content">
-									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">REDES SOCIALES
-									</h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">An effective social strategy
-										can help you grow your
-										business, maintain your social presence and engage with the audience.
+									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Marketing y Publicidad en Redes Social
+                                    </h3>
+									<p class="slider-content-text" data-swiper-parallax="-200">
+                                        Conoce nuestro servicio de Estrategias de marketing en redes sociales para empresas o negocios, ¡Solicita más Información!  GRATIS
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 										<a href="06_service_detail.html" class="btn btn-medium btn--dark btn-hover-shadow">
@@ -109,12 +104,7 @@
 						<div class="row table-cell">
 							<div class="col-lg-12">
 								<div class="slider-content align-center">
-									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">SEO</h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">We create tailored marketing
-										campaigns for each segment
-										of your audience to help advertise products and services in efforts to efficiently
-										and effectively engage new customers.
-                                    </p>
+									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">¡Promoción! agencia de diseño y marketing digital</h3>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 
 										<a href="07_service_email_marketing.html"
@@ -133,86 +123,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-green-color main-slider-bg-dark">
-					<div class="container table">
-						<div class="row table-cell">
-							<div class="col-lg-6 table-cell">
-								<div class="slider-content">
-									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">
-										PRODUCCIÒN AUDIOVISUAL
-									</h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">Pay Per Click has an instant
-										impact and gives
-										your brand a much larger reach and exposure as a result of first page exposure on
-										major search engines.
-                                    </p>
-									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="08_service_ppc_management.html"
-										   class="btn btn-medium btn--dark btn-hover-shadow">
-											<span class="text">learn more</span>
-											<span class="semicircle"></span>
-										</a>
-
-										<a href="08_service_ppc_management.html"
-										   class="btn btn-medium btn-border btn-hover-shadow">
-											<span class="text">GET STARTED</span>
-											<span class="semicircle"></span>
-										</a>
-
-									</div>
-
-								</div>
-							</div>
-
-							<div class="col-lg-6 table-cell">
-								<div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-									<img loading="lazy" src="img/slider5.png" alt="slider">
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide bg-violet-color main-slider-bg-dark">
-					<div class="container table">
-						<div class="row table-cell">
-							<div class="col-lg-6 table-cell">
-								<div class="slider-content">
-									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">
-										NEBULA EDU
-									</h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">Pay Per Click has an instant
-										impact and gives
-										your brand a much larger reach and exposure as a result of first page exposure on
-										major search engines.
-                                    </p>
-									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="08_service_ppc_management.html"
-										   class="btn btn-medium btn--dark btn-hover-shadow">
-											<span class="text">learn more</span>
-											<span class="semicircle"></span>
-										</a>
-
-										<a href="08_service_ppc_management.html"
-										   class="btn btn-medium btn-border btn-hover-shadow">
-											<span class="text">GET STARTED</span>
-											<span class="semicircle"></span>
-										</a>
-
-									</div>
-
-								</div>
-							</div>
-
-							<div class="col-lg-6 table-cell">
-								<div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-									<img loading="lazy" src="img/slider5.png" alt="slider">
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
 			</div>
             <!--Prev next buttons-->
             <svg class="btn-next btn-next-black">
@@ -224,7 +134,7 @@
         </div>
 	</div>
 	<!--SERVICES-->
-    <div class="container">
+    <div id="servicios" class="container">
         <div class="row align-center pb30">
             <div class="heading">
                 <h2 class="heading-title">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
@@ -304,7 +214,7 @@
                     <div class="servises-item__content">
 						<h3 class="servises-title align-center">SEO</h3><br>
                         <p class="servises-text">
-							Estrategia de Marketing SEO y Posicionamiento de negocios en internet 
+							Estrategia de Marketing SEO y Posicionamiento de negocios en internet
                         </p><br><br>
 					</div>
                     <div class="align-center">
@@ -468,7 +378,7 @@
 					<h6 class="case-item__title">EMPRESA</h6>
                     <h6 class="case-item__text">Servicios a la medida</h6>
                 </div>
-            </div>   
+            </div>
 		</div>
     </div>
 	<!--OUR PROJECTS-->
@@ -487,44 +397,44 @@
 			<div class="row pb30 align-center">
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
-						<blockquote class="instagram-media" 
+						<blockquote class="instagram-media"
 							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-						</blockquote>    
+						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
-						<blockquote class="instagram-media" 
+						<blockquote class="instagram-media"
 							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-						</blockquote>    
+						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
-						<blockquote class="instagram-media" 
+						<blockquote class="instagram-media"
 							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-						</blockquote>    
+						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
-						<blockquote class="instagram-media" 
+						<blockquote class="instagram-media"
 							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-						</blockquote>    
+						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
-						<blockquote class="instagram-media" 
+						<blockquote class="instagram-media"
 							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-						</blockquote>    
+						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
-						<blockquote class="instagram-media" 
+						<blockquote class="instagram-media"
 							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-						</blockquote>    
+						</blockquote>
 					</div>
 				</div>
 			</div>
@@ -537,7 +447,7 @@
     </div>
     <!--PRICES-->
 	<div class="container-fluid pb80">
-		
+
 		<div class="pricing-tables">
 			<div class="heading align-center pb30">
 				<h2 class="heading-title">NUESTROS PRECIOS</h2>
@@ -547,7 +457,7 @@
 				</div>
 				<p class="heading-text">ALGUNAS DE NUESTRAS OFERTAS</p>
 			</div>
-			<div class="container no-padding">		
+			<div class="container no-padding">
 				<div class="pricing-tables-wrap no-padding">
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
 						<div class="pricing-tables-item">
@@ -578,7 +488,7 @@
 								</li>
 							</ul>
 							<h4 class="rate">$49.99</h4>
-							<a href="/diseño-paginas-web-para-empresas-en-peru" class="btn btn-medium btn--dark">
+							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-medium btn--dark">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
 							</a>
@@ -617,14 +527,14 @@
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
 									Actualizacion en redes sociales
-								</li>									
+								</li>
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
 									Campañas y anuncios
 								</li><br><br><br>
 							</ul>
 							<p class="h6 pb30">
-								<b>Inversión 1 mes</b> 
+								<b>Inversión 1 mes</b>
 								<span class="rate">s/.250</span>
 								<br><b>4to mes Dscto</b>
 								<span class="rate">25%</span>
@@ -643,7 +553,7 @@
 							</div>
 							<a href="/seo-y-posicionamiento-web-peru" class="pricing-title">SEO</a>
 							<b class="h5 c-secondary">Plan Básico</b><br><br>
-							<ul class="pricing-tables-position align-left h6">										
+							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
 									Keywords de baja y mediana competencia
@@ -667,14 +577,14 @@
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
 									Estrategias de Linkbuilding profesional
-								</li>									
+								</li>
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
 									Seguimiento y Reporte Estadístico de la campaña
 								</li>
 							</ul>
 							<p class="h6 pb30">
-								<b>Desde</b> 
+								<b>Desde</b>
 								<span class="rate">s/.650</span>
 								<br><b>por mes</b>
 							</p>
@@ -690,7 +600,7 @@
 			</div>
 		</div>
 	</div>
-	<!--COMENTS CLIENTS-->							
+	<!--COMENTS CLIENTS-->
     <div class="container-fluid">
 		<div class="row">
 			<div class="testimonial-slider scrollme">
@@ -803,7 +713,7 @@
 						<span class="long-line"></span>
 					</div>
 				</div>
-            </div>           
+            </div>
             <div class="row">
                 <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
                     <a href="09_our_clients.html" class="client-image">
@@ -914,7 +824,7 @@
 
 			</div>
 		</div>
-	</div>	
-	
+	</div>
+
 
 @endsection

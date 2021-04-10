@@ -12,7 +12,7 @@
 				<li class="breadcrumbs-item">
 					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
-					<a href="/Our-Services">Servicios</a>
+					<a href="/#servicios">Servicios</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
@@ -58,7 +58,7 @@
 					<div class="heading mb30">
 						<h4 class="h3 heading-title">Creación de Contenidos Para Redes Sociales</h4>
 						<p>
-							Ideamos estrategias de contenido a media para tu negocio, teniendo en cuenta los formatos y las redes sociales que se adecuen a tu marca (Producto, Servicio), así mismo asignamos a nuestros especialistas en diseños estratégicos para cada tipo de negocio y creación de videos promocionales.  
+							Ideamos estrategias de contenido a media para tu negocio, teniendo en cuenta los formatos y las redes sociales que se adecuen a tu marca (Producto, Servicio), así mismo asignamos a nuestros especialistas en diseños estratégicos para cada tipo de negocio y creación de videos promocionales.
 						</p>
 					</div>
 				</div>
@@ -76,7 +76,7 @@
 					<div class="heading mb30">
 						<h4 class="h3 heading-title">Administración y Monitoreo de Redes Sociales</h4>
 						<p>
-							Administramos todas tus plataformas de redes sociales de tu marca, Conoce todos los datos que deben ser gestionados y comprender el alcance de las acciones que se realizan en tus RRSS, con la finalidad de tener conclusiones sobre los objetivos realizados en tus redes sociales.	
+							Administramos todas tus plataformas de redes sociales de tu marca, Conoce todos los datos que deben ser gestionados y comprender el alcance de las acciones que se realizan en tus RRSS, con la finalidad de tener conclusiones sobre los objetivos realizados en tus redes sociales.
 						</p>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 					<div class="heading mb30">
 						<h4 class="h3 heading-title">Publicidad en Facebook Ads 2021</h4>
 						<p>
-							Hay algo claro sobre esta estrategia de marketing y publicidad en facebook: El alcance y la visibilidad de tu marca va de aumenta a corto y mediano plazo.  Una buena segmentación de tu público y/o audiencia te brinda la oportunidad de llegar a potenciales clientes, En nebula trabajamos en conjunto  con nuestros especialistas para potenciar tu negocio en las redes sociales. 	
+							Hay algo claro sobre esta estrategia de marketing y publicidad en facebook: El alcance y la visibilidad de tu marca va de aumenta a corto y mediano plazo.  Una buena segmentación de tu público y/o audiencia te brinda la oportunidad de llegar a potenciales clientes, En nebula trabajamos en conjunto  con nuestros especialistas para potenciar tu negocio en las redes sociales.
 						</p>
 					</div>
 				</div>
@@ -145,14 +145,14 @@
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Actualizacion en redes sociales
-										</li>									
+										</li>
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Campañas y anuncios
 										</li><br><br><br>
 									</ul>
 									<p class="h6 pb30">
-										<b>Inversión 1 mes</b> 
+										<b>Inversión 1 mes</b>
 										<span class="rate">s/.250</span>
 										<br><b>4to mes Dscto</b>
 										<span class="rate">25%</span>
@@ -191,7 +191,7 @@
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											<span class="count">1</span> Diseño gráfico para su portada
-										</li>	
+										</li>
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											<span class="count">2</span> Videos GIF animados
@@ -207,14 +207,14 @@
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Actualizacion en redes sociales
-										</li>									
+										</li>
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Campañas y anuncios
 										</li><br>
 									</ul>
 									<p class="h6 pb30">
-										<b>Inversión 1 mes</b> 
+										<b>Inversión 1 mes</b>
 										<span class="rate">s/.500</span>
 										<br><b>4to mes Dscto</b>
 										<span class="rate">25%</span>
@@ -279,10 +279,10 @@
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Campañas y anuncios
-										</li>										
+										</li>
 									</ul>
 									<p class="h6 pb30">
-										<b>Inversión 1 mes</b> 
+										<b>Inversión 1 mes</b>
 										<span class="rate">s/.800</span>
 										<br><b>4to mes Dscto</b>
 										<span class="rate">25%</span>

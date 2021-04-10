@@ -10,3 +10,6 @@ input.input-dark, textarea.input-dark  {
 .Header{
     display: none !important;
 }
+.input.input-standard-grey {
+    background-color: #2f2c2c !important;
+}

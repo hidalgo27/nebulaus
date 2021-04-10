@@ -46,7 +46,7 @@
                 <select>
                     <option value="1">Español</option>
                     <option value="2">English</option>
-                </select>      
+                </select>
             </div>
             <div class="contact-item">
                 (954) 900-1989
@@ -116,7 +116,7 @@
                     </li>
                     <!--SERVICIOS-->
                     <li class="">
-                        <a href="/">Servicios</a>
+                        <a href="/#servicios">Servicios</a>
                         <ul class="dropdown">
                             <li class="megamenu-item-info">
                                 <h5 class="megamenu-item-info-title">Lista de servicios</h5>
@@ -300,7 +300,7 @@
 							<span class="long-line"></span>
 						</div>
 						<p class="heading-text">
-                            Somos especialistas en servicios de marketing digital en el 2021. Tendrás la oportunidad de trabajar con las mejores herramientas y profesionales desde el diseño y desarrollo web, implementación y creación de propuestas de imagen corporativa Branding y creación de contenidos audiovisuales para grandes y pequeñas empresas.    
+                            Somos especialistas en servicios de marketing digital en el 2021. Tendrás la oportunidad de trabajar con las mejores herramientas y profesionales desde el diseño y desarrollo web, implementación y creación de propuestas de imagen corporativa Branding y creación de contenidos audiovisuales para grandes y pequeñas empresas.
                         </p>
 					</div>
 					<div class="socials">
@@ -356,7 +356,7 @@
 								<a href="/Nebula-EDU">Nebula EDU</a>
 							</li>
                         </ul>
-                        
+
 					</div>
 				</div>
 			</div>

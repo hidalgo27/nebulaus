@@ -11,7 +11,7 @@
 					<div class="row">
 						<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
 							<div class="subtitle">EN PROCESO DE CONTRUCCIÓN</div>
-							<a href="/" class="btn btn-small btn--primary btn-hover-shadow">
+							<a href="/#servicios" class="btn btn-small btn--primary btn-hover-shadow">
 								<span class="text">Ir a Inicio</span>
 							</a>
 						</div>

@@ -11,7 +11,7 @@
 				<li class="breadcrumbs-item">
 					<a href="/" class="c-gray">Home</a>
 					<i class="seoicon-right-arrow"></i>
-					<a href="03_services.html" class="c-gray">Servicios</a>
+					<a href="/#servicios" class="c-gray">Servicios</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
@@ -313,14 +313,14 @@
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Estrategias de Linkbuilding profesional
-										</li>									
+										</li>
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Seguimiento y Reporte Estadístico de la campaña
 										</li>
 									</ul>
 									<p class="h6 pb30">
-										<b>Desde</b> 
+										<b>Desde</b>
 										<span class="rate">s/.650</span>
 										<br><b>por mes</b>
 									</p>
@@ -370,14 +370,14 @@
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Estrategias de Linkbuilding profesional
-										</li>									
+										</li>
 										<li class="position-item">
 											<i class="fa fa-caret-right" aria-hidden="true"></i>
 											Seguimiento y Reporte Estadístico de la campaña
 										</li>
 									</ul>
 									<p class="h6 pb30">
-										<b>Desde</b> 
+										<b>Desde</b>
 										<span class="rate">s/.1350</span>
 										<br><b>por mes</b>
 									</p>
