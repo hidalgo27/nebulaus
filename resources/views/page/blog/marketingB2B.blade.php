@@ -5,11 +5,11 @@
 			<h1 class="stunning-header-title">Marketing B2B 2021</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="index.html">Home</a>
+					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
-					<span href="#">Blog Details</span>
+					<span href="#">Detalles del blog</span>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 			</ul>
@@ -20,27 +20,26 @@
 	<article class="hentry post post-standard-details">   
 		<div class="post__content">
 			<div class="post-additional-info">
+				<div class="post__author author vcard">
+					<img loading="lazy" src="img/avatar-b-details.png" alt="author">
+					Posteado por Administrador
+				</div>
 				<span class="post__date">
 					<i class="seoicon-clock"></i>
 					<time class="published" datetime="2016-03-20 12:00:00">
-						March 20, 2016
+						Abril 04, 2021
 					</time>
 				</span>
 				<span class="category">
 					<i class="seoicon-tags"></i>
-					<a href="#">Business,</a>
-					<a href="#">Seo</a>
-				</span>
-				<span class="post__comments">
-					<a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i></a>
-					6
+					<a href="#">Redes Sociales</a>
 				</span>
 			</div>
 			<div class="post__content-info">
 				<div>
 					<img class="pb30" loading="lazy" src="img/blog/B2B-marketing.jpg" alt="seo">
 				</div>
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">Significado</h2>
 						<div class="heading-line">
@@ -55,7 +54,7 @@
 						Con lo que, el significado del marketing B2B, podría resumirse en una frase muy simple; estrategia que se implementa para captar la atención de empresas o negocios.
                     </p>
 				</div>
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">¿Qué diferencia hay entre el B2B marketing y el B2C?</h2>
 						<div class="heading-line">
@@ -73,7 +72,7 @@
 						Es importante hacer hincapié en este aspecto, ya que la empresa puede estar comparando opciones y, si la descuidamos, puede terminar contratando a otra marca.
                     </p>
 				</div>
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">¿Qué es B2B en marketing?</h2>
 						<div class="heading-line">
@@ -91,7 +90,7 @@
 						Sin embargo, no hay que perder de vista que siempre estamos vendiendo a personas. Y que estas hoy en día están hiper conectadas. Por ello una estrategia de B2B marketing debería de mirar más allá y acercarse a sus potenciales clientes allí donde estén. Siempre hay que trabajar bajo esta premisa.
                     </p>
 				</div>	
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">Desafíos actuales en el Marketing B2B</h2>
 						<div class="heading-line">
@@ -106,9 +105,9 @@
 						<li>Mantener o potenciar la experiencia del usuario.</li>
 					</ul>
                 </div>		
-                <div class="pb30">
+                <div class="pb30 align-justify">
 					<div class="heading">
-						<h2 class="h3 heading-title">¿Cómo hacer el mejor marketing B2B hoy día?</h2>
+						<h2 class="h4 heading-title">¿Cómo hacer el mejor marketing B2B hoy día?</h2>
 						<div class="heading-line">
 							<span class="short-line"></span>
 							<span class="long-line"></span>
@@ -131,7 +130,7 @@
 			</div>
 		</div>
 		<div class="testimonial-item quote-left bg-border-color">
-			<div class="h6 testimonial-text">
+			<div class="h6 testimonial-text align-justify">
             Cuanto antes comiences a implementar cambios como estos, antes comenzarás a captar clientes de forma eficaz. Toma la mejor decisión hoy, para que puedas disfrutar de los beneficios mañana y si deseas ayuda en poder implementar el marketing B2B a tu empresa contacte con nosotros al <b>WhatsApp +51960106076</b> y te brindaremos asesoría gratuita.
             </div>
 			<div class="quote">

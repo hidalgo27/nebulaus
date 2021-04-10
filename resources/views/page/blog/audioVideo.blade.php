@@ -5,11 +5,11 @@
 			<h1 class="stunning-header-title">El audio y el video dominarán las tendencias del 2021</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="index.html">Home</a>
+					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
-					<span href="#">Blog Details</span>
+					<span href="#">Detalles del blog</span>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 			</ul>
@@ -23,31 +23,23 @@
 			<div class="post-additional-info">
 				<div class="post__author author vcard">
 					<img loading="lazy" src="img/avatar-b-details.png" alt="author">
-					Posted by
-					<div class="post__author-name fn">
-						<a href="#" class="post__author-link">Admin</a>
-					</div>
+					Posteado por Administrador
 				</div>
 				<span class="post__date">
 					<i class="seoicon-clock"></i>
-					<time class="published" datetime="2016-03-20 12:00:00">
-						March 20, 2016
+					<time class="published">
+						Abril 04, 2021
 					</time>
 				</span>
 				<span class="category">
 					<i class="seoicon-tags"></i>
-					<a href="#">Business,</a>
-					<a href="#">Seo</a>
-				</span>
-				<span class="post__comments">
-					<a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i></a>
-					6
+					<a href="#">SEO</a>
 				</span>
 			</div>
 			<div class="post__content-info">
 				<div class="pb30">
 					<img class="pb30" loading="lazy" src="img/blog/audio-video.jpg" alt="audio-video">
-					<p class="c-dark">
+					<p class="c-dark align-justify">
 						El audio y el vídeo seguirán dominando entre los intereses de la audiencia para el 2021, así que si aún compartes solo imágenes en tus perfiles Nébula te recomienda que te pongas pilas, porque los consumidores ya no se enganchan tanto por allí.
 					</p>
 				</div>
@@ -59,7 +51,7 @@
 							<span class="long-line"></span>
 						</div>
 					</div>
-					<p class="c-dark">
+					<p class="c-dark align-justify">
 						No es que se deje de publicar imágenes, fotografías o infografías, no. Lo ideal es alternar el contenido, actualmente se ha implementado mucho el vídeo. ¿Por qué? Porque analizando las métricas de las redes sociales e investigando lo que le pasaba a otros colegas del marketing, se comprobó (y no solo yo lo digo, muchos profesionales concuerdan conmigo) que la audiencia se engancha más con este tipo de formato.
 				</div>
 				<div class="pb30">
@@ -70,7 +62,7 @@
 							<span class="long-line"></span>
 						</div>
 					</div>
-					<ul class="c-dark">
+					<ul class="c-dark align-justify">
 						<li>Genera mucha más interacción que cualquier otro contenido por parte de los usuarios.</li>
 						<li>Mejora la rentabilidad de nuestra web.</li>
 						<li>Permite conectar más fácil con audiencia que lo visualiza gracias a lo dinámico e impactante que pueden llegar a ser si lo sabes trabajar bien.</li>
@@ -110,7 +102,7 @@
 				</div>						
 			</div>
 			<div class="pb30">
-				<p class="c-dark">
+				<p class="c-dark align-justify">
 					Un webinar, un Reels, un TikTok, un vídeo en el feed de tus redes sociales marcará la diferencia. Yo lo único que te digo es: ¡haz la prueba! Y allí mismo te lo dirán todas las métricas. 
 				</p>
 			</div>

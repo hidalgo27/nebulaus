@@ -22,7 +22,7 @@
 	<!--INTRODUCCION-->
 	<div class="container">
 		<div class="row pt120">
-			<div class="col-lg-12">
+			<div class="col-lg-12 pb30">
 				<div class="heading mb30">
 					<div class="align-center">
 						<h4 class="h1 heading-title">Sobre Nosotros</h4>
@@ -31,22 +31,38 @@
 							<span class="long-line"></span>
 						</div>
 					</div>
-					<h5 class="heading-subtitle">
-						Somos una agencia creativa, comprometidos a ayudarte con los objetivos y proyectos de tu emprendimiento, A lo largo de nuestra experiencia en marketing digital ofrecemos soluciones marketing online e integrales  para pequeñas y grandes empresas.
-					</h5>
+					<p class="h5 align-justify">
+						Somos una agencia creativa, comprometidos a ayudarte con los objetivos y proyectos de tu emprendimiento. A lo largo de nuestra experiencia en marketing digital ofrecemos soluciones marketing online e integrales  para pequeñas y grandes empresas.
+					</p>
 				</div>
 			</div>
-			<div class="col-lg-6">
-				<p>Creación de marcas (Branding), diseño gráfico para publicidad, y creación de contenidos audiovisuales (fotografía, video).</p>
+			<p class="h5 c-gray align-center pb30">OFRECEMOS</p>
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-justify">
+				<div class="info-box--standard">
+					<div class="info-box-image">
+						<img loading="lazy" src="img/info-box23.png" alt="image">
+					</div>
+					<div class="info-box-content">
+						<h5 class="info-box-title">Creación de marcas (Branding), diseño gráfico para publicidad, y creación de contenidos audiovisuales (fotografía, video).</h5>
+					</div>
+				</div>
 			</div>
-			<div class="col-lg-6">
-				<p>Desarrollo de páginas web y campañas de publicidad para google Ads, redes sociales facebook Ads y más.</p>
+
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-justify">
+				<div class="info-box--standard">
+					<div class="info-box-image">
+						<img loading="lazy" src="img/info-box24.png" alt="image">
+					</div>
+					<div class="info-box-content">
+						<h5 class="info-box-title">Desarrollo de páginas web y campañas de publicidad para google Ads, redes sociales facebook Ads y más.</h5>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 	<!--EQUIPO-->
 	<div class="container">
-		<div class="row pt120 mb30">
+		<div class="row pt80 mb30">
 			<div class="col-lg-12">
 				<div class="heading align-center">
 					<h4 class="h2 heading-title">Reúnase con nuestros mejores expertos</h4>
@@ -138,7 +154,7 @@
 	</div>
 	<!--VALORES-->
 	<div class="container-fluid">
-		<div class="row medium-padding120 bg-border-color">
+		<div class="row medium-padding80 bg-border-color">
 			<div class="heading mb30 align-center">
 				<h4 class="h2 heading-title">Nuestros Valores</h4>
 				<div class="heading-line">
@@ -150,45 +166,52 @@
 				<div class="row pb30">
 					<div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
 						<div class="info-box--standard">
-							<div class="info-box-image f-none">
-								<img loading="lazy" src="img/info-box20.png" alt="image">
-							</div>
 							<div class="info-box-content">
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Pasión por el Marketing para lograr la satisfacción de nuestros clientes y superar sus expectativas.</p>
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Deseo de superación y de aprender cada día</p>
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Puntualidad.</p>
+								<div class="info-box-image f-none align-center">
+									<img loading="lazy" src="img/iconos/clientes.png" alt="clientes">
+								</div>
+								<ul class="c-dark h6 pb30 align-justify">
+									<li>Pasión por el Marketing para lograr la satisfacción de nuestros clientes y superar sus expectativas.</li>
+									<li>Compromiso con nuestros clientes y los resultados.</li>
+								</ul>
+								</ul>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
 						<div class="info-box--standard">
-							<div class="info-box-image f-none">
-								<img loading="lazy" src="img/info-box21.png" alt="image">
-							</div>
 							<div class="info-box-content">
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Trabajo en equipo que impulse el crecimiento de todos.</p>
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Compromiso con nuestros clientes y los resultados.</p>
+								<div class="info-box-image f-none align-center">
+									<img loading="lazy" src="img/iconos/trabajo-en-equipo.png" alt="equipo">
+								</div>
+								<ul class="c-dark h6 pb30 align-justify">
+									<li>Trabajo en equipo que impulse el crecimiento de todos.</li>
+									<li>Respeto por las opiniones de todos.</li>
+									<li>Puntualidad.</li>
+								</ul>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
 						<div class="info-box--standard">
-							<div class="info-box-image f-none">
-								<img loading="lazy" src="img/info-box22.png" alt="image">
-							</div>
 							<div class="info-box-content">
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Creatividad e innovación en cada uno de nuestros proyectos.</p>
-								<p class="c-dark"><i class="fa fa-caret-right"></i>Respeto por las opiniones de todos.</p>
+								<div class="info-box-image f-none align-center">
+									<img loading="lazy" src="img/iconos/equipo.png" alt="equipo">
+								</div>
+								<ul class="c-dark h6 pb30 align-justify">
+									<li>Creatividad e innovación en cada uno de nuestros proyectos.</li>
+									<li>Deseo de superación y de aprender cada día</li>
+								</ul>
 							</div>
 						</div>
+					</div>
+
+					<div class="col-lg-12 col-md-12 col-sm-12 col-sx-12">
+						<p class="h6 align-center">Nuestra diferencia fundamental radica en nuestro proceso de trabajo, que se basa en una metodología propia para cada uno de nuestros servicios, donde el aspecto estratégico, de planificación y de modelo de negocio son los ejes fundamentales para su realización. Toda esta experiencia nos ha permitido lograr resultados muy importantes con cada uno de los clientes con los que trabajamos.</p>				
 					</div>
 				</div>
-
-				<div class="row pb80">
-					<p class="h6">Nuestra diferencia fundamental radica en nuestro proceso de trabajo, que se basa en una metodología propia para cada uno de nuestros servicios, donde el aspecto estratégico, de planificación y de modelo de negocio son los ejes fundamentales para su realización. Toda esta experiencia nos ha permitido lograr resultados muy importantes con cada uno de los clientes con los que trabajamos.</p>
-				<div>
 			</div>
 		</div>
 	</div>

@@ -227,21 +227,21 @@
             <p class="contacts-text">Comunícate con nosotros
             </p>
             <div class="contacts-item">
-                <img loading="lazy" src="img/celular.png" alt="celular">
+                <img loading="lazy" src="img/iconos/celular.png" alt="celular">
                 <div class="content">
                     <a href="#" class="title">(954)900-1989</a>
                     <p class="sub-title">Lunes-Viernes 9am-6pm</p>
                 </div>
             </div>
             <div class="contacts-item">
-                <img loading="lazy" src="img/email.png" alt="email">
+                <img loading="lazy" src="img/iconos/email.png" alt="email">
                 <div class="content">
                     <a href="#" class="title">info@nebulamarketing.us</a>
                     <p class="sub-title">Cualquier consulta</p>
                 </div>
             </div>
             <div class="contacts-item">
-                <img loading="lazy" src="img/ubicacion.png" alt="ubicacion">
+                <img loading="lazy" src="img/iconos/ubicacion.png" alt="ubicacion">
                 <div class="content">
                     <a href="#" class="title">Miami, USA</a>
                     <p class="sub-title">200 S Biscayne Blvd, Miami, FL 33131</p>

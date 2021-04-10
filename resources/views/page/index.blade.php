@@ -239,7 +239,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-primary-color">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/branding.png" alt="service">
+                        <img loading="lazy" src="img/iconos/branding.png" alt="service">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">BRANDING</h3>
@@ -259,7 +259,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-green-color">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/sitio-web.png" alt="pagina-Web">
+                        <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">DISEÑO WEB</h3>
@@ -279,7 +279,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-orange-color">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/redes-sociales.png" alt="redes-sociales">
+                        <img loading="lazy" src="img/iconos/redes-sociales.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">REDES SOCIALES</h3>
@@ -299,7 +299,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-orangedark-color">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/seo.png" alt="seo">
+                        <img loading="lazy" src="img/iconos/seo.png" alt="seo">
                     </div>
                     <div class="servises-item__content">
 						<h3 class="servises-title align-center">SEO</h3><br>
@@ -319,7 +319,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-secondary-color">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/audio-visual.png" alt="service">
+                        <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">PRODUCCIÓN AUDIOVISUAL</h3>
@@ -339,7 +339,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-violet-color">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/educacion.png" alt="educacion">
+                        <img loading="lazy" src="img/iconos/educacion.png" alt="educacion">
                     </div>
                     <div class="servises-item__content">
 						<h3 class="servises-title align-center">NEBULA EDU</h3>
@@ -385,7 +385,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box7.png" alt="image">
+									<img loading="lazy" src="img/iconos/nosotros.png" alt="nosotros">
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Nosotros</h4>
@@ -397,7 +397,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box8.png" alt="image">
+									<img loading="lazy" src="img/iconos/calidad.png" alt="calidad">
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Calidad</h4>
@@ -409,7 +409,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box9.png" alt="image">
+									<img loading="lazy" src="img/iconos/confianza.png" alt="confianza">
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Confianza</h4>
@@ -421,7 +421,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
-									<img loading="lazy" src="img/info-box10.png" alt="image">
+									<img loading="lazy" src="img/iconos/conversemos.png" alt="conversemos">
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Conversemos</h4>

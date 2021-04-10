@@ -45,7 +45,71 @@
 
 <!-- End Overlay Search -->
 
+<div class="container">
+    <div class="contact-form medium-padding120">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="heading">
+                    <h4 class="heading-title">¿Tienes alguna pregunta?</h4>
+                    <div class="heading-line">
+                        <span class="short-line"></span>
+                        <span class="long-line"></span>
+                    </div>
+                    <p class="heading-text">Comuníquese con nosotros mediante el formulario y nos comunicaremos con usted lo antes posible.</p>
+                </div>
+            </div>
+        </div>
 
+        <form class="contact-form crumina-submit" method="post" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input class="input-standard-grey" name="website" type="text" placeholder="Website URL" required>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input name="name" class="input-standard-grey" placeholder="Your Name" type="text" required>
+                </div>
+
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input name="email" class="input-standard-grey" placeholder="Email Address" type="email" required>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input name="phone" class="input-standard-grey" placeholder="Phone" type="tel" required>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <textarea name="message" class="input-standard-grey" placeholder="Details"></textarea>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="submit-block table">
+                    <div class="col-lg-3 table-cell">
+                        <button class="btn btn-small btn--primary">
+                            <span class="text">Submit Now</span>
+                        </button>
+                    </div>
+
+                    <div class="col-lg-5 table-cell">
+                        <div class="submit-block-text">
+                            Please, let us know any particular things to check and the best time
+                            to contact you by phone (if provided).
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>
 <div class="container">
     <div class="row pt120 pb80">
         <div class="col-lg-12">
@@ -137,69 +201,5 @@
 <!-- Contact form -->
 
 
-<div class="container">
-    <div class="contact-form medium-padding120">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="heading">
-                    <h4 class="heading-title">Have You Any Questions?</h4>
-                    <div class="heading-line">
-                        <span class="short-line"></span>
-                        <span class="long-line"></span>
-                    </div>
-                    <p class="heading-text">Please contact us using the form and we’ll get back to you as soon as possible.</p>
-                </div>
-            </div>
-        </div>
 
-        <form class="contact-form crumina-submit" method="post" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input class="input-standard-grey" name="website" type="text" placeholder="Website URL" required>
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input name="name" class="input-standard-grey" placeholder="Your Name" type="text" required>
-                </div>
-
-            </div>
-
-            <div class="row">
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input name="email" class="input-standard-grey" placeholder="Email Address" type="email" required>
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input name="phone" class="input-standard-grey" placeholder="Phone" type="tel" required>
-                </div>
-
-            </div>
-
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <textarea name="message" class="input-standard-grey" placeholder="Details"></textarea>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="submit-block table">
-                    <div class="col-lg-3 table-cell">
-                        <button class="btn btn-small btn--primary">
-                            <span class="text">Submit Now</span>
-                        </button>
-                    </div>
-
-                    <div class="col-lg-5 table-cell">
-                        <div class="submit-block-text">
-                            Please, let us know any particular things to check and the best time
-                            to contact you by phone (if provided).
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-
-    </div>
-</div>
 @endsection

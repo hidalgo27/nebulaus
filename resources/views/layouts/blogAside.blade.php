@@ -29,43 +29,43 @@
                             </div>
                             <div class="post-category-wrap">
                                 <div class="category-post-item">
-                                    <span class="post-count">168</span>
-                                    <a href="#" class="category-title">Branding
+                                    <span class="post-count">1</span>
+                                    <a href="/Blog" class="category-title">Branding
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
 
                                 <div class="category-post-item">
-                                    <span class="post-count">52</span>
-                                    <a href="#" class="category-title">Diseño Web
+                                    <span class="post-count">3</span>
+                                    <a href="/Blog" class="category-title">Diseño Web
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
 
                                 <div class="category-post-item">
-                                    <span class="post-count">40</span>
-                                    <a href="#" class="category-title">Redes Sociales
+                                    <span class="post-count">1</span>
+                                    <a href="/Blog" class="category-title">Redes Sociales
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
 
                                 <div class="category-post-item">
-                                    <span class="post-count">33</span>
-                                    <a href="#" class="category-title">SEO
+                                    <span class="post-count">2</span>
+                                    <a href="/Blog" class="category-title">SEO
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
 
                                 <div class="category-post-item">
-                                    <span class="post-count">21</span>
-                                    <a href="#" class="category-title">Producción Audiovisual
+                                    <span class="post-count">1</span>
+                                    <a href="/Blog" class="category-title">Producción Audiovisual
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
 
                                 <div class="category-post-item">
-                                    <span class="post-count">18</span>
-                                    <a href="#" class="category-title">Nebula Edu
+                                    <span class="post-count">0</span>
+                                    <a href="/Blog" class="category-title">Nebula Edu
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
@@ -73,43 +73,9 @@
                             </div>
                         </div>
 
-                        <div class="widget w-about">
-                            <div class="heading">
-                                <h4 class="heading-title">About Us and
-                                    This Blog</h4>
-                                <div class="heading-line">
-                                    <span class="short-line"></span>
-                                    <span class="long-line"></span>
-                                </div>
-                                <p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
-                                    litterarum formas humanitatis per seacula quarta decima quinta.
-                                </p>
-                            </div>
-
-                            <a href="02_abouts.html" class="btn btn-small btn-border c-primary">
-                                <span class="text">Learn More</span>
-                                <i class="seoicon-right-arrow"></i>
-                            </a>
-                        </div>
-
-                        <div class="widget w-request bg-boxed-red">
-                            <div class="w-request-content">
-                                <img loading="lazy" src="img/request.png" alt="request">
-                                <h4 class="w-request-content-title">Request
-                                    a Free Quote</h4>
-                                <p class="w-request-content-text">Gothica, quam nunc putamus parum claram, anteposuerit
-                                    litterarum formas humanitatis.
-                                </p>
-
-                                <a href="22_contacts.html" class="btn btn-small btn--dark btn-hover-shadow">
-                                    <span class="text">Contact Now</span>
-                                </a>
-                            </div>
-                        </div>
-
                         <div class="widget w-latest-news">
                             <div class="heading">
-                                <h4 class="heading-title">Latest News</h4>
+                                <h4 class="heading-title">Ultimas noticias</h4>
                                 <div class="heading-line">
                                     <span class="short-line"></span>
                                     <span class="long-line"></span>
@@ -119,95 +85,68 @@
                             <div class="latest-news-wrap">
                                 <div class="latest-news-item">
                                     <div class="post-additional-info">
-
-                                    <span class="post__date">
-
-                                        <i class="seoicon-clock"></i>
-
-                                        <time class="published" datetime="2016-04-23 12:00:00">
-                                            April 23, 2016
-                                        </time>
-
-                                    </span>
-
+                                        <span class="post__date">
+                                            <i class="seoicon-clock"></i>
+                                            <time class="published">
+                                                Abril 04, 2021
+                                            </time>
+                                        </span>
                                     </div>
-
                                     <h5 class="post__title entry-title ">
-                                        <a href="15_blog_details.html">Eodem modo typi, qui nunc nobis videntur</a>
+                                        <a href="/Audio-Video">El audio y el video dominarán las tendencias del 2021</a>
                                     </h5>
                                 </div>
-
                                 <div class="latest-news-item">
                                     <div class="post-additional-info">
-
-                                    <span class="post__date">
-
-                                        <i class="seoicon-clock"></i>
-
-                                        <time class="published" datetime="2016-04-08 12:00:00">
-                                            April 8, 2016
-                                        </time>
-
-                                    </span>
-
+                                        <span class="post__date">
+                                            <i class="seoicon-clock"></i>
+                                            <time class="published" datetime="2016-04-08 12:00:00">
+                                                Abril 04, 2021
+                                            </time>
+                                        </span>
                                     </div>
-
                                     <h5 class="post__title entry-title ">
-                                        <a href="15_blog_details.html">Investigationes demonstraverunt lectores legere</a>
+                                        <a href="/Create-Page-Web">Cinco claves para la creación de una buena página web</a>
                                     </h5>
                                 </div>
-
                                 <div class="latest-news-item">
                                     <div class="post-additional-info">
-
-                                    <span class="post__date">
-
-                                        <i class="seoicon-clock"></i>
-
-                                        <time class="published" datetime="2016-03-25 12:00:00">
-                                            March 25, 2016
-                                        </time>
-
-                                    </span>
-
+                                        <span class="post__date">
+                                            <i class="seoicon-clock"></i>
+                                            <time class="published" datetime="2016-03-25 12:00:00">
+                                                Abril 04, 2021
+                                            </time>
+                                        </span>
                                     </div>
-
                                     <h5 class="post__title entry-title ">
-                                        <a href="15_blog_details.html">Qemonstraverunt legere</a>
+                                        <a href="/Objetive-Public">¿Cómo analizar y definir el público objetivo de una empresa?</a>
                                     </h5>
                                 </div>
-
                                 <div class="latest-news-item">
                                     <div class="post-additional-info">
-
-                                    <span class="post__date">
-
-                                        <i class="seoicon-clock"></i>
-
-                                        <time class="published" datetime="2016-03-12 12:00:00">
-                                            March 12, 2016
-                                        </time>
-
-                                    </span>
-
+                                        <span class="post__date">
+                                            <i class="seoicon-clock"></i>
+                                            <time class="published" datetime="2016-03-12 12:00:00">
+                                            Abril 04, 2021
+                                            </time>
+                                        </span>
                                     </div>
-
                                     <h5 class="post__title entry-title ">
-                                        <a href="15_blog_details.html">Ut wisi enim ad minim veniam, quis nostrud exerci</a>
+                                        <a href="/Organize-Content">¿Cómo organizar el contenido de mi web?</a>
                                     </h5>
                                 </div>
 
                             </div>
 
-                            <a href="14_blog.html" class="btn btn-small btn--dark btn-hover-shadow">
-                                <span class="text">All News</span>
+                            <a href="/Blog" class="btn btn-small btn--dark btn-hover-shadow">
+                                <span class="text">Ver todas las noticias</span>
                                 <i class="seoicon-right-arrow"></i>
                             </a>
                         </div>
 
                         <div class="widget w-follow">
                             <div class="heading">
-                                <h4 class="heading-title">Follow Us</h4>
+                                <h4 class="heading-title">¡Síguenos!</h4>
                                 <div class="heading-line">
                                     <span class="short-line"></span>
                                     <span class="long-line"></span>
@@ -270,29 +209,6 @@
                                     </span>
                                     </a>
                                 </div>
-                            </div>
-
-                        </div>
-
-                        <div class="widget w-tags">
-                            <div class="heading">
-                                <h4 class="heading-title">Popular Tags</h4>
-                                <div class="heading-line">
-                                    <span class="short-line"></span>
-                                    <span class="long-line"></span>
-                                </div>
-                            </div>
-
-                            <div class="tags-wrap">
-                                <a href="#" class="w-tags-item">SEO</a>
-                                <a href="#" class="w-tags-item">Advertising</a>
-                                <a href="#" class="w-tags-item">Business</a>
-                                <a href="#" class="w-tags-item">Optimization</a>
-                                <a href="#" class="w-tags-item">Digital Marketing</a>
-                                <a href="#" class="w-tags-item">Social</a>
-                                <a href="#" class="w-tags-item">Keyword</a>
-                                <a href="#" class="w-tags-item">Strategy</a>
-                                <a href="#" class="w-tags-item">Audience</a>
                             </div>
                         </div>
                     </aside>

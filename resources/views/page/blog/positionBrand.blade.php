@@ -5,11 +5,11 @@
 			<h1 class="stunning-header-title">¿Por qué es importante posicionar tu marca digital?</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="index.html">Home</a>
+					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
-					<span href="#">Blog Details</span>
+					<span href="#">Detalles del blog</span>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 			</ul>
@@ -22,28 +22,25 @@
 			<div class="post-additional-info">
 				<div class="post__author author vcard">
 					<img loading="lazy" src="img/avatar-b-details.png" alt="author">
-					Posted by
-					<div class="post__author-name fn">
-						<a href="#" class="post__author-link">Admin</a>
-					</div>
+					Posteado por Administrador
 				</div>
 				<span class="post__date">
 					<i class="seoicon-clock"></i>
 					<time class="published" datetime="2016-03-20 12:00:00">
-						March 20, 2016
+						Abril 04, 2021
 					</time>
 				</span>
 				<span class="category">
 					<i class="seoicon-tags"></i>
-					<a href="#">SEO</a>
+					<a href="#">Branding</a>
 				</span>
 			</div>
 			<div class="post__content-info">
 				<div>
 					<img class="pb30" loading="lazy" src="img/blog/posicionamiento-de-marca.jpg" alt="seo">
-					<p class="post__text c-dark">Es innegable que la tecnología ha sido un potenciador de los negocios, desde microempresas, hasta gigantes de la industria y ejemplos hay de sobra. El motivo de ello es que resulta más barato ser visible, llegar a donde no se hubiera llegado de otro modo, facilita la logística, es más flexible y las opciones son casi ilimitadas. Incluso, ha quedado demostrado que, si el giro del negocio es ofrecer un bien intangible, como asesoría, consultas o capacitaciones, el servicio se puede dar a distancia. Los beneficios son muchos y fabulosos para cualquiera que los use, y, por el contrario, no usarlos significa estar en desventaja contra tus competidores.</p>
+					<p class="c-dark align-justify">Es innegable que la tecnología ha sido un potenciador de los negocios, desde microempresas, hasta gigantes de la industria y ejemplos hay de sobra. El motivo de ello es que resulta más barato ser visible, llegar a donde no se hubiera llegado de otro modo, facilita la logística, es más flexible y las opciones son casi ilimitadas. Incluso, ha quedado demostrado que, si el giro del negocio es ofrecer un bien intangible, como asesoría, consultas o capacitaciones, el servicio se puede dar a distancia. Los beneficios son muchos y fabulosos para cualquiera que los use, y, por el contrario, no usarlos significa estar en desventaja contra tus competidores.</p>
 				</div>
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">¿Cómo posicionar tu marca digital?</h2>
 						<div class="heading-line">
@@ -63,7 +60,7 @@
 						Una vez que hayas realizado este ejercicio, tendrás claro cómo puedes solucionar esa problemática o necesidad de tu cliente por la cual estarían dispuestos a darte su dinero.
 					</p>
 				</div>
-				<div>
+				<div class="align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">Tu producto</h2>
 						<div class="heading-line">
@@ -94,7 +91,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">Contenido de valor para posicionar tu marca digital</h2>
 						<div class="heading-line">
@@ -112,7 +109,7 @@
 						<li>¿Tu adquirirías tu propio servicio o producto? ¿Por qué?</li>
 					</ul>
 				</div>	
-				<div>
+				<div class="align-justify">
 					<p class="c-dark">
 						Todo lo que anteriormente mencionado en este artículo debe de ir alineado a una estrategia digital efectiva. Si realmente quieres posicionar tu marca digital, todo lo que publiques y compartas debe de ser congruente entre sí, siguiendo los valores de tu negocio, los objetivos que quieres alcanzar y el público al que te dirijas.
 					</p>
@@ -120,7 +117,7 @@
 			</div>
 		</div>
 		<div class="testimonial-item quote-left bg-border-color">
-			<div class="h6 testimonial-text">
+			<div class="h6 testimonial-text align-justify">
 				Si deseas asesoría gratuita en como posicionar tu marca digital comunícate con nosotros al <b>WhatsApp: +51960106076</b>.  
 			</div>
 			<div class="quote">

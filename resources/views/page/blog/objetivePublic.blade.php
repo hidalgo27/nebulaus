@@ -2,14 +2,14 @@
 @section('headBlog')
 	<div class="stunning-header stunning-header-bg-lightviolet">
 		<div class="stunning-header-content">
-			<h1 class="stunning-header-title">Como analizar y definir el público objetivo de una empresa</h1>
+			<h1 class="stunning-header-title">¿Cómo analizar y definir el público objetivo de una empresa?</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="index.html">Home</a>
+					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
-					<span href="#">Blog Details</span>
+					<span href="#">Detalles del blog</span>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 			</ul>
@@ -22,21 +22,17 @@
 			<div class="post-additional-info">
 				<div class="post__author author vcard">
 					<img loading="lazy" src="img/avatar-b-details.png" alt="author">
-					Posted by
-					<div class="post__author-name fn">
-						<a href="#" class="post__author-link">Admin</a>
-					</div>
+					Posteado por Administrador
 				</div>
 				<span class="post__date">
 					<i class="seoicon-clock"></i>
 					<time class="published" datetime="2016-03-20 12:00:00">
-						March 20, 2016
+						Abril 04, 2021
 					</time>
 				</span>
 				<span class="category">
 					<i class="seoicon-tags"></i>
-					<a href="#">Business,</a>
-					<a href="#">Seo</a>
+					<a href="#">SEO</a>
 				</span>
 				<span class="post__comments">
 					<a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i></a>
@@ -46,12 +42,12 @@
 			<div class="post__content-info">
 				<div class="pb30">
 					<img class="pb30" loading="lazy" src="img/blog/definir-publico-objetivo.jpg" alt="seo">
-					<p class="c-dark">Tener claro cuál es el público objetivo al que se dirige una empresa, es una de las claves de éxito. En otras palabras, saber para quién estamos creando un producto o servicio, qué necesidades necesita satisfacer, dónde podemos encontrarlo, cómo le gusta que le hablen, etc.
+					<p class="c-dark align-justify">Tener claro cuál es el público objetivo al que se dirige una empresa, es una de las claves de éxito. En otras palabras, saber para quién estamos creando un producto o servicio, qué necesidades necesita satisfacer, dónde podemos encontrarlo, cómo le gusta que le hablen, etc.
 						<br>Imagina lanzar un proyecto y que no prospere porque resulte ser innecesario para el público, o bien porque no encaja en absoluto con su estilo de vida. Se estaría desperdiciando tiempo, dinero y otras herramientas estratégicas empresariales en algo que no va a tener retorno.
 						<br>En este sentido, es esencial definir el público objetivo de una empresa y, sobre todo, tener en cuenta que las características y requerimientos pueden cambiar con el tiempo. Por ello Nébula debes hacer todo lo posible por mantener los datos actualizados.
 					</p>
 				</div>
-				<div class="pb30">
+				<div class="pb30 align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">¿Qué es el público objetivo de una empresa?</h2>
 						<div class="heading-line">
@@ -63,7 +59,7 @@
 						<br>Lo habitual es que tengan estilos de vida similares, necesidades, preocupaciones, frustraciones y deseos en común que la empresa utilizará para crear sus ofertas.
 					</p>
 				</div>
-				<div>
+				<div class="align-justify">
 					<div class="heading">
 						<h2 class="h4 heading-title">¿Cómo definir el público objetivo?</h2>
 						<div class="heading-line">
@@ -151,7 +147,7 @@
 			</div>
 		</div>
 		<div class="testimonial-item quote-left bg-border-color">
-			<div class="h6 testimonial-text">
+			<div class="h6 testimonial-text align-justify">
 				<span class="c-primary">¿Aún te haces la pregunta “cómo definir mi público objetivo”?</span> 
 				<br><span>Prueba a seguir estos pasos y verás como mejora el rendimiento de tu negocio con un retorno en positivo</span>
 				y si deseas que te ayudemos a definir tu publico objetivo contáctanos al <b>WhatsApp +51960106076</b> y te brindaremos asesoría gratuita. 
