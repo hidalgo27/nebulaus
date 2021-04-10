@@ -539,7 +539,7 @@
 								<br><b>4to mes Dscto</b>
 								<span class="rate">25%</span>
 							</p>
-							<a href="/publicidad-marketing-en-redes-sociales" class="btn btn-medium btn--dark">
+							<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-medium btn--dark">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
 							</a>
@@ -588,7 +588,7 @@
 								<span class="rate">s/.650</span>
 								<br><b>por mes</b>
 							</p>
-							<a href="/seo-y-posicionamiento-web-peru" class="btn btn-medium btn--dark">
+							<a href="/seo-y-posicionamiento-web-peru#precios" class="btn btn-medium btn--dark">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
 							</a>

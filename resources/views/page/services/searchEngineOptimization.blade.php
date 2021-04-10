@@ -264,7 +264,7 @@
 		</div>
 	</div>
 	<!--PLANES-->
-	<div class="container-fluid pt80">
+	<div id="precios" class="container-fluid pt80">
 		<div class="row pb30">
 			<div class="heading mb30 align-center">
 				<h4 class="h2 heading-title">2 Planes</h4>
