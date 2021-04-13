@@ -24,17 +24,17 @@
 	<!--INTRODUCCION-->
 	<div class="container medium-padding80">
 		<div class="heading align-center pb30">
-			<h1 class="h2">¿Qué es el seo y posicionamiento web?</h1>
+			<h1 class="h2 c-brand-p">¿Qué es el seo y posicionamiento web?</h1>
 			<div class="heading-line">
-				<span class="short-line bg-primary-color"></span>
-				<span class="long-line bg-primary-color"></span>
+				<span class="short-line bg-primary-seo"></span>
+				<span class="long-line bg-primary-seo"></span>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb30">
 				<img loading="lazy" src="img/mac-book.png" alt="pc">
 			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
 				<p>
 					El Posicionamiento web en Buscadores, internacionalmente conocido como SEO (Search Engine Optimization), busca brindarte todo el apoyo
 					necesario para que tu página web aparezca en la TOP 10 de las mejores ubicaciones en Google acorde a las  palabras o frases (palabras clave) que las personas realmente están buscando.
@@ -44,7 +44,7 @@
 	</div>
 	<!--COUNTER-->
 	<div class="container-fluid pb80">
-		<div class="row bg-blue-color medium-padding120">
+		<div class="row bg-seo-s1 medium-padding120">
 			<div class="container">
 				<div class="row">
 					<div class="counters-modern">
@@ -55,10 +55,10 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="83" data-from="10">83%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Aumento de tráfico orgánico</span>
+								<span class="counter-title-modern c-brand-p">Aumento de tráfico orgánico</span>
 								<div class="counter-line-modern">
-									<span class="short-line-modern bg-blue-color-light"></span>
-									<span class="long-line-modern bg-blue-color-light"></span>
+									<span class="short-line-modern bg-primary-seo"></span>
+									<span class="long-line-modern bg-primary-seo"></span>
 								</div>
 							</div>
 						</div>
@@ -69,10 +69,10 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="52" data-from="5">52%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Disminuir-Tasa de rebote</span>
+								<span class="counter-title-modern c-brand-p">Disminuir-Tasa de rebote</span>
 								<div class="counter-line-modern">
-									<span class="short-line-modern bg-blue-color-light"></span>
-									<span class="long-line-modern bg-blue-color-light"></span>
+									<span class="short-line-modern bg-primary-seo"></span>
+									<span class="long-line-modern bg-primary-seo"></span>
 								</div>
 							</div>
 						</div>
@@ -84,10 +84,10 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="38" data-from="1">38%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Duración media de la visita: aumento</span>
+								<span class="counter-title-modern c-brand-p">Duración media de la visita: aumento</span>
 								<div class="counter-line-modern">
-									<span class="short-line-modern bg-blue-color-light"></span>
-									<span class="long-line-modern bg-blue-color-light"></span>
+									<span class="short-line-modern bg-primary-seo"></span>
+									<span class="long-line-modern bg-primary-seo"></span>
 								</div>
 							</div>
 						</div>
@@ -99,10 +99,10 @@
 									<span data-speed="2000" data-refresh-interval="3" data-to="27" data-from="1">27%</span>
 									<div class="units">%</div>
 								</div>
-								<span class="counter-title-modern">Páginas por sesión: aumento</span>
+								<span class="counter-title-modern c-brand-p">Páginas por sesión: aumento</span>
 								<div class="counter-line-modern">
-									<span class="short-line-modern bg-blue-color-light"></span>
-									<span class="long-line-modern bg-blue-color-light"></span>
+									<span class="short-line-modern bg-primary-seo"></span>
+									<span class="long-line-modern bg-primary-seo"></span>
 								</div>
 							</div>
 						</div>

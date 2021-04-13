@@ -55,10 +55,13 @@ input.input-dark, textarea.input-dark  {
     color:#141e30 !important;
 }
 .bg-primary-seo {
-    background-color: #901fdf; }
+    background-color: #901fdf !important ;}
 .bg-seo{
     background-color: #a707e0;
     background-image: linear-gradient(315deg, #a707e0 19%, #141e30 66%);
+}
+.bg-seo-s1{
+    background-color:#07eb7e !important;
 }
 /*SOCIAL MEDIA*/
 .c-social-p{
