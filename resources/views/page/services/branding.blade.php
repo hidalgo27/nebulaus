@@ -4,8 +4,7 @@
     <title>Branding y diseño de marca</title>
 @endsection
 @section('content')
-
-	<div class="stunning-header stunning-header-bg-blue">
+	<div class="stunning-header bg-branding">
 		<div class="stunning-header-content">
 			<h1 class="stunning-header-title">BRANDING</h1>
 			<ul class="breadcrumbs">
@@ -26,10 +25,10 @@
 	<div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h1 class="h2 heading-title">Creación de marcas e imagen empresarial</h1>
+                <h1 class="h2 heading-title c-brand-p">Creación de marcas e imagen empresarial</h1>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
@@ -37,7 +36,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
                 <img loading="lazy" src="img/creacion-de-marca.jpg" alt="creacion-de-marca">
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>Escuchamos tus ideas, nos encargamos de crear y actualizar tu identidad, definir la esencia de la marca y transmitir el mensaje correcto para generar un mayor impacto y tener presencia.</p>
                 <p>¡Que tu marca se comunique por sí sola!</p>
             </div>
@@ -72,15 +71,15 @@
     <div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h2 class="h2 heading-title">Diseño de logotipo</h2>
+                <h2 class="h2 heading-title c-brand-p">Diseño de logotipo</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
         <div class="container col-lg-8 col-lg-offset-2 pb30">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>Un logo es el primer paso para posicionar tu marca. Además, te permite diferenciarte de tu competencia.</p>
                 <p>No creemos en plantillas, trabajamos en equipo para que tu logo refleje la esencia de tu marca y sea realmente único.</p>
             </div>
@@ -118,10 +117,10 @@
     <div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h2 class="h2 heading-title">Manual de marca</h2>
+                <h2 class="h2 heading-title c-brand-p">Manual de marca</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
@@ -129,7 +128,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
                 <img loading="lazy" src="img/manual-de-marca.jpg" alt="manual-de-marca">
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>Un manual de marca tiene como premisa fundamental decir cómo debe ser usada una marca.</p>
             </div>
         </div>
@@ -163,15 +162,15 @@
     <div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h2 class="h2 heading-title">Identidad corporativa</h2>
+                <h2 class="h2 heading-title c-brand-p">Identidad corporativa</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
         <div class="container col-lg-8 col-lg-offset-2 pb30">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>La Identidad Corporativa es la personalidad de la empresa. Su forma de comunicar, tanto con los clientes como con los empleados, además de su representación e imagen gráfica en todos los ámbitos (logo, papelería, web corporativa, reds, blog,…).</p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
@@ -208,10 +207,10 @@
 	<div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h2 class="h2 heading-title">Papelería corporativa</h2>
+                <h2 class="h2 heading-title c-brand-p">Papelería corporativa</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
@@ -219,7 +218,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
                 <img loading="lazy" src="img/manual-de-marca.jpg" alt="papeleria-corporativa">
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>
                     Tarjetas de negocio, sobre y hoja carta. Su identidad visual será profesionalmente aplicada en sus piezas de comunicación más habituales.
                 </p>
@@ -255,15 +254,15 @@
     <div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h2 class="h2 heading-title">Diseño gráfico</h2>
+                <h2 class="h2 heading-title c-brand-p">Diseño gráfico</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
         <div class="container col-lg-8 col-lg-offset-2 pb30">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>
                     El objetivo no es conquistar visualmente la mente del consumidor, sino también su corazón
                 </p>
@@ -302,10 +301,10 @@
     <div class="container-fluid pt80">
         <div class="container pb30">
             <div class="heading">
-                <h2 class="h2 heading-title">Fotografía publicitaria</h2>
+                <h2 class="h2 heading-title c-brand-p">Fotografía publicitaria</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-branding"></span>
+                    <span class="long-line bg-branding"></span>
                 </div>
             </div>
         </div>
@@ -313,7 +312,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
                 <<img loading="lazy" src="img/creacion-de-marca.jpg" alt="fotografia-publicitaria">
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-dark">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>
                     Por medio de un enfoque adecuado, por un reflejo preciso, por un ángulo de visión y por un control de la luz, las fotografías publicitarias logran poner un producto en valor.
                     <br>La fotografía ha dado un giro muy importante en pleno siglo XXl, Los vemos en las redes sociales, banners publicitarios con un solo propósito, de transmitirnos un mensaje de valor detrás de cada detalle. Ahí está la magia de la fotografía publicitaria.

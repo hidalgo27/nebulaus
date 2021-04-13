@@ -72,7 +72,7 @@
                                             <textarea name="mensaje" class="input-dark" placeholder="Mensaje" required></textarea>
                                         </div>
                                     </div>
-                                    <button class="btn btn-medium btn--green btn-hover-shadow">
+                                    <button type="submit" class="btn btn-medium btn--green btn-hover-shadow">
                                         <span class="text">Enviar</span>
                                         <span class="semicircle"></span>
                                     </button>

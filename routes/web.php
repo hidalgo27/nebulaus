@@ -57,3 +57,7 @@ Route::get('/Marketing-B2B', [HomeController::class,'marketingB2B'])->name('page
 Route::get('/Organize-Content', [HomeController::class,'organizeWebContent'])->name('page.blog.organizeWebContent');
 
 Route::get('/Branding-Importance', [HomeController::class,'brandingImportance'])->name('page.blog.brandingImportance');
+
+//EMAIL
+Route::post('/Contacto', 'EmailController@contacto')->name('contacto');
+//Ruta que esta señalando nuestro formulario

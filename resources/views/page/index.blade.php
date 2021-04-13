@@ -9,7 +9,7 @@
         <div class="swiper-container main-slider" data-effect="fade" data-autoplay="4000">
             <!-- SLIDER -->
             <div class="swiper-wrapper">
-				<div class="swiper-slide bg-border-color">
+				<div class="swiper-slide bg-primay-brand">
 					<div class="container">
 						<div class="row table-cell">
 							<div class="col-lg-12">
@@ -36,7 +36,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-primary-color main-slider-bg-dark thumb-left">
+				<div class="swiper-slide bg-primary-web main-slider-bg-dark thumb-left">
 					<div class="container table">
 						<div class="row table-cell">
 							<div class="col-lg-5 table-cell">
@@ -69,7 +69,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-secondary-color main-slider-bg-dark">
+				<div class="swiper-slide bg-primary-social main-slider-bg-dark">
 					<div class="container table">
 						<div class="row table-cell">
 							<div class="col-lg-6 table-cell">
@@ -99,7 +99,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-orange-color main-slider-bg-dark">
+				<div class="swiper-slide bg-boxed-m4 main-slider-bg-dark">
 					<div class="container table">
 						<div class="row table-cell">
 							<div class="col-lg-12">
@@ -147,7 +147,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-primary-color">
+                <div class="servises-item bg-primary-brand">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/branding.png" alt="service">
                     </div>
@@ -167,7 +167,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-green-color">
+                <div class="servises-item bg-primary-web">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
@@ -187,13 +187,13 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-orange-color">
+                <div class="servises-item bg-primary-social">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/redes-sociales.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">REDES SOCIALES</h3>
-                        <p class="servises-text">
+                        <p class="servises-text c-brand-s3">
 							Define la red social ideal para Publicidad de productos y/o servicios, creación de contenidos, estrategia de ventas.
                         </p>
                     </div>
@@ -207,7 +207,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-orangedark-color">
+                <div class="servises-item bg-primary-seo">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/seo.png" alt="seo">
                     </div>
@@ -227,7 +227,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-secondary-color">
+                <div class="servises-item bg-primary-audio">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
@@ -815,16 +815,12 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="images">
 					<img loading="lazy" src="img/seoscore1.png" alt="image">
 					<img loading="lazy" src="img/seoscore2.png" alt="image">
 					<img loading="lazy" src="img/seoscore3.png" alt="image">
 				</div>
-
 			</div>
 		</div>
 	</div>
-
-
 @endsection

@@ -185,7 +185,9 @@
     </div>
 
 </header>
-
+<div>
+    <a href="https://api.whatsapp.com/send?phone=51944173212" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+</div>
 <div class="mCustomScrollbar">
     <div class="popup right-menu">
         <div class="right-menu-wrap">
@@ -419,12 +421,6 @@
 
 					<span>Developed by <a href="https://themeforest.net/user/crumina/portfolio">Crumina</a></span>
 					<span>Only on <a href="https://themeforest.net/user/crumina/portfolio">Envato Market</a></span>
-
-					<a class="back-to-top" href="#">
-						<svg class="back-to-top">
-							<use xlink:href="#to-top"></use>
-						</svg>
-					</a>
 				</div>
 			</div>
 		</div>

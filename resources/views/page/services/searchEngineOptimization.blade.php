@@ -4,18 +4,18 @@
     <title>SEO y Posicionamiento Para Paginas Web</title>
 @endsection
 @section('content')
-	<div class="stunning-header stunning-header-bg-lightgray">
+	<div class="stunning-header bg-seo">
 		<div class="stunning-header-content">
-			<h1 class="stunning-header-title c-dark">SEO y posicionamiento web</h1>
+			<h1 class="stunning-header-title">SEO y posicionamiento web</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="/" class="c-gray">Home</a>
+					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
-					<a href="/#servicios" class="c-gray">Servicios</a>
+					<a href="/#servicios">Servicios</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">
-					<span href="#" class="c-primary">SEO y Posicionamiento web</span>
+					<span href="#">SEO y Posicionamiento web</span>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 			</ul>

@@ -10,6 +10,120 @@ input.input-dark, textarea.input-dark  {
 .Header{
     display: none !important;
 }
-.input.input-standard-grey {
-    background-color: #2f2c2c !important;
+.whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
 }
+.whatsapp-icon {
+    margin-top:13px;
+}
+/*AUDIO-VIDEO*/
+.c-audio-p{
+    color: #e8394f !important;
+}
+.c-audio-s1{
+    color: #ff4933 !important;
+}
+.c-audio-s2{
+    color: #ff33b4 !important;
+}
+.c-audio-s3{
+    color:#141e30 !important;
+}
+.bg-primary-audio {
+    background-color: #e8394f; }
+/*SEO*/
+.c-seo-p{
+    color:#901fdf !important;
+}
+.c-seo-s1{
+    color:#07eb7e !important;
+}
+.c-seo-s2{
+    color:#a707e0 !important;
+}
+.c-seo-s3{
+    color:#141e30 !important;
+}
+.bg-primary-seo {
+    background-color: #901fdf; }
+.bg-seo{
+    background-color: #a707e0;
+    background-image: linear-gradient(315deg, #a707e0 19%, #141e30 66%);
+}
+/*SOCIAL MEDIA*/
+.c-social-p{
+    color:#fdd833 !important;
+}
+.c-social-s1{
+    color:#26d9fe !important;
+}
+.c-social-s2{
+    color:#A6E060 !important;
+}
+.c-social-s3{
+    color:#141e30 !important;
+}
+.bg-primary-social {
+    background-color: #fdd833 !important;
+}
+.bg-secondary-social{
+    background-color:#26d9fe ;
+}
+.bg-secondary-social2{
+    background-color:#141e30 ;
+}
+.bg-social {
+    background-color: #fdd833;
+    background-image: linear-gradient(315deg, #fdd833 0%, #141e30 70%);
+}
+/*BRANDING*/
+.c-brand-p{
+    color:#141e30 !important;
+}
+.c-brand-s1{
+    color:#472b74 !important;
+}
+.c-brand-s2{
+    color:#2c2063 !important;
+}
+.c-brand-s3{
+    color:#000000 !important;
+}
+.bg-branding {
+    background-color: #141e30;
+    background-image: linear-gradient(315deg, #141e30 19%, #2c2063 38%, #472b74 54%, #2c2063 72%, #141e30 86%);
+}
+.bg-primary-brand {
+    background-color: #141e30; }
+/*WEB*/
+.c-web-p{
+    color:#f56231 !important;
+}
+.c-web-s1{
+    color:#ebdf07 !important;
+}
+.c-web-s2{
+    color:#28e007 !important;
+}
+.c-web-s3{
+    color:#141e30 !important;
+}
+.bg-web {
+    background-color: #f56231;
+    background-image: linear-gradient(315deg, #f56231 0%, #141e30 70%);
+}
+.bg-primary-web {
+    background-color: #f56231 !important; }
+/**/
+.pricing-tables-head .pricing-tables-item:hover .btn {
+    background-color: #fdd833 !important;}
