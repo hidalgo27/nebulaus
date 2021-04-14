@@ -113,43 +113,35 @@
 	</div>
 	<!--BENEFICIOS-->
 	<div class="container pb80">
-		<div class="heading">
-			<h2 class="h3">Beneficios que aporta el SEO al Posicionamiento Web</h2>
+		<div class="heading pb30">
+			<h2 class="h3 c-brand-p">Beneficios que aporta el SEO al Posicionamiento Web</h2>
 			<div class="heading-line">
-				<span class="short-line bg-primary-color"></span>
-				<span class="long-line bg-primary-color"></span>
+				<span class="short-line bg-primary-seo"></span>
+				<span class="long-line bg-primary-seo"></span>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row heading c-brand-s3">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<ul class="list list--secondary h4">
-					<li>
-						<i class="seoicon-check"></i>
-						<a href="#" class="h5">
-							Te posiciona sobre los competidores
-						</a>
+				<ul class="list list--secondary">
+					<li class="heading-text">
+						<i class="seoicon-check c-seo-s1"></i>
+						Te posiciona sobre los competidores
 					</li>
-					<li>
-						<i class="seoicon-check"></i>
-						<a href="#" class="h5">
-							Publicidad organica GRATIS
-						</a>
+					<li class="heading-text">
+						<i class="seoicon-check c-seo-s1"></i>
+						Publicidad organica GRATIS
 					</li>
 				</ul>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 				<ul class="list list--secondary">
-					<li>
-						<i class="seoicon-check"></i>
-						<a href="#" class="h5">
-							Posicionamiento a largo plazo
-						</a>
+					<li class="heading-text">
+						<i class="seoicon-check c-seo-s1"></i>
+						Posicionamiento a largo plazo
 					</li>
-					<li>
-						<i class="seoicon-check"></i>
-						<a href="#" class="h5">
-							Aumenta la visibilidad de tu marca.
-						</a>
+					<li class="heading-text"> 
+						<i class="seoicon-check c-seo-s1"></i>
+						Aumenta la visibilidad de tu marca.
 					</li>
 				</ul>
 			</div>
@@ -157,19 +149,19 @@
 	</div>
 	<!--SERVICIOS-->
 	<div class="container pb80">
-		<div class="heading">
-			<h2 class="h3">Servicios básicos de SEO para motores de búsqueda</h2>
+		<div class="heading pb30">
+			<h2 class="h3 c-brand-p">Servicios básicos de SEO para motores de búsqueda</h2>
 			<div class="heading-line">
-				<span class="short-line bg-primary-color"></span>
-				<span class="long-line bg-primary-color"></span>
+				<span class="short-line bg-primary-seo"></span>
+				<span class="long-line bg-primary-seo"></span>
 			</div>
 		</div>
-		<div class="row mb60">
+		<div class="row pb30">
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="info-box--standard-bg">
 					<div class="info-box-content">
-						<h4 class="info-box-title">BÚSQUEDA ORGÁNICA</h4>
-						<p class="text">
+						<h4 class="info-box-title c-brand-p">BÚSQUEDA<br>ORGÁNICA</h4>
+						<p class="text c-brand-s3 align-justify">
 							Enfoca tu marca a las intenciones de búsqueda que realiza el usuario.
 						</p>
 
@@ -183,8 +175,8 @@
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="info-box--standard-bg">
 					<div class="info-box-content">
-						<h4 class="info-box-title">ON-PAGE SEO</h4>
-						<p class="text">
+						<h4 class="info-box-title c-brand-p">ON-PAGE SEO</h4>
+						<p class="text c-brand-s3 align-justify">
 							Organiza el contenido sobre tu producto o servicio con las mejores prácticas de SEO Marketing.
 						</p>
 
@@ -198,8 +190,8 @@
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="info-box--standard-bg">
 					<div class="info-box-content">
-						<h4 class="info-box-title">LINK BUILDING</h4>
-						<p class="text">
+						<h4 class="info-box-title c-brand-p">LINK BUILDING</h4>
+						<p class="text c-brand-s3 align-justify">
 							Importante práctica del marketing online,  Incrementa tu autoridad como marca de forma orgánica.
 						</p>
 
@@ -219,7 +211,7 @@
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-				<a href="22_contacts.html" class="btn btn-medium btn--dark btn-hover-shadow mb30">
+				<a href="22_contacts.html" class="btn btn-medium btn--purple btn-hover-shadow mb30">
 					<span class="text">COTIZACIÓN GRATIS</span>
 					<span class="semicircle"></span>
 				</a>
@@ -227,50 +219,50 @@
 		</div>
 	</div>
 	<!--ANALISIS-->
-	<div class="container-fluid">
-		<div class="row medium-padding120 bg-orange-color">
+	<div class="container-fluid pb30">
+		<div class="row pb30">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 						<div class="heading">
-							<h4 class="h1 heading-title">Análisis SEO de sitios web</h4>
+							<h4 class="h3 heading-title c-brand-p">Análisis SEO de sitios web</h4>
 							<div class="heading-line">
-								<span class="short-line bg-yellow-color"></span>
-								<span class="long-line bg-yellow-color"></span>
+								<span class="short-line bg-primary-seo"></span>
+								<span class="long-line bg-primary-seo"></span>
 							</div>
-							<p class="heading-text c-white">
+							<p class="c-brand-p align-justify">
 								Los puntos basicos que se deben tener en consideracion a la hora de realizar una pequeña auditoría SEO son los siguientes:
-								<ul class="heading-text c-white">
-									<li>Indexación de tu página web.</li>
-									<li>Estado del Tráfico / Visibilidad.</li>
-									<li>Contenido Duplicado.</li>
-									<li>Aspectos Básicos de SEO on Page.</li>
+								<ul class="list list--secondary c-brand-p align-justify">
+									<li><i class="seoicon-check c-seo-s1"></i>Indexación de tu página web.</li>
+									<li><i class="seoicon-check c-seo-s1"></i>Estado del Tráfico / Visibilidad.</li>
+									<li><i class="seoicon-check c-seo-s1"></i>Contenido Duplicado.</li>
+									<li><i class="seoicon-check c-seo-s1"></i>Aspectos Básicos de SEO on Page.</li>
 								</ul>
 							</p>
-							<p class="heading-text c-white">Analizamos el SEO de tu  sitio web de tu negocio. </p>
+							<p class="c-brand-p align-justify">Analizamos el SEO de tu  sitio web de tu negocio. </p>
 						</div>
 
-						<div class="btn btn-medium btn--dark btn-hover-shadow mb30">
+						<div class="btn btn-medium btn--light-green btn-hover-shadow mb30">
 							<span class="text">ANÁLISIS GRATIS</span>
 							<span class="semicircle"></span>
 						</div>
 					</div>
 
 					<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-						<img loading="lazy" src="img/analysis.jpg" class="shadow-image" alt="analysis">
+						<img loading="lazy" src="img/analysis.jpg" alt="analysis">
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<!--PLANES-->
-	<div id="precios" class="container-fluid pt80">
+	<div id="precios" class="container-fluid">
 		<div class="row pb30">
 			<div class="heading mb30 align-center">
-				<h4 class="h2 heading-title">2 Planes</h4>
+				<h4 class="h3 heading-title c-brand-p">2 Planes</h4>
 				<div class="heading-line">
-					<span class="short-line"></span>
-					<span class="long-line"></span>
+					<span class="short-line bg-primary-seo"></span>
+					<span class="long-line bg-primary-seo"></span>
 				</div>
 			</div>
 			<div class="pricing-tables pricing-tables-head bg-white-color">
@@ -278,7 +270,7 @@
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding">
 							<div class="pricing-tables-item">
-								<div class="pricing-head bg-primary-color"></div>
+								<div class="pricing-head bg-seo-s2"></div>
 								<div class="pricing-content-wrap">
 
 									<div class="pricing-tables-icon">
@@ -335,7 +327,7 @@
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding">
 							<div class="pricing-tables-item">
-								<div class="pricing-head bg-secondary-color"></div>
+								<div class="pricing-head bg-seo-s1"></div>
 								<div class="pricing-content-wrap">
 
 									<div class="pricing-tables-icon">

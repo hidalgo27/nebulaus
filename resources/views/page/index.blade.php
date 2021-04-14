@@ -147,18 +147,18 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-primary-brand">
+                <div class="servises-item bg-brand-box">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/branding.png" alt="service">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">BRANDING</h3>
-                        <p class="servises-text">
+                        <p class="servises-text align-justify">
 							Promueve tu marca ante la competencia. Desde el diseño de logos, línea gráfica, fotografía, videos, packaging, merchandising.
                         </p>
                     </div>
                     <div class="align-center">
-                        <a href="/branding-diseño-de-marca" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
+                        <a href="/branding-diseño-de-marca" class="btn btn-medium btn--gray">
                             <span class="text">Te van a reconocer</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -167,18 +167,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-primary-web">
+                <div class="servises-item bg-web-box">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">DISEÑO WEB</h3>
-                        <p class="servises-text">
+                        <p class="servises-text align-justify">
 							Para tiendas online (Ecommerce). agencias de viajes, restaurantes, hoteles, páginas web de servicios y empresariales.
                         </p>
                     </div>
                     <div class="align-center">
-                        <a href="/diseño-paginas-web-para-empresas-en-peru" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
+                        <a href="/diseño-paginas-web-para-empresas-en-peru" class="btn btn-medium btn--gray">
                             <span class="text">Te van a contactar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -187,18 +187,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-primary-social">
+                <div class="servises-item bg-social-box">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/redes-sociales.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">REDES SOCIALES</h3>
-                        <p class="servises-text c-brand-s3">
+                        <p class="servises-text align-justify">
 							Define la red social ideal para Publicidad de productos y/o servicios, creación de contenidos, estrategia de ventas.
                         </p>
                     </div>
                     <div class="align-center">
-                        <a href="/publicidad-marketing-en-redes-sociales" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
+                        <a href="/publicidad-marketing-en-redes-sociales" class="btn btn-medium btn--gray">
                             <span class="text">Te van a ver</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -207,18 +207,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-primary-seo">
+                <div class="servises-item bg-seo-box">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/seo.png" alt="seo">
                     </div>
                     <div class="servises-item__content">
 						<h3 class="servises-title align-center">SEO</h3><br>
-                        <p class="servises-text">
+                        <p class="servises-text align-justify">
 							Estrategia de Marketing SEO y Posicionamiento de negocios en internet
                         </p><br><br>
 					</div>
                     <div class="align-center">
-                        <a href="/seo-y-posicionamiento-web-peru" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
+                        <a href="/seo-y-posicionamiento-web-peru" class="btn btn-medium btn--gray">
                             <span class="text">Te van a querer ver</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -227,18 +227,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-primary-audio">
+                <div class="servises-item bg-audio-box">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">PRODUCCIÓN AUDIOVISUAL</h3>
-                        <p class="servises-text">
+                        <p class="servises-text align-justify">
 							Edición y producción de videos para productos, servicios y eventos.
                         </p><br><br>
                     </div>
                     <div class="align-center">
-                        <a href="/Audio-Visual-Production" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
+                        <a href="/Audio-Visual-Production" class="btn btn-medium btn--gray">
                             <span class="text">Te van a inspirar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -254,12 +254,12 @@
                     <div class="servises-item__content">
 						<h3 class="servises-title align-center">NEBULA EDU</h3>
 						<br>
-                        <p class="servises-text">
+                        <p class="servises-text align-justify">
 							Aprende todo sobre nuestros productos y crea tu modelo de negocios para ti.
                         </p><br><br>
                     </div>
                     <div class="align-center">
-                        <a href="/Nebula-EDU" class="btn btn-medium btn--olive" style="margin-bottom: 20px; margin-left: 0;">
+                        <a href="/Nebula-EDU" class="btn btn-medium btn--olive">
                             <span class="text">Te van a enseñar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>

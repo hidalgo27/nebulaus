@@ -22,12 +22,12 @@
 		</div>
 	</div>
 	<!--INTRODUCCION-->
-    <div class="container-fluid medium-padding80">
+    <div class="container-fluid pt80">
 		<div class="container">
 			<div class="row" >
 				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
 					<div class="heading pb30 align-center">
-						<h1 class="h1 c-brand-p">Diseño de Página Web 2021</h1>
+						<h1 class="h1 c-brand-p">Diseño de página web 2021</h1>
 						<div class="heading-line">
 							<span class="short-line bg-primary-web"></span>
 							<span class="long-line bg-primary-web"></span>
@@ -43,43 +43,39 @@
     <div class="container-fluid">
         <div class=container>
             <div class="row pb30">
-                <div class="heading">
-                    <h2 id="precios" class="h3 c-brand-p">Precios</h2>
-                    <div class="heading-line">
-                        <span class="short-line bg-primary-web"></span>
-                        <span class="long-line bg-primary-web"></span>
-                    </div>
-                </div>
+				<div class="heading align-center pb30">
+					<h4 class="heading-title c-web-p">Precios</h4>
+				</div>
                 <table>
                         <tbody class="h5">
                             <tr>
-                                <td><i class="fa fa-caret-right"></i>Landing</td>
-                                <td><i class="seoicon-right-arrow"></i></td>
+                                <td><i class="fa fa-caret-right c-brand-p"></i>Landing</td>
+                                <td><i class="seoicon-right-arrow c-web-s1"></i></td>
                                 <td class="align-right">{{__('precio1')}}</td>
                             </tr>
                             <tr>
-                                <td><i class="fa fa-caret-right">Web con 5 Secciones</td>
-                                <td><i class="seoicon-right-arrow"></i></td>
+                                <td><i class="fa fa-caret-right c-brand-p"></i>Web con 5 Secciones</td>
+                                <td><i class="seoicon-right-arrow c-web-s1"></i></td>
                                 <td class="align-right">{{__('precio2')}}</td>
                             </tr>
                             <tr>
-                                <td><i class="fa fa-caret-right">Web con 8 Secciones</td>
-                                <td><i class="seoicon-right-arrow"></i></td>
+                                <td><i class="fa fa-caret-right c-brand-p"></i>Web con 8 Secciones</td>
+                                <td><i class="seoicon-right-arrow c-web-s1"></i></td>
                                 <td class="align-right">{{__('precio3')}}</td>
                             </tr>
                             <tr>
-                                <td><i class="fa fa-caret-right">Web con 10 Secciones</td>
-                                <td><i class="seoicon-right-arrow"></i></td>
+                                <td><i class="fa fa-caret-right c-brand-p"></i>Web con 10 Secciones</td>
+                                <td><i class="seoicon-right-arrow c-web-s1"></i></td>
                                 <td class="align-right">{{__('precio4')}}</td>
                             </tr>
                             <tr>
-                                <td><i class="fa fa-caret-right">Tienda : Ecommerce Simple</td>
-                                <td><i class="seoicon-right-arrow"></i></td>
+                                <td><i class="fa fa-caret-right c-brand-p"></i>Tienda : Ecommerce Simple</td>
+                                <td><i class="seoicon-right-arrow c-web-s1"></i></td>
                                 <td class="align-right">{{__('precio5')}}</td>
                             </tr>
                             <tr>
-                                <td><i class="fa fa-caret-right">Tienda : Ecommerce Multimarcas</td>
-                                <td><i class="seoicon-right-arrow"></i></td>
+                                <td><i class="fa fa-caret-right c-brand-p"></i>Tienda : Ecommerce Multimarcas</td>
+                                <td><i class="seoicon-right-arrow c-web-s1"></i></td>
                                 <td class="align-right">{{__('precio6')}}</td>
                             </tr>
                         </tbody>

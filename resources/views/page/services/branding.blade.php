@@ -27,8 +27,8 @@
             <div class="heading">
                 <h1 class="h2 heading-title c-brand-p">Creación de marcas e imagen empresarial</h1>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
@@ -73,8 +73,8 @@
             <div class="heading">
                 <h2 class="h2 heading-title c-brand-p">Diseño de logotipo</h2>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
@@ -119,8 +119,8 @@
             <div class="heading">
                 <h2 class="h2 heading-title c-brand-p">Manual de marca</h2>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
@@ -164,8 +164,8 @@
             <div class="heading">
                 <h2 class="h2 heading-title c-brand-p">Identidad corporativa</h2>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
@@ -209,8 +209,8 @@
             <div class="heading">
                 <h2 class="h2 heading-title c-brand-p">Papelería corporativa</h2>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
@@ -256,8 +256,8 @@
             <div class="heading">
                 <h2 class="h2 heading-title c-brand-p">Diseño gráfico</h2>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
@@ -303,8 +303,8 @@
             <div class="heading">
                 <h2 class="h2 heading-title c-brand-p">Fotografía publicitaria</h2>
                 <div class="heading-line">
-                    <span class="short-line bg-branding"></span>
-                    <span class="long-line bg-branding"></span>
+                    <span class="short-line bg-secondary1-brand"></span>
+                    <span class="long-line bg-secondary1-brand"></span>
                 </div>
             </div>
         </div>
