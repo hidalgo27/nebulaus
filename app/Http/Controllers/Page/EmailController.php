@@ -20,6 +20,6 @@ class EmailController extends Controller
     public function mensaje(Request $request ){
         $subject ="ASUNTO";
         $for="tania.vanessa609@gmail.com";
-        Mail::send('email'.$request
+        /*Mail::send('email'.$request*/
     }
 }

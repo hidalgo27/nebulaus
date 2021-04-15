@@ -299,7 +299,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Nosotros</h4>
-									<p class="text">Somos un equipo creativo, apasionado con ganas de ayudarte.
+									<p class="text c-brand-s3">Somos un equipo creativo, apasionado con ganas de ayudarte.
 									</p>
 								</div>
 							</div>
@@ -311,7 +311,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Calidad</h4>
-									<p class="text">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
+									<p class="text c-brand-s3">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
 									</p>
 								</div>
 							</div>
@@ -323,7 +323,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Confianza</h4>
-									<p class="text">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
+									<p class="text c-brand-s3">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
 									</p>
 								</div>
 							</div>
@@ -335,7 +335,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Conversemos</h4>
-									<p class="text">Nos gustaría ayudarte, ¡JUNTÉMONOS!.
+									<p class="text c-brand-s3">Nos gustaría ayudarte, ¡JUNTÉMONOS!.
 									</p>
 								</div>
 							</div>
@@ -398,42 +398,42 @@
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
 						</blockquote>
 					</div>
 				</div>
