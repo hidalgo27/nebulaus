@@ -6,6 +6,7 @@
     @yield('title')
     <link rel="icon" type="image/ico" href="img/favicon.ico" />
 
+
     <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/fonts.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/crumina-fonts.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/normalize.css')}}">
