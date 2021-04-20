@@ -116,7 +116,7 @@
                         <a href="/">Home</a>
                     </li>
                     <!--SERVICIOS-->
-                    <li class="">
+                    <li>
                         <a href="/#servicios">Servicios</a>
                         <ul class="dropdown">
                             <li class="megamenu-item-info">
@@ -416,7 +416,7 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <span>
-                        Copyright © 2016 <a href="index.html" class="sub-footer__link">Seosight,</a>
+                        Copyright © 2016 <a href="index.html" class="sub-footer__link">Nebula,</a>
                         Designed by <a href="https://themeforest.net/user/themefire/portfolio">themefire</a>
                     </span>
 

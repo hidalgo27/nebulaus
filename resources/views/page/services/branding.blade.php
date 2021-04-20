@@ -46,21 +46,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpu5ZALFs_/">
 						</blockquote>
 					</div>
 				</div>
@@ -92,21 +92,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvm9-LI8d/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwF9qrD-W/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwVQ-r5XX/">
 						</blockquote>
 					</div>
 				</div>
@@ -182,21 +182,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpv9v3LFDZ/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvt0aLTDO/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwTc8LMho/">
 						</blockquote>
 					</div>
 				</div>
@@ -229,21 +229,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvlZ3Lh-S/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwDGCLKZJ/">
 						</blockquote>
 					</div>
 				</div>
@@ -276,21 +276,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpue3erL_7/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpv2EoLM4n/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvpXYrBBX/">
 						</blockquote>
 					</div>
 				</div>
@@ -324,21 +324,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwbGnrPhO/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpu7mbLw5g/">
 						</blockquote>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpuuN4rIr5/">
 						</blockquote>
 					</div>
 				</div>

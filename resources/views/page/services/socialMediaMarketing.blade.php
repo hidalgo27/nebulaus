@@ -302,4 +302,41 @@
 		</div>
 	</div>
 
+    <div class="container-fluid pt80">
+        <div class="container pb30">
+            <div class="heading align-center">
+                <h2 class="h2 heading-title c-brand-p">Algunos de nuestros proyectos</h2>
+                <div class="heading-line">
+                    <span class="short-line bg-primary-social"></span>
+                    <span class="long-line bg-primary-social"></span>
+                </div>
+            </div>
+        </div>
+        <div class="container pb80">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="features-item">
+                        <blockquote class="instagram-media"
+                                    data-instgrm-permalink="https://www.instagram.com/p/CNpwbGnrPhO/">
+                        </blockquote>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="features-item">
+                        <blockquote class="instagram-media"
+                                    data-instgrm-permalink="https://www.instagram.com/p/CNpu7mbLw5g/">
+                        </blockquote>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="features-item">
+                        <blockquote class="instagram-media"
+                                    data-instgrm-permalink="https://www.instagram.com/p/CNpuuN4rIr5/">
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 @endsection

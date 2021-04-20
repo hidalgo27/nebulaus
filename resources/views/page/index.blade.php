@@ -137,10 +137,10 @@
     <div id="servicios" class="container">
         <div class="row align-center pb30">
             <div class="heading">
-                <h2 class="heading-title">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
+                <h2 class="heading-title c-brand-p">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
                 <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
+                    <span class="short-line bg-primary-brand"></span>
+                    <span class="long-line bg-primary-brand"></span>
                 </div>
                 <span class="heading-text">SERVICIOS</span>
             </div>
@@ -281,10 +281,10 @@
 					<div class="row align-center">
 						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
 							<div class="heading">
-								<h2 class="heading-title">¿POR QUÉ NEBULA?</h2>
+								<h2 class="heading-title c-brand-p">¿POR QUÉ NEBULA?</h2>
 								<div class="heading-line">
-									<span class="short-line"></span>
-									<span class="long-line"></span>
+									<span class="short-line bg-primary-brand"></span>
+									<span class="long-line bg-primary-brand"></span>
 								</div>
 								<p class="heading-text">NOS CARACTERIZAMOS POR
 								</p>
@@ -299,7 +299,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Nosotros</h4>
-									<p class="text">Somos un equipo creativo, apasionado con ganas de ayudarte.
+									<p class="text c-brand-s3">Somos un equipo creativo, apasionado con ganas de ayudarte.
 									</p>
 								</div>
 							</div>
@@ -311,7 +311,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Calidad</h4>
-									<p class="text">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
+									<p class="text c-brand-s3">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
 									</p>
 								</div>
 							</div>
@@ -323,7 +323,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Confianza</h4>
-									<p class="text">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
+									<p class="text c-brand-s3">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
 									</p>
 								</div>
 							</div>
@@ -335,7 +335,7 @@
 								</div>
 								<div class="info-box-content">
 									<h4 class="info-box-title">Conversemos</h4>
-									<p class="text">Nos gustaría ayudarte, ¡JUNTÉMONOS!.
+									<p class="text c-brand-s3">Nos gustaría ayudarte, ¡JUNTÉMONOS!.
 									</p>
 								</div>
 							</div>
@@ -349,10 +349,10 @@
     <div class="container medium-padding80">
         <div class="row align-center">
             <div class="heading ">
-				<h2 class="heading-title">ACERCA DE TÍ</h2>
+				<h2 class="heading-title c-brand-p">ACERCA DE TÍ</h2>
 				<div class="heading-line">
-					<span class="short-line"></span>
-					<span class="long-line"></span>
+					<span class="short-line bg-primary-brand"></span>
+					<span class="long-line bg-primary-brand"></span>
 				</div>
                 <p class="heading-text">¿QUE PERFIL TE IDENTIFICA?</p>
             </div>
@@ -385,10 +385,10 @@
     <div class="container-fluid align-center pb80">
         <div class="row">
             <div class="heading ">
-                <h2 class="heading-title">NUESTROS PROYECTOS</h2>
+                <h2 class="heading-title c-brand-p">NUESTROS PROYECTOS</h2>
                 <div class="heading-line">
-					<span class="short-line"></span>
-					<span class="long-line"></span>
+					<span class="short-line bg-primary-brand"></span>
+					<span class="long-line bg-primary-brand"></span>
 				</div>
                 <p class="heading-text">ESTOS SON ALGUNOS</p>
             </div>
@@ -398,42 +398,42 @@
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
 						</blockquote>
 					</div>
 				</div>
@@ -450,10 +450,10 @@
 
 		<div class="pricing-tables">
 			<div class="heading align-center pb30">
-				<h2 class="heading-title">NUESTROS PRECIOS</h2>
+				<h2 class="heading-title c-brand-p">NUESTROS PRECIOS</h2>
 				<div class="heading-line">
-					<span class="short-line"></span>
-					<span class="long-line"></span>
+					<span class="short-line bg-primary-brand"></span>
+					<span class="long-line bg-primary-brand"></span>
 				</div>
 				<p class="heading-text">ALGUNAS DE NUESTRAS OFERTAS</p>
 			</div>
@@ -608,10 +608,10 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 							<div class="heading">
-								<h2 class="h1 heading-title">CLIENTES FELICES</h2>
+								<h2 class="h1 heading-title c-brand-p">CLIENTES FELICES</h2>
 								<div class="heading-line">
-									<span class="short-line bg-yellow-color"></span>
-									<span class="long-line bg-yellow-color"></span>
+									<span class="short-line bg-primary-brand"></span>
+									<span class="long-line bg-primary-brand"></span>
 								</div>
 								<p class="heading-text c-white">
 									Algunos comentarios que expresan nuestros clientes acerca de nuestra empresa
@@ -707,10 +707,10 @@
 		<div class="container medium-padding80">
             <div class="row pb30">
 				<div class="heading align-center pb30">
-					<h2 class="heading-title">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
+					<h2 class="heading-title c-brand-p">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
 					<div class="heading-line">
-						<span class="short-line"></span>
-						<span class="long-line"></span>
+						<span class="short-line bg-primary-brand"></span>
+						<span class="long-line bg-primary-brand"></span>
 					</div>
 				</div>
             </div>

@@ -43,7 +43,7 @@ input.input-dark, textarea.input-dark  {
     background-color: #e8394f; }
 .bg-audio-box{
     background-color: #e8394f;
-    background-image: linear-gradient(180deg, #e8394f 72%, #141e30 100%);    
+    background-image: linear-gradient(180deg, #e8394f 72%, #141e30 100%);
 }
 /*SEO*/
 .c-seo-p{
@@ -102,7 +102,7 @@ input.input-dark, textarea.input-dark  {
 }
 .bg-social-box{
     background-color: #fdd833;
-    background-image: linear-gradient(180deg, #fdd833 72%, #141e30 100%);    
+    background-image: linear-gradient(180deg, #fdd833 72%, #141e30 100%);
 }
 /*BRANDING*/
 .c-brand-p{
@@ -128,7 +128,7 @@ input.input-dark, textarea.input-dark  {
 }
 .bg-brand-box{
     background-color: #472b74;
-    background-image: linear-gradient(180deg, #472b74 72%, #141e30 100%);    
+    background-image: linear-gradient(180deg, #472b74 72%, #141e30 100%);
 }
 /*WEB*/
 .c-web-p{
@@ -151,7 +151,7 @@ input.input-dark, textarea.input-dark  {
     background-color: #f56231 !important; }
 .bg-web-box{
     background-color: #f56231;
-    background-image: linear-gradient(180deg, #f56231 72%, #141e30 100%);    
+    background-image: linear-gradient(180deg, #f56231 72%, #141e30 100%);
 }
 /**/
 .pricing-tables-head .pricing-tables-item:hover .btn {
@@ -161,6 +161,8 @@ input.input-dark, textarea.input-dark  {
 }
 .list--secondary a:hover, .list--secondary li:hover {
     color: #a707e0 !important; }
-
 .btn--gray:hover {
         background-color: #141e30 !important; }
+.features-item .instagram-media .instagram-media-rendered .Embed .Header .AvatarContainer {
+    display: none !important;
+}
