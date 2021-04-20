@@ -31,10 +31,10 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb30">
-				<img loading="lazy" src="img/mac-book.png" alt="pc">
+			<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb30 align-center">
+				<img loading="lazy" src="img/seo/seo.png" alt="posicionamiento">
 			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
+			<div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
 				<p>
 					El Posicionamiento web en Buscadores, internacionalmente conocido como SEO (Search Engine Optimization), busca brindarte todo el apoyo
 					necesario para que tu página web aparezca en la TOP 10 de las mejores ubicaciones en Google acorde a las  palabras o frases (palabras clave) que las personas realmente están buscando.
@@ -120,30 +120,40 @@
 				<span class="long-line bg-primary-seo"></span>
 			</div>
 		</div>
-		<div class="row heading c-brand-s3">
+		<div class="row c-brand-s3">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<ul class="list list--secondary">
-					<li class="heading-text">
-						<i class="seoicon-check c-seo-s1"></i>
-						Te posiciona sobre los competidores
-					</li>
-					<li class="heading-text">
-						<i class="seoicon-check c-seo-s1"></i>
-						Publicidad organica GRATIS
-					</li>
-				</ul>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                    <img loading="lazy" src="img/seo/posicionamiento.png" alt="seo">
+                </div>
+                <div class="col-lg-9 col-md-6 col-sm-12 col-xs-12">
+                    <ul class="list list--secondary">
+                        <li class="text">
+                            <i class="seoicon-check c-seo-s2"></i>
+                            Te posiciona sobre los competidores
+                        </li>
+                        <li class="text">
+                            <i class="seoicon-check c-seo-s2"></i>
+                            Posicionamiento a largo plazo
+                        </li>
+                    </ul>
+                </div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<ul class="list list--secondary">
-					<li class="heading-text">
-						<i class="seoicon-check c-seo-s1"></i>
-						Posicionamiento a largo plazo
-					</li>
-					<li class="heading-text"> 
-						<i class="seoicon-check c-seo-s1"></i>
-						Aumenta la visibilidad de tu marca.
-					</li>
-				</ul>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                    <img loading="lazy" src="img/seo/visibilidad.png" alt="seo">
+                </div>
+                <div class="col-lg-9 col-md-6 col-sm-12 col-xs-12">
+                    <ul class="list list--secondary">
+                        <li class="text">
+                            <i class="seoicon-check c-seo-s2"></i>
+                            Aumenta la visibilidad de tu marca.
+                        </li>
+                        <li class="text">
+                            <i class="seoicon-check c-seo-s2"></i>
+                            Publicidad organica GRATIS
+                        </li>
+                    </ul>
+                </div>
 			</div>
 		</div>
 	</div>
@@ -164,9 +174,8 @@
 						<p class="text c-brand-s3 align-justify">
 							Enfoca tu marca a las intenciones de búsqueda que realiza el usuario.
 						</p>
-
 						<div class="info-box-image">
-							<img loading="lazy" src="img/info-box15.png" alt="image">
+							<img loading="lazy" src="img/seo/busqueda-organica.png" alt="seo">
 						</div>
 					</div>
 				</div>
@@ -181,7 +190,7 @@
 						</p>
 
 						<div class="info-box-image">
-							<img loading="lazy" src="img/info-box16.png" alt="image">
+							<img loading="lazy" src="img/seo/on-page-seo.png" alt="seo">
 						</div>
 					</div>
 				</div>
@@ -196,7 +205,7 @@
 						</p>
 
 						<div class="info-box-image">
-							<img loading="lazy" src="img/info-box17.png" alt="image">
+							<img loading="lazy" src="img/seo/link-building.png" alt="seo">
 						</div>
 					</div>
 				</div>

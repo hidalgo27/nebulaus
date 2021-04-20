@@ -149,7 +149,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-brand-box">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/branding.png" alt="service">
+                        <img loading="lazy" src="img/iconos/Nueva carpeta/branding.png" alt="service">
                     </div>
                     <div class="servises-item__content">
                         <h3 class="servises-title align-center">BRANDING</h3>
@@ -715,65 +715,134 @@
 				</div>
             </div>
             <div class="row">
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
+                <div class="row">
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web8.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web12.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web3.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web4.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web5.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web6.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
                 </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
+                <div class="row">
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web13.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web10.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web15.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web24.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web16.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web23.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
                 </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
+                <div class="row">
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web21.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web18.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web1.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web2.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web11.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web7.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
                 </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-                </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-                </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-                </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-                </div>
-                <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-				</div>
-				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-				</div>
-				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-				</div>
-				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
-				</div>
-				<div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
-                    <a href="09_our_clients.html" class="client-image">
-                        <img loading="lazy" src="img/client1-hover.png" alt="logo" class="hover">
-                    </a>
+                <div class="row">
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web9.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web14.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web17.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web19.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web20.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
+
+                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                        <a href="09_our_clients.html" class="client-image">
+                            <img loading="lazy" src="img/clientes/web22.png" alt="cliente" class="hover">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

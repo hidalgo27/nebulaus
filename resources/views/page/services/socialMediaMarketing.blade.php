@@ -56,25 +56,25 @@
 			<div class="container">
 				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 					<div class="heading mb30">
-						<h4 class="h3 heading-title c-brand-p">Creación de Contenidos Para Redes Sociales</h4>
+						<h4 class="heading-title c-brand-p">Creación de Contenidos Para Redes Sociales</h4>
 						<p class="c-brand-s3 align-justify">
 							Ideamos estrategias de contenido a media para tu negocio, teniendo en cuenta los formatos y las redes sociales que se adecuen a tu marca (Producto, Servicio), así mismo asignamos a nuestros especialistas en diseños estratégicos para cada tipo de negocio y creación de videos promocionales.
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-					<img loading="lazy" src="img/social-photo.png" alt="social">
+					<img loading="lazy" src="img/redes/creacion-de-contenido.png" alt="redes-sociales">
 				</div>
 			</div>
 		</div>
-		<div class="row medium-padding80 bg-border-color">
+		<div class="row bg-border-color">
 			<div class="container">
-				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-					<img loading="lazy" src="img/social-photo.png" alt="social">
+				<div class="col-lg-4 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12 align-center">
+					<img loading="lazy" src="img/redes/administracion.png" alt="redes-sociales">
 				</div>
-				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+				<div class="col-lg-7 col-md-5 col-sm-12 col-xs-12">
 					<div class="heading mb30">
-						<h4 class="h3 heading-title c-brand-p">Administración y Monitoreo de Redes Sociales</h4>
+						<h4 class="heading-title c-brand-p">Administración y Monitoreo de Redes Sociales</h4>
 						<p class="c-brand-s3 align-justify">
 							Administramos todas tus plataformas de redes sociales de tu marca, Conoce todos los datos que deben ser gestionados y comprender el alcance de las acciones que se realizan en tus RRSS, con la finalidad de tener conclusiones sobre los objetivos realizados en tus redes sociales.
 						</p>
@@ -86,15 +86,15 @@
 			<div class="container">
 				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 					<div class="heading mb30">
-						<h4 class="h3 heading-title c-brand-p">Publicidad en Facebook Ads 2021</h4>
+						<h4 class="heading-title c-brand-p">Publicidad en Facebook Ads 2021</h4>
 						<p class="c-brand-s3 align-justify">
 							Hay algo claro sobre esta estrategia de marketing y publicidad en facebook: El alcance y la visibilidad de tu marca va de aumenta a corto y mediano plazo.  Una buena segmentación de tu público y/o audiencia te brinda la oportunidad de llegar a potenciales clientes, En nebula trabajamos en conjunto  con nuestros especialistas para potenciar tu negocio en las redes sociales.
 						</p>
 					</div>
 				</div>
 
-				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-					<img loading="lazy" src="img/social-photo.png" alt="social">
+				<div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12 align-center">
+					<img loading="lazy" src="img/redes/publicidad-fb.png" alt="redes-sociales">
 				</div>
 			</div>
 		</div>
