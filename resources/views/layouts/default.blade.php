@@ -589,5 +589,14 @@
                src="https://www.facebook.com/tr?id=297102598604641&ev=PageView&noscript=1"
     /></noscript>
 <!-- End Facebook Pixel Code -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE5Y0KQ9X1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZE5Y0KQ9X1');
+</script>
 </body>
 </html>
