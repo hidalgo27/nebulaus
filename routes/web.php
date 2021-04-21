@@ -60,8 +60,4 @@ Route::get('/Organize-Content', [HomeController::class,'organizeWebContent'])->n
 Route::get('/Branding-Importance', [HomeController::class,'brandingImportance'])->name('page.blog.brandingImportance');
 
 //EMAIL
-Route::get('/contact',[ContactController::class,'index'])->name('contact.index');
-Route::post('/',[ContactController::class,'send'])->name('contact.send');
-Route::get('/mail/contact',function(){
-    return new \App\Mail\SendContactForm('Motivo','Mensaje');
-});
+Route::post('/',[HomeController::class,'contactForm'])->name('contactForm');

@@ -147,18 +147,18 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-brand-box">
+                <div class="servises-item bg-box-brand">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/Nueva carpeta/branding.png" alt="service">
+                        <img loading="lazy" src="img/iconos/branding.png" alt="service">
                     </div>
-                    <div class="servises-item__content">
-                        <h3 class="servises-title align-center">BRANDING</h3>
-                        <p class="servises-text align-justify">
+                    <div class="servises-item__content align-center">
+                        <h3 class="servises-title">BRANDING</h3>
+                        <p class="servises-text c-dark">
 							Promueve tu marca ante la competencia. Desde el diseño de logos, línea gráfica, fotografía, videos, packaging, merchandising.
                         </p>
                     </div>
                     <div class="align-center">
-                        <a href="/branding-diseño-de-marca" class="btn btn-medium btn--gray">
+                        <a href="/branding-diseño-de-marca" class="btn btn-small btn--olive">
                             <span class="text">Te van a reconocer</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -167,18 +167,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-web-box">
+                <div class="servises-item bg-box-web">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
-                    <div class="servises-item__content">
-                        <h3 class="servises-title align-center">DISEÑO WEB</h3>
-                        <p class="servises-text align-justify">
+                    <div class="servises-item__content align-center">
+                        <h3 class="servises-title">DISEÑO<br>WEB</h3>
+                        <p class="servises-text c-dark">
 							Para tiendas online (Ecommerce). agencias de viajes, restaurantes, hoteles, páginas web de servicios y empresariales.
                         </p>
                     </div>
                     <div class="align-center">
-                        <a href="/diseño-paginas-web-para-empresas-en-peru" class="btn btn-medium btn--gray">
+                        <a href="/diseño-paginas-web-para-empresas-en-peru" class="btn btn-small btn--olive">
                             <span class="text">Te van a contactar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -187,18 +187,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-social-box">
+                <div class="servises-item bg-box-social">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/redes-sociales.png" alt="redes-sociales">
                     </div>
-                    <div class="servises-item__content">
-                        <h3 class="servises-title align-center">REDES SOCIALES</h3>
-                        <p class="servises-text align-justify">
+                    <div class="servises-item__content align-center">
+                        <h3 class="servises-title">REDES<br>SOCIALES</h3>
+                        <p class="servises-text c-dark">
 							Define la red social ideal para Publicidad de productos y/o servicios, creación de contenidos, estrategia de ventas.
                         </p>
                     </div>
                     <div class="align-center">
-                        <a href="/publicidad-marketing-en-redes-sociales" class="btn btn-medium btn--gray">
+                        <a href="/publicidad-marketing-en-redes-sociales" class="btn btn-small btn--olive">
                             <span class="text">Te van a ver</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -207,18 +207,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-seo-box">
+                <div class="servises-item bg-box-seo">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/seo.png" alt="seo">
                     </div>
-                    <div class="servises-item__content">
-						<h3 class="servises-title align-center">SEO</h3><br>
-                        <p class="servises-text align-justify">
+                    <div class="servises-item__content align-center">
+						<h3 class="servises-title ">SEO</h3><br>
+                        <p class="servises-text c-dark">
 							Estrategia de Marketing SEO y Posicionamiento de negocios en internet
                         </p><br><br>
 					</div>
                     <div class="align-center">
-                        <a href="/seo-y-posicionamiento-web-peru" class="btn btn-medium btn--gray">
+                        <a href="/seo-y-posicionamiento-web-peru" class="btn btn-small btn--olive">
                             <span class="text">Te van a querer ver</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -227,18 +227,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-audio-box">
+                <div class="servises-item bg-box-audio">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
-                    <div class="servises-item__content">
-                        <h3 class="servises-title align-center">PRODUCCIÓN AUDIOVISUAL</h3>
-                        <p class="servises-text align-justify">
+                    <div class="servises-item__content align-center">
+                        <h3 class="servises-title">PRODUCCIÓN AUDIOVISUAL</h3>
+                        <p class="servises-text c-dark">
 							Edición y producción de videos para productos, servicios y eventos.
                         </p><br><br>
                     </div>
                     <div class="align-center">
-                        <a href="/Audio-Visual-Production" class="btn btn-medium btn--gray">
+                        <a href="/Audio-Visual-Production" class="btn btn-small btn--olive">
                             <span class="text">Te van a inspirar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -247,19 +247,18 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-violet-color">
+                <div class="servises-item bg-box-edu">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/educacion.png" alt="educacion">
                     </div>
-                    <div class="servises-item__content">
-						<h3 class="servises-title align-center">NEBULA EDU</h3>
-						<br>
-                        <p class="servises-text align-justify">
+                    <div class="servises-item__content align-center">
+						<h3 class="servises-title">NEBULA<br>EDU</h3>
+                        <p class="servises-text c-dark">
 							Aprende todo sobre nuestros productos y crea tu modelo de negocios para ti.
                         </p><br><br>
                     </div>
                     <div class="align-center">
-                        <a href="/Nebula-EDU" class="btn btn-medium btn--olive">
+                        <a href="/Nebula-EDU" class="btn btn-small btn--olive">
                             <span class="text">Te van a enseñar</span>
                             <span class="semicircle"></span>
                             <span class="semicircle"></span>
@@ -848,31 +847,36 @@
         </div>
     </div>
 	<!--TALKING-->
-    <div class="container-fluid">
+    <div id="contacto" class="container-fluid">
 		<div class="row">
 			<div class="seo-score scrollme">
 				<div class="container">
 					<div class="row">
+                        @if (session('status'))
+                            <div>
+                                <s>Gracias por contactar con nosotros!</s> Su mensaje fue enviado satisfactoriamente.
+                            </div>
+                        @endif
 						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
 							<div class="seo-score-content align-center">
 								<div class="heading align-center">
 									<h4 class="h1 heading-title">¿Conversamos?</h4>
 									</div>
 								<div >
-                                    <form method="POST" action="{{route("contact.send")}}">
+                                    <form method="POST" action="{{route("contactForm")}}">
                                         @csrf
                                         <div class="row">
 											<div class="col-lg-12  col-md-12 col-xs-12 col-sm-12">
-												<input name="nombre" class="input-dark" placeholder="Nombre" required>
+												<input name="tNombre" class="input-dark" placeholder="Nombre" required>
 											</div>
 											<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-												<input name="email" class="input-dark" placeholder="Email" type="email" required>
+												<input name="tEmail" class="input-dark" placeholder="Email" type="email" required>
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-												<input name="whatsaap" class="input-dark" placeholder="Whatsaap" type="text" required>
+												<input name="tWhatssap" class="input-dark" placeholder="Whatsaap" type="text" required>
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-												<textarea name="mensaje" class="input-dark" placeholder="Mensaje" required></textarea>
+												<textarea name="tMensaje" class="input-dark" placeholder="Mensaje" required></textarea>
                                             </div>
 										</div>
 										<button class="btn btn-medium btn--green btn-hover-shadow" type="submit">

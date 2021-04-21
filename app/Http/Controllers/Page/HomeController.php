@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Page;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class HomeController extends Controller
 {
@@ -76,5 +77,34 @@ class HomeController extends Controller
 
     public function brandingImportance(){
         return view('page.blog.brandingImportance');
-    }    
+    }
+    //EMAIL
+    public function contactForm(Request $request){
+        $from = 'tania.vanessa609@gmail.com';
+        $nombre = $request->tNombre;
+        $email = $request->tEmail;
+        $whatsaap = $request->tWhatssap;
+        $mensaje=$request->tMensaje;
+        try {
+            Mail::send(['html' => 'email.messageClient'], ['nombre' => $nombre],
+                function ($messaje) use ($email, $nombre) { $messaje->to($email, $nombre)
+                    ->subject('Nebula')
+                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+            });
+            Mail::send(['html' => 'email.messageContact'], [
+                'nombre' => $nombre,
+                'email' => $email,
+                'whatsaap' => $whatsaap,
+                'mensaje'=> $mensaje,],
+                function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
+                    ->subject('Nebula')
+                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+            });
+
+            return redirect('/#contacto')->with('status', 'Registro satisfactorio.');
+        }
+        catch (Exception $e){
+            return $e;
+        }
+    }
 }
