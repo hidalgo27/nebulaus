@@ -97,11 +97,66 @@ class HomeController extends Controller
                 'whatsaap' => $whatsaap,
                 'mensaje'=> $mensaje,],
                 function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
-                    ->subject('Nebula')
+                    ->subject('Nebula - Formulario de Contacto')
                     ->from('tania.vanessa609@gmail.com', 'Nebula');
             });
 
             return redirect('/#contacto')->with('status', 'Registro satisfactorio.');
+        }
+        catch (Exception $e){
+            return $e;
+        }
+    }
+
+    public function enviarOfertas(Request $request){
+        $from = 'tania.vanessa609@gmail.com';
+        $email = $request->tEmail;
+        try {
+            Mail::send(['html' => 'email.messageClient'],[
+                'email' => $email],
+                function ($messaje) use ($email) { $messaje->to($email)
+                    ->subject('Nebula')
+                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+                });
+            Mail::send(['html' => 'email.messageOfertas'], [
+                'email' => $email],
+                function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
+                    ->subject('Nebula')
+                    ->from('tania.vanessa609@gmail.com', 'Nebula - Enviar Ofertas ');
+                });
+
+            return redirect('/#oferta')->with('sta', 'Registro satisfactorio.');
+        }
+        catch (Exception $e){
+            return $e;
+        }
+    }
+    public function analisisSeo(Request $request){
+        $from = 'tania.vanessa609@gmail.com';
+        $sitio=$request->tSitioWeb;
+        $nombre=$request->tNombre;
+        $email = $request->tEmail;
+        $telefono=$request->tTelefono;
+        $mensaje=$request->tMensaje;
+        try {
+            Mail::send(['html' => 'email.messageClient'],[
+                'email' => $email],
+                function ($messaje) use ($email) { $messaje->to($email)
+                    ->subject('Nebula')
+                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+                });
+            Mail::send(['html' => 'email.messageOfertas'], [
+                'sitio'=>$sitio,
+                'nombre'=>$nombre,
+                'email' => $email,
+                'telefono'=>$telefono,
+                'mensaje' =>$mensaje],
+                function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
+                    ->subject('Nebula')
+                    ->from('tania.vanessa609@gmail.com', 'Nebula - Enviar Ofertas ');
+                });
+
+            return redirect('/seo-y-posicionamiento-web-peru#formulario')->with('statusSeo', 'Registro satisfactorio.');
         }
         catch (Exception $e){
             return $e;

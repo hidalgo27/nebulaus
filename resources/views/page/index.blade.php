@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('title')
-	<meta name="description" content="En Nebula Creativo somos una agenciaa de marketing especilizado en diseño web para empresas, branding y marketing digital en Cusco."/>
+	<meta name="description" content="En Nebula Creativo somos una agencia de marketing especilizado en diseño web para empresas, branding y marketing digital en Cusco."/>
     <title>Agencia de Diseño Web y Marketing Digital | NEBULA Cusco 2021</title>
 @endsection
 @section('content')
@@ -291,7 +291,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
 									<img loading="lazy" src="img/iconos/nosotros.png" alt="nosotros">
@@ -303,7 +303,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
 									<img loading="lazy" src="img/iconos/calidad.png" alt="calidad">
@@ -315,7 +315,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
 									<img loading="lazy" src="img/iconos/confianza.png" alt="confianza">
@@ -327,7 +327,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 							<div class="info-box--standard-centered">
 								<div class="info-box-image">
 									<img loading="lazy" src="img/iconos/conversemos.png" alt="conversemos">
@@ -382,67 +382,71 @@
     </div>
 	<!--OUR PROJECTS-->
     <div class="container-fluid align-center pb80">
-        <div class="row">
-            <div class="heading ">
-                <h2 class="heading-title c-brand-p">NUESTROS PROYECTOS</h2>
-                <div class="heading-line">
-					<span class="short-line bg-primary-brand"></span>
-					<span class="long-line bg-primary-brand"></span>
-				</div>
-                <p class="heading-text">ESTOS SON ALGUNOS</p>
+        <div class="container">
+            <div class="row">
+                <div class="heading ">
+                    <h2 class="heading-title c-brand-p">NUESTROS PROYECTOS</h2>
+                    <div class="heading-line">
+                        <span class="short-line bg-primary-brand"></span>
+                        <span class="long-line bg-primary-brand"></span>
+                    </div>
+                    <p class="heading-text">ESTOS SON ALGUNOS</p>
+                </div>
+            </div>
+            <div class="container align-center">
+                <div class="row pb30 align-center">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <div class="features-item">
+                            <blockquote class="instagram-media"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <div class="features-item">
+                            <blockquote class="instagram-media"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <div class="features-item">
+                            <blockquote class="instagram-media"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <div class="features-item">
+                            <blockquote class="instagram-media"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <div class="features-item">
+                            <blockquote class="instagram-media"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <div class="features-item">
+                            <blockquote class="instagram-media"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <a href="21_seo_analysis.html" class="btn btn-medium btn--blue">
+                    <span class="text">Ver mas</span>
+                    <span class="semicircle"></span>
+                    <span class="semicircle"></span>
+                </a>
             </div>
         </div>
-		<div class="container align-center">
-			<div class="row pb30 align-center">
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-					<div class="features-item">
-						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-					<div class="features-item">
-						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-					<div class="features-item">
-						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-					<div class="features-item">
-						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-					<div class="features-item">
-						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-					<div class="features-item">
-						<blockquote class="instagram-media"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
-						</blockquote>
-					</div>
-				</div>
-			</div>
-        </div>
-        <a href="21_seo_analysis.html" class="btn btn-medium btn--blue">
-            <span class="text">Ver mas</span>
-            <span class="semicircle"></span>
-            <span class="semicircle"></span>
-        </a>
     </div>
     <!--PRICES-->
 	<div class="container-fluid pb80">
@@ -715,129 +719,129 @@
             </div>
             <div class="row">
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web8.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web12.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web3.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web4.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web5.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web6.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web13.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web10.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web15.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web24.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web16.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web23.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web21.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web18.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web1.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web2.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web11.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web7.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web9.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web14.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web17.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web19.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web20.png" alt="cliente" class="hover">
                         </a>
                     </div>
 
-                    <div class="pb30 col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web22.png" alt="cliente" class="hover">
                         </a>
@@ -847,54 +851,56 @@
         </div>
     </div>
 	<!--TALKING-->
-    <div id="contacto" class="container-fluid">
-		<div class="row">
-			<div class="seo-score scrollme">
-				<div class="container">
-					<div class="row">
-                        @if (session('status'))
-                            <div>
-                                <s>Gracias por contactar con nosotros!</s> Su mensaje fue enviado satisfactoriamente.
+    <div id="contacto" class="container-fluid bg-border-color medium-padding80">
+        <div class="row">
+            @if (session('status'))
+                <div class="row align-center bg-alert h6 c-social-s2 medium-padding80">
+                    <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+                </div>
+            @endif
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
+                    <div class="row">
+                        <div class="heading align-center">
+                            <h4 class="h1 heading-title c-brand-p">¿Conversamos?</h4>
+                            <div class="heading-line">
+                                <span class="short-line bg-primary-brand"></span>
+                                <span class="long-line bg-primary-brand"></span>
                             </div>
-                        @endif
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
-							<div class="seo-score-content align-center">
-								<div class="heading align-center">
-									<h4 class="h1 heading-title">¿Conversamos?</h4>
-									</div>
-								<div >
-                                    <form method="POST" action="{{route("contactForm")}}">
-                                        @csrf
-                                        <div class="row">
-											<div class="col-lg-12  col-md-12 col-xs-12 col-sm-12">
-												<input name="tNombre" class="input-dark" placeholder="Nombre" required>
-											</div>
-											<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-												<input name="tEmail" class="input-dark" placeholder="Email" type="email" required>
-                                            </div>
-                                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-												<input name="tWhatssap" class="input-dark" placeholder="Whatsaap" type="text" required>
-                                            </div>
-                                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-												<textarea name="tMensaje" class="input-dark" placeholder="Mensaje" required></textarea>
-                                            </div>
-										</div>
-										<button class="btn btn-medium btn--green btn-hover-shadow" type="submit">
-											<span class="text">Enviar</span>
-											<span class="semicircle"></span>
-										</button>
-									</form>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="images">
-					<img loading="lazy" src="img/seoscore1.png" alt="image">
-					<img loading="lazy" src="img/seoscore2.png" alt="image">
-					<img loading="lazy" src="img/seoscore3.png" alt="image">
-				</div>
-			</div>
-		</div>
-	</div>
+                        </div>
+                        <div >
+                            <form method="POST" action="{{route("contactForm")}}">
+                                @csrf
+                                <div class="row">
+                                    <div class="col-lg-6  col-md-6 col-xs-12 col-sm-12">
+                                        <input name="tNombre" class="input-blue" placeholder="Nombre" required>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                                        <input name="tWhatssap" class="input-blue" placeholder="Whatsaap" type="text" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                        <input name="tEmail" class="input-blue" placeholder="Email" type="email" required>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                        <textarea name="tMensaje" class="input-blue" placeholder="Mensaje" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="row align-center">
+                                    <button class="btn btn-medium btn--olive btn-hover-shadow" type="submit">
+                                        <span class="text">Enviar</span>
+                                        <span class="semicircle"></span>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
