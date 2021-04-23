@@ -107,7 +107,6 @@ class HomeController extends Controller
             return $e;
         }
     }
-
     public function enviarOfertas(Request $request){
         $from = 'tania.vanessa609@gmail.com';
         $email = $request->tEmail;
@@ -153,7 +152,7 @@ class HomeController extends Controller
                 'mensaje' =>$mensaje],
                 function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
                     ->subject('Nebula')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula - Enviar Ofertas ');
+                    ->from('tania.vanessa609@gmail.com', 'Nebula - Análisis SEO');
                 });
 
             return redirect('/seo-y-posicionamiento-web-peru#formulario')->with('statusSeo', 'Registro satisfactorio.');

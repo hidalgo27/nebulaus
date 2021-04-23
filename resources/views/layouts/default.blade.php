@@ -1,45 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
     <head lang="en">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    @yield('title')
-    <link rel="icon" type="image/ico" href="img/favicon.ico" />
-
-
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/fonts.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/crumina-fonts.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/normalize.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/grid.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/base.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/blocks.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/layouts.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/modules.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/widgets-styles.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/ion.rangeSlider.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/custom.css')}}">
-
-
-    <!--Plugins styles-->
-
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/jquery.mCustomScrollbar.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/swiper.min.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/primary-menu.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/magnific-popup.css')}}">
-
-    <!--Styles for RTL-->
-
-    <!--<link rel="stylesheet" type="text/css" href="css/rtl.css">-->
-
-    <!--External fonts-->
-    <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
-    <meta name="facebook-domain-verification" content="xs1rdqin0103ifyxzdcqt6jasisjxm" />
-
-</head>
-
-
-    <body class=" ">
-
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        @yield('title')
+        <link rel="icon" type="image/ico" href="img/favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/fonts.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/crumina-fonts.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/normalize.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/grid.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/base.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/blocks.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/layouts.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/modules.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/widgets-styles.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/ion.rangeSlider.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/custom.css')}}">
+        <!--Plugins styles-->
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/jquery.mCustomScrollbar.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/swiper.min.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/primary-menu.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/magnific-popup.css')}}">
+        <!--Styles for RTL-->
+        <!--<link rel="stylesheet" type="text/css" href="css/rtl.css">-->
+        <!--External fonts-->
+        <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+        <meta name="facebook-domain-verification" content="xs1rdqin0103ifyxzdcqt6jasisjxm" />
+    </head>
+    <body>
         <div class="top-bar top-bar-dark">
             <div class="container">
                 <div class="top-bar-contact">
@@ -54,10 +42,10 @@
                         (954) 900-1989
                     </div>
                     <div class="contact-item">
-                        <a href="#">info@nebulamarketing.us</a>
+                        info@nebulamarketing.us
                     </div>
                     <div class="contact-item">
-                        <span>Lunes-Viernes/</span>9am-6pm
+                        Lunes-Viernes / 9am-6pm
                     </div>
                 </div>
                 <!--REGISTRARSE-->
@@ -67,7 +55,7 @@
                 </div>
                 <!--REDES SOCIALES-->
                 <div class="follow_us">
-                    <span>Síganos en:</span>
+                    Síganos en:
                     <div class="socials">
                         <a href="https://www.facebook.com/Nebula-USA-Web-Design-Online-Marketing-Agency-104841735011583" class="social__item" target="_BLANK">
                             <img loading="lazy" src="svg/circle-facebook.svg" alt="facebook">
@@ -95,10 +83,18 @@
         </div>
 
         <header class="header" id="site-header">
+                <a href="#" id="top-bar-js" class="top-bar-link">
+                <i class="seosight-icon seoicon-arrow-to-bottom"></i>
+            </a>
             <div class="container">
                 <div class="header-content-wrapper">
-                    <div class="logo">
-                        <img loading="lazy" src="img/logo_nebula_color_negro.png" alt="Nebula">
+                    <div class="logo align-center">
+                        <a href="/" class="full-block-link"></a>
+                        <img loading="lazy" src="img/logo/logo.png" alt="logo nebula">
+                        <div class="logo-text">
+                            <div class="logo-title">Nebula</div>
+                            <div class="logo-sub-title">Agencia de diseño web<br>y marketing digital</div>
+                        </div>
                     </div>
                     <nav id="primary-menu" class="primary-menu">
                         <a href='javascript:void(0)' id="menu-icon-trigger" class="menu-icon-trigger showhide">
@@ -264,7 +260,6 @@
         <!-- CONTENIDO -->
         <div class="content-wrapper">
             @yield('content')
-
             <div id="oferta" class="container-fluid bg-green-color">
                 <div class="row">
                     @if (session('sta'))
@@ -302,7 +297,6 @@
                 </div>
             </div>
         </div>
-
         <!-- FOOTER -->
         <footer class="footer">
             <div class="container">
@@ -443,100 +437,99 @@
 
     <!-- FORM REGISTRASE -->
         <div class="window-popup">
-        <a href="#" class="popup-close js-popup-close cd-nav-trigger">
-            <i class="seosight-icon seoicon-delete"></i>
-        </a>
+            <a href="#" class="popup-close js-popup-close cd-nav-trigger">
+                <i class="seosight-icon seoicon-delete"></i>
+            </a>
 
-        <div class="sign-in-popup">
-            <h5 class="title">Register to SeoSight</h5>
-            <p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
-            <form class="form-validate contact-form">
-                <div class="row">
+            <div class="sign-in-popup">
+                <h5 class="title">Register to SeoSight</h5>
+                <p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
+                <form class="form-validate contact-form">
+                    <div class="row">
 
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                        <input class="input-standard-grey" placeholder="First Name" type="text">
-                    </div>
-
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                        <input class="input-standard-grey" placeholder="Last Name" type="text">
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <input class="input-standard-grey" placeholder="Your Email" type="email">
-                        <input class="input-standard-grey" placeholder="Your Password" type="password">
-
-                        <select>
-                            <option value="MA">Male</option>
-                            <option value="FE">Female</option>
-                        </select>
-
-                        <div class="remember-wrap">
-                            <div class="checkbox">
-                                <input id="terms" type="checkbox" name="terms" value="terms">
-                                <label for="terms">I accept the Terms and Conditions</label>
-                            </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <input class="input-standard-grey" placeholder="First Name" type="text">
                         </div>
 
-                        <a href="#" class="btn btn-large btn--primary">Complete Registration!</a>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <input class="input-standard-grey" placeholder="Last Name" type="text">
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input class="input-standard-grey" placeholder="Your Email" type="email">
+                            <input class="input-standard-grey" placeholder="Your Password" type="password">
+
+                            <select>
+                                <option value="MA">Male</option>
+                                <option value="FE">Female</option>
+                            </select>
+
+                            <div class="remember-wrap">
+                                <div class="checkbox">
+                                    <input id="terms" type="checkbox" name="terms" value="terms">
+                                    <label for="terms">I accept the Terms and Conditions</label>
+                                </div>
+                            </div>
+
+                            <a href="#" class="btn btn-large btn--primary">Complete Registration!</a>
+                        </div>
+
                     </div>
-
-                </div>
-            </form>
+                </form>
+            </div>
         </div>
-    </div>
-
+ 
         <svg style="display:none;">
-        <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">
-            <path d="M124.1,431.3c0.1,2,1,3.8,2.4,5.2c0,0,0.1,0.1,0.1,0.1l34.1,34.1c1.6,1.6,3.7,2.5,5.9,2.5s4.3-0.9,5.9-2.4
-            c1.6-1.6,2.4-3.7,2.4-5.9s-0.9-3.9-2.4-5.5l-19.9-19.5h11.1c1.5,0,2.7-1.5,2.7-3c0-1.5-1.2-3-2.7-3h-17.6c-1.1,0-2.1,0.6-2.5,1.6
-            c-0.4,1-0.2,2.1,0.6,2.9l24.4,24.4c0.6,0.6,0.9,1.3,0.9,2.1s-0.3,1.6-0.9,2.1c-0.6,0.6-1.3,0.9-2.1,0.9s-1.6-0.3-2.1-0.9
-            l-34.2-34.2c0,0,0,0,0,0c-0.6-0.6-0.8-1.4-0.9-1.9c0,0,0,0,0,0c0-0.2,0-0.4,0-0.6c0.1-0.6,0.3-1.1,0.7-1.6c0-0.1,0.1-0.1,0.2-0.2
-            l34.1-34.1c0.6-0.6,1.3-0.9,2.1-0.9s1.6,0.3,2.1,0.9c0.6,0.6,0.9,1.3,0.9,2.1s-0.3,1.6-0.9,2.1l-24.4,24.4c-0.8,0.8-1,2-0.6,3
-            c0.4,1,1.4,1.7,2.5,1.7h125.7c1.5,0,2.7-1,2.7-2.5c0-1.5-1.2-2.5-2.7-2.5H152.6l19.9-20.1c1.6-1.6,2.4-3.8,2.4-6s-0.9-4.4-2.4-6
-            c-1.6-1.6-3.7-2.5-5.9-2.5s-4.3,0.9-5.9,2.4l-34.1,34.1c-0.2,0.2-0.3,0.3-0.5,0.5c-1.1,1.2-1.8,2.8-2,4.4
-            C124.1,430.2,124.1,430.8,124.1,431.3C124.1,431.3,124.1,431.3,124.1,431.3z"></path>
-            <path d="M283.3,427.9h14.2c1.7,0,3,1.3,3,3c0,1.7-1.4,3-3,3H175.1c-1.5,0-2.7,1.5-2.7,3c0,1.5,1.2,3,2.7,3h122.4
-            c4.6,0,8.4-3.9,8.4-8.5c0-4.6-3.8-8.5-8.4-8.5h-14.2c-1.5,0-2.7,1-2.7,2.5C280.7,426.9,281.8,427.9,283.3,427.9z"></path>
-        </symbol>
-        <symbol id="arrow-right" viewBox="122.9 388.2 184.3 85">
-            <path d="M305.9,430.2c-0.1-2-1-3.8-2.4-5.2c0,0-0.1-0.1-0.1-0.1l-34.1-34.1c-1.6-1.6-3.7-2.5-5.9-2.5c-2.2,0-4.3,0.9-5.9,2.4
-            c-1.6,1.6-2.4,3.7-2.4,5.9s0.9,4.1,2.4,5.7l19.9,19.6h-11.1c-1.5,0-2.7,1.5-2.7,3c0,1.5,1.2,3,2.7,3h17.6c1.1,0,2.1-0.7,2.5-1.7
-            c0.4-1,0.2-2.2-0.6-2.9l-24.4-24.5c-0.6-0.6-0.9-1.3-0.9-2.1s0.3-1.6,0.9-2.1c0.6-0.6,1.3-0.9,2.1-0.9c0.8,0,1.6,0.3,2.1,0.9
-            l34.2,34.2c0,0,0,0,0,0c0.6,0.6,0.8,1.4,0.9,1.9c0,0,0,0,0,0c0,0.2,0,0.4,0,0.6c-0.1,0.6-0.3,1.1-0.7,1.6c0,0.1-0.1,0.1-0.2,0.2
-            l-34.1,34.1c-0.6,0.6-1.3,0.9-2.1,0.9s-1.6-0.3-2.1-0.9c-0.6-0.6-0.9-1.3-0.9-2.1s0.3-1.6,0.9-2.1l24.4-24.4c0.8-0.8,1-1.9,0.6-2.9
-            c-0.4-1-1.4-1.6-2.5-1.6H158.1c-1.5,0-2.7,1-2.7,2.5c0,1.5,1.2,2.5,2.7,2.5h119.3l-19.9,20c-1.6,1.6-2.4,3.7-2.4,6s0.9,4.4,2.4,5.9
-            c1.6,1.6,3.7,2.5,5.9,2.5s4.3-0.9,5.9-2.4l34.1-34.1c0.2-0.2,0.3-0.3,0.5-0.5c1.1-1.2,1.8-2.8,2-4.4
-            C305.9,431.3,305.9,430.8,305.9,430.2C305.9,430.2,305.9,430.2,305.9,430.2z"></path>
-            <path d="M146.7,433.9h-14.2c-1.7,0-3-1.3-3-3c0-1.7,1.4-3,3-3h122.4c1.5,0,2.7-1.5,2.7-3c0-1.5-1.2-3-2.7-3H132.4
-            c-4.6,0-8.4,3.9-8.4,8.5c0,4.6,3.8,8.5,8.4,8.5h14.2c1.5,0,2.7-1,2.7-2.5C149.3,434.9,148.1,433.9,146.7,433.9z"></path>
-        </symbol>
-        <symbol id="to-top" viewBox="0 0 32 32">
-            <path d="M17,22 L25.0005601,22 C27.7616745,22 30,19.7558048 30,17 C30,14.9035809 28.7132907,13.1085075 26.8828633,12.3655101
-             L26.8828633,12.3655101 C26.3600217,9.87224935 24.1486546,8 21.5,8 C20.6371017,8 19.8206159,8.19871575 19.0938083,8.55288165
-             C17.8911816,6.43144875 15.6127573,5 13,5 C9.13400656,5 6,8.13400656 6,12 C6,12.1381509 6.00400207,12.275367 6.01189661,12.4115388
-              L6.01189661,12.4115388 C4.23965876,13.1816085 3,14.9491311 3,17 C3,19.7614237 5.23249418,22 7.99943992,22 L16,22 L16,16 L12.75,19.25
-               L12,18.5 L16.5,14 L21,18.5 L20.25,19.25 L17,16 L17,22 L17,22 Z M16,22 L16,27 L17,27 L17,22 L16,22 L16,22 Z" id="cloud-upload"></path>
-        </symbol>
-
-    </svg>
+            <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">
+                <path d="M124.1,431.3c0.1,2,1,3.8,2.4,5.2c0,0,0.1,0.1,0.1,0.1l34.1,34.1c1.6,1.6,3.7,2.5,5.9,2.5s4.3-0.9,5.9-2.4
+                c1.6-1.6,2.4-3.7,2.4-5.9s-0.9-3.9-2.4-5.5l-19.9-19.5h11.1c1.5,0,2.7-1.5,2.7-3c0-1.5-1.2-3-2.7-3h-17.6c-1.1,0-2.1,0.6-2.5,1.6
+                c-0.4,1-0.2,2.1,0.6,2.9l24.4,24.4c0.6,0.6,0.9,1.3,0.9,2.1s-0.3,1.6-0.9,2.1c-0.6,0.6-1.3,0.9-2.1,0.9s-1.6-0.3-2.1-0.9
+                l-34.2-34.2c0,0,0,0,0,0c-0.6-0.6-0.8-1.4-0.9-1.9c0,0,0,0,0,0c0-0.2,0-0.4,0-0.6c0.1-0.6,0.3-1.1,0.7-1.6c0-0.1,0.1-0.1,0.2-0.2
+                l34.1-34.1c0.6-0.6,1.3-0.9,2.1-0.9s1.6,0.3,2.1,0.9c0.6,0.6,0.9,1.3,0.9,2.1s-0.3,1.6-0.9,2.1l-24.4,24.4c-0.8,0.8-1,2-0.6,3
+                c0.4,1,1.4,1.7,2.5,1.7h125.7c1.5,0,2.7-1,2.7-2.5c0-1.5-1.2-2.5-2.7-2.5H152.6l19.9-20.1c1.6-1.6,2.4-3.8,2.4-6s-0.9-4.4-2.4-6
+                c-1.6-1.6-3.7-2.5-5.9-2.5s-4.3,0.9-5.9,2.4l-34.1,34.1c-0.2,0.2-0.3,0.3-0.5,0.5c-1.1,1.2-1.8,2.8-2,4.4
+                C124.1,430.2,124.1,430.8,124.1,431.3C124.1,431.3,124.1,431.3,124.1,431.3z"></path>
+                <path d="M283.3,427.9h14.2c1.7,0,3,1.3,3,3c0,1.7-1.4,3-3,3H175.1c-1.5,0-2.7,1.5-2.7,3c0,1.5,1.2,3,2.7,3h122.4
+                c4.6,0,8.4-3.9,8.4-8.5c0-4.6-3.8-8.5-8.4-8.5h-14.2c-1.5,0-2.7,1-2.7,2.5C280.7,426.9,281.8,427.9,283.3,427.9z"></path>
+            </symbol>
+            <symbol id="arrow-right" viewBox="122.9 388.2 184.3 85">
+                <path d="M305.9,430.2c-0.1-2-1-3.8-2.4-5.2c0,0-0.1-0.1-0.1-0.1l-34.1-34.1c-1.6-1.6-3.7-2.5-5.9-2.5c-2.2,0-4.3,0.9-5.9,2.4
+                c-1.6,1.6-2.4,3.7-2.4,5.9s0.9,4.1,2.4,5.7l19.9,19.6h-11.1c-1.5,0-2.7,1.5-2.7,3c0,1.5,1.2,3,2.7,3h17.6c1.1,0,2.1-0.7,2.5-1.7
+                c0.4-1,0.2-2.2-0.6-2.9l-24.4-24.5c-0.6-0.6-0.9-1.3-0.9-2.1s0.3-1.6,0.9-2.1c0.6-0.6,1.3-0.9,2.1-0.9c0.8,0,1.6,0.3,2.1,0.9
+                l34.2,34.2c0,0,0,0,0,0c0.6,0.6,0.8,1.4,0.9,1.9c0,0,0,0,0,0c0,0.2,0,0.4,0,0.6c-0.1,0.6-0.3,1.1-0.7,1.6c0,0.1-0.1,0.1-0.2,0.2
+                l-34.1,34.1c-0.6,0.6-1.3,0.9-2.1,0.9s-1.6-0.3-2.1-0.9c-0.6-0.6-0.9-1.3-0.9-2.1s0.3-1.6,0.9-2.1l24.4-24.4c0.8-0.8,1-1.9,0.6-2.9
+                c-0.4-1-1.4-1.6-2.5-1.6H158.1c-1.5,0-2.7,1-2.7,2.5c0,1.5,1.2,2.5,2.7,2.5h119.3l-19.9,20c-1.6,1.6-2.4,3.7-2.4,6s0.9,4.4,2.4,5.9
+                c1.6,1.6,3.7,2.5,5.9,2.5s4.3-0.9,5.9-2.4l34.1-34.1c0.2-0.2,0.3-0.3,0.5-0.5c1.1-1.2,1.8-2.8,2-4.4
+                C305.9,431.3,305.9,430.8,305.9,430.2C305.9,430.2,305.9,430.2,305.9,430.2z"></path>
+                <path d="M146.7,433.9h-14.2c-1.7,0-3-1.3-3-3c0-1.7,1.4-3,3-3h122.4c1.5,0,2.7-1.5,2.7-3c0-1.5-1.2-3-2.7-3H132.4
+                c-4.6,0-8.4,3.9-8.4,8.5c0,4.6,3.8,8.5,8.4,8.5h14.2c1.5,0,2.7-1,2.7-2.5C149.3,434.9,148.1,433.9,146.7,433.9z"></path>
+            </symbol>
+            <symbol id="to-top" viewBox="0 0 32 32">
+                <path d="M17,22 L25.0005601,22 C27.7616745,22 30,19.7558048 30,17 C30,14.9035809 28.7132907,13.1085075 26.8828633,12.3655101
+                L26.8828633,12.3655101 C26.3600217,9.87224935 24.1486546,8 21.5,8 C20.6371017,8 19.8206159,8.19871575 19.0938083,8.55288165
+                C17.8911816,6.43144875 15.6127573,5 13,5 C9.13400656,5 6,8.13400656 6,12 C6,12.1381509 6.00400207,12.275367 6.01189661,12.4115388
+                L6.01189661,12.4115388 C4.23965876,13.1816085 3,14.9491311 3,17 C3,19.7614237 5.23249418,22 7.99943992,22 L16,22 L16,16 L12.75,19.25
+                L12,18.5 L16.5,14 L21,18.5 L20.25,19.25 L17,16 L17,22 L17,22 Z M16,22 L16,27 L17,27 L17,22 L16,22 L16,22 Z" id="cloud-upload"></path>
+            </symbol>
+        </svg>
 
 <!-- Overlay Search -->
 
         <div class="overlay_search">
-        <div class="container">
-            <div class="row">
-                <div class="form_search-wrap">
-                    <form>
-                        <input class="overlay_search-input" placeholder="Type and hit Enter..." type="text">
-                        <a href="#" class="overlay_search-close">
-                            <span></span>
-                            <span></span>
-                        </a>
-                    </form>
+            <div class="container">
+                <div class="row">
+                    <div class="form_search-wrap">
+                        <form>
+                            <input class="overlay_search-input" placeholder="Type and hit Enter..." type="text">
+                            <a href="#" class="overlay_search-close">
+                                <span></span>
+                                <span></span>
+                            </a>
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
     <!-- End Overlay Search -->
 
@@ -583,32 +576,31 @@
         <!-- /jQuery-scripts for Modules (Send Message) -->
         <script async src="//www.instagram.com/embed.js"></script>
         <!-- ...end JS Script -->
-<!-- Facebook Pixel Code -->
-<script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window, document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '297102598604641');
-    fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-               src="https://www.facebook.com/tr?id=297102598604641&ev=PageView&noscript=1"
-    /></noscript>
-<!-- End Facebook Pixel Code -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE5Y0KQ9X1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window, document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '297102598604641');
+            fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+                    src="https://www.facebook.com/tr?id=297102598604641&ev=PageView&noscript=1"
+            /></noscript>
+        <!-- End Facebook Pixel Code -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE5Y0KQ9X1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-    gtag('config', 'G-ZE5Y0KQ9X1');
-</script>
-</body>
->>>>>>> origin/master
+            gtag('config', 'G-ZE5Y0KQ9X1');
+        </script>
+    </body>
 </html>

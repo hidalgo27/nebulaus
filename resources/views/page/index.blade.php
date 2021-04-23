@@ -9,83 +9,82 @@
         <div class="swiper-container main-slider" data-effect="fade" data-autoplay="4000">
             <!-- SLIDER -->
             <div class="swiper-wrapper">
-				<div class="swiper-slide bg-primay-brand">
+				<div class="swiper-slide bg-box-social">
 					<div class="container">
 						<div class="row table-cell">
 							<div class="col-lg-12">
 								<div class="slider-content align-center">
-									<h1 class="slider-content-title" data-swiper-parallax="-100">
+									<h1 class="slider-content-title c-brand-p" data-swiper-parallax="-100">
                                         Agencia de marketing digital y publicidad Cusco
                                     </h1>
-									<h5 class="slider-content-text c-gray" data-swiper-parallax="-200">
+									<h5 class="slider-content-text" data-swiper-parallax="-200">
                                         Somos una agencia de marketing especializada en servicios digitales  e integrales
                                     </h5>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="04_service_detail_seo.html" class="btn btn-medium btn--dark btn-hover-shadow">
-											<span class="text">learn more</span>
+										<a href="/Nosotros" class="btn btn-small bg-primary-web btn-hover-shadow">
+											<span class="text">¡CONÓSCANOS!</span>
 											<span class="semicircle"></span>
 										</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-12">
-								<div class="slider-thumb" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-									<img loading="lazy" src="img/slider1.png" alt="slider">
+								<div class="slider-thumb align-center" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
+									<img class="img" loading="lazy" src="img/slider/slider1.png" alt="marketing">
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-primary-web main-slider-bg-dark thumb-left">
+				<div class="swiper-slide bg-box-web main-slider-bg-dark thumb-left">
 					<div class="container table">
 						<div class="row table-cell">
 							<div class="col-lg-5 table-cell">
-								<div class="slider-content">
-									<h3 class="slider-content-title" data-swiper-parallax="-100">
-										<span class="c-dark">¡Promoción!</span>
+								<div class="slider-content align-center">
+									<h3 class="slider-content-title h2" data-swiper-parallax="-100">
+										<span class="c-brand-p">¡Promoción!</span>
                                         Diseño Web Para Empresas.</h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">
+									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
                                         Servicio de <b>diseño</b> y desarrollo <b>web para tu negocio</b> a medida, consulta precios y promoción REACTIVACIÓN-10%reactivación
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="05_service_details_localseo.html"
-										   class="btn btn-medium btn--dark btn-hover-shadow">
-											<span class="text">learn more</span>
+										<a href="/#contacto"
+										   class="btn btn-medium bg-primary-audio btn-hover-shadow">
+											<span class="text">CONSULTAR</span>
 											<span class="semicircle"></span>
 										</a>
-										<a href="05_service_details_localseo.html" class="btn btn-small btn--primary"
-										   data-swiper-parallax="-300">
-											<span class="text">Our Services</span>
-											<i class="seoicon-right-arrow"></i>
+										<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-medium bg-primary-audio"data-swiper-parallax="-300">
+											<span class="text">VER PRECIOS</span>
+											<span class="semicircle"></span>
 										</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-7 table-cell">
 								<div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-									<img loading="lazy" src="img/slider2.png" alt="slider">
+									<img class="img" loading="lazy" src="img/slider/slider2.png" alt="diseño-web">
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-primary-social main-slider-bg-dark">
+				<div class="swiper-slide bg-box-edu main-slider-bg-dark">
 					<div class="container table">
 						<div class="row table-cell">
 							<div class="col-lg-6 table-cell">
-								<div class="slider-content">
-									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Marketing y Publicidad en Redes Social
+								<div class="slider-content align-center">
+									<h3 class="h2 slider-content-title c-brand-p" data-swiper-parallax="-100"><span class="c-white">Marketing y Publicidad</span> en Redes Sociales
                                     </h3>
-									<p class="slider-content-text" data-swiper-parallax="-200">
-                                        Conoce nuestro servicio de Estrategias de marketing en redes sociales para empresas o negocios, ¡Solicita más Información!  GRATIS
+									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
+                                        Conoce nuestro servicio de Estrategias de marketing en redes sociales para empresas o negocios, ¡Solicita más Información!<b>GRATIS.</b>
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="06_service_detail.html" class="btn btn-medium btn--dark btn-hover-shadow">
-											<span class="text">learn more</span>
+										<a href="/#contacto" class="btn btn-medium bg-seo-s1 btn-hover-shadow">
+											<span class="text">CONSULTAR</span>
 											<span class="semicircle"></span>
 										</a>
-										<a href="06_service_detail.html" class="btn btn-medium btn-border">
-											<span class="text">GET STARTED</span>
+										<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-medium btn-hover-shadow bg-seo-s1">
+											<span class="text">VER PLANES</span>
 											<span class="semicircle"></span>
                                         </a>
 									</div>
@@ -93,31 +92,7 @@
 							</div>
 							<div class="col-lg-6 table-cell">
 								<div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-									<img loading="lazy" src="img/slider3.png" alt="slider">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide bg-boxed-m4 main-slider-bg-dark">
-					<div class="container table">
-						<div class="row table-cell">
-							<div class="col-lg-12">
-								<div class="slider-content align-center">
-									<h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">¡Promoción! agencia de diseño y marketing digital</h3>
-									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-
-										<a href="07_service_email_marketing.html"
-										   class="btn btn-medium btn--dark btn-hover-shadow">
-											<span class="text">learn more</span>
-											<span class="semicircle"></span>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-12">
-								<div class="slider-thumb" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-									<img loading="lazy" src="img/slider4.png" alt="slider">
+									<img class="img" loading="lazy" src="img/slider/slider3.png" alt="slider">
 								</div>
 							</div>
 						</div>
@@ -147,13 +122,13 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-box-brand">
+                <div class="servises-item bg-branding">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/branding.png" alt="service">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title">BRANDING</h3>
-                        <p class="servises-text c-dark">
+                        <h3 class="servises-title c-white">BRANDING</h3>
+                        <p class="servises-text c-white">
 							Promueve tu marca ante la competencia. Desde el diseño de logos, línea gráfica, fotografía, videos, packaging, merchandising.
                         </p>
                     </div>
@@ -167,13 +142,13 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-box-web">
+                <div class="servises-item bg-web">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title">DISEÑO<br>WEB</h3>
-                        <p class="servises-text c-dark">
+                        <h3 class="servises-title c-white">DISEÑO<br>WEB</h3>
+                        <p class="servises-text c-white">
 							Para tiendas online (Ecommerce). agencias de viajes, restaurantes, hoteles, páginas web de servicios y empresariales.
                         </p>
                     </div>
@@ -187,13 +162,13 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-box-social">
+                <div class="servises-item bg-social">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/redes-sociales.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title">REDES<br>SOCIALES</h3>
-                        <p class="servises-text c-dark">
+                        <h3 class="servises-title c-white">REDES<br>SOCIALES</h3>
+                        <p class="servises-text c-white">
 							Define la red social ideal para Publicidad de productos y/o servicios, creación de contenidos, estrategia de ventas.
                         </p>
                     </div>
@@ -207,13 +182,13 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-box-seo">
+                <div class="servises-item bg-seo">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/seo.png" alt="seo">
                     </div>
                     <div class="servises-item__content align-center">
-						<h3 class="servises-title ">SEO</h3><br>
-                        <p class="servises-text c-dark">
+						<h3 class="servises-title c-white">SEO</h3><br>
+                        <p class="servises-text c-white">
 							Estrategia de Marketing SEO y Posicionamiento de negocios en internet
                         </p><br><br>
 					</div>
@@ -227,13 +202,13 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-box-audio">
+                <div class="servises-item bg-audio">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title">PRODUCCIÓN AUDIOVISUAL</h3>
-                        <p class="servises-text c-dark">
+                        <h3 class="servises-title c-white">PRODUCCIÓN AUDIOVISUAL</h3>
+                        <p class="servises-text c-white">
 							Edición y producción de videos para productos, servicios y eventos.
                         </p><br><br>
                     </div>
@@ -706,10 +681,10 @@
 		</div>
     </div>
     <!--CLIENTS BRANDS-->
-    <div class="container">
+    <div class="container-fluid bg-border-color">
 		<div class="container medium-padding80">
-            <div class="row pb30">
-				<div class="heading align-center pb30">
+            <div class="row">
+				<div class="heading align-center">
 					<h2 class="heading-title c-brand-p">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
 					<div class="heading-line">
 						<span class="short-line bg-primary-brand"></span>
@@ -719,129 +694,129 @@
             </div>
             <div class="row">
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web8.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web12.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web3.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web4.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web5.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web6.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web13.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web10.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web15.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web24.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web16.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web23.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web21.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web18.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web1.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web2.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web11.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web7.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web9.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web14.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web17.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web19.png" alt="cliente" class="hover">
                         </a>
                     </div>
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web20.png" alt="cliente" class="hover">
                         </a>
                     </div>
 
-                    <div class="pb30 col-lg-2 col-md-2 col-sm-4 col-xs-6">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
                         <a href="09_our_clients.html" class="client-image">
                             <img loading="lazy" src="img/clientes/web22.png" alt="cliente" class="hover">
                         </a>
@@ -851,56 +826,54 @@
         </div>
     </div>
 	<!--TALKING-->
-    <div id="contacto" class="container-fluid bg-border-color medium-padding80">
-        <div class="row">
-            @if (session('status'))
-                <div class="row align-center bg-alert h6 c-social-s2 medium-padding80">
-                    <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
-                </div>
-            @endif
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
-                    <div class="row">
-                        <div class="heading align-center">
-                            <h4 class="h1 heading-title c-brand-p">¿Conversamos?</h4>
-                            <div class="heading-line">
-                                <span class="short-line bg-primary-brand"></span>
-                                <span class="long-line bg-primary-brand"></span>
-                            </div>
-                        </div>
-                        <div >
-                            <form method="POST" action="{{route("contactForm")}}">
-                                @csrf
-                                <div class="row">
-                                    <div class="col-lg-6  col-md-6 col-xs-12 col-sm-12">
-                                        <input name="tNombre" class="input-blue" placeholder="Nombre" required>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                                        <input name="tWhatssap" class="input-blue" placeholder="Whatsaap" type="text" required>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                        <input name="tEmail" class="input-blue" placeholder="Email" type="email" required>
-                                    </div>
+    <div id="contacto" class="container-fluid ">
+		@if (session('status'))
+			<div class="align-center bg-alert h6 c-social-s2">
+				<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+			</div>
+		@endif
+		<div class="container medium-padding80">
+			<div class="row">
+				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
+					<div class="row">
+						<div class="heading align-center">
+							<h4 class="h1 heading-title c-brand-p">¿Conversamos?</h4>
+							<div class="heading-line">
+								<span class="short-line bg-primary-brand"></span>
+								<span class="long-line bg-primary-brand"></span>
+							</div>
+						</div>
+						<div >
+							<form method="POST" action="{{route("contactForm")}}">
+								@csrf
+								<div class="row">
+									<div class="col-lg-6  col-md-6 col-xs-12 col-sm-12">
+										<input name="tNombre" class="input-blue" placeholder="Nombre" required>
+									</div>
+									<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+										<input name="tWhatssap" class="input-blue" placeholder="Whatsaap" type="text" required>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+										<input name="tEmail" class="input-blue" placeholder="Email" type="email" required>
+									</div>
 
-                                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                        <textarea name="tMensaje" class="input-blue" placeholder="Mensaje" required></textarea>
-                                    </div>
-                                </div>
-                                <div class="row align-center">
-                                    <button class="btn btn-medium btn--olive btn-hover-shadow" type="submit">
-                                        <span class="text">Enviar</span>
-                                        <span class="semicircle"></span>
-                                    </button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+									<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+										<textarea name="tMensaje" class="input-blue" placeholder="Mensaje" required></textarea>
+									</div>
+								</div>
+								<div class="row align-center">
+									<button class="btn btn-medium btn--olive btn-hover-shadow" type="submit">
+										<span class="text">Enviar</span>
+										<span class="semicircle"></span>
+									</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
     </div>
 @endsection
