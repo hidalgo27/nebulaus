@@ -575,6 +575,7 @@
         <script src="{{asset('vendor/modules/forms/src/js/scripts.js')}}"></script>
         <!-- /jQuery-scripts for Modules (Send Message) -->
         <script async src="//www.instagram.com/embed.js"></script>
+        <script async src="https://www.tiktok.com/embed.js"></script>
         <!-- ...end JS Script -->
         <!-- Facebook Pixel Code -->
         <script>

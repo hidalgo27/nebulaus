@@ -128,7 +128,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
                 <img loading="lazy" src="img/branding/manual-de-marca.png" alt="manual-de-marca">
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify pt60">
                 <p>Un manual de marca tiene como premisa fundamental decir cómo debe ser usada una marca.</p>
             </div>
         </div>
