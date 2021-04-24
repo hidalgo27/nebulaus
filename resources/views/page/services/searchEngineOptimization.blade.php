@@ -213,7 +213,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-3 col-lg-offset-3 col-md-4 col-md-offset-2 col-sm-6 col-xs-12">
-				<a href="22_contacts.html" class="btn btn-medium btn--light-green btn-hover-shadow mb30">
+				<a href="/seo-y-posicionamiento-web-peru#formulario" class="btn btn-medium btn--light-green btn-hover-shadow mb30">
 					<span class="text">CONSULTA SEO GRATIS</span>
 					<span class="semicircle"></span>
 				</a>
@@ -250,11 +250,12 @@
 							</p>
 							<p class="c-brand-p align-justify">Analizamos el SEO de tu  sitio web de tu negocio. </p>
 						</div>
-
-						<div class="btn btn-medium btn--light-green btn-hover-shadow mb30">
-							<span class="text">ANÁLISIS GRATIS</span>
-							<span class="semicircle"></span>
-						</div>
+                        <div class="row align-center">
+                            <a href="/seo-y-posicionamiento-web-peru#formulario" class="btn btn-medium btn--light-green btn-hover-shadow mb30">
+                                <span class="text">ANÁLISIS GRATIS</span>
+                                <span class="semicircle"></span>
+                            </a>
+                        </div>
 					</div>
 
 					<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
@@ -325,8 +326,8 @@
 										<span class="rate">s/.650</span>
 										<br><b>por mes</b>
 									</p>
-									<a href="#" class="btn btn-medium btn--dark">
-										<span class="text">Order Now!</span>
+									<a href="/#contacto" class="btn btn-medium btn--dark">
+										<span class="text">¡Ordenar ahora!</span>
 										<span class="semicircle"></span>
 									</a>
 
@@ -382,8 +383,8 @@
 										<span class="rate">s/.1350</span>
 										<br><b>por mes</b>
 									</p>
-									<a href="#" class="btn btn-medium btn--dark">
-										<span class="text">Order Now!</span>
+									<a href="/#contacto" class="btn btn-medium btn--dark">
+										<span class="text">¡Ordenar ahora!</span>
 										<span class="semicircle"></span>
 									</a>
 								</div>
@@ -395,7 +396,14 @@
 		</div>
 	</div>
 	<!--FORMULARIO-->
-	<div class="container">
+	<div id="formulario" class="container">
+        <div class="row">
+            @if (session('statusSeo'))
+                <div class="row align-center bg-alert h6 c-social-s2 medium-padding80">
+                    <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+                </div>
+            @endif
+        </div>
 		<div class="row medium-padding120">
 			<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 				<div class="heading">
@@ -418,36 +426,37 @@
 
 			<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
 
-				<form class="contact-form crumina-submit" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
+				<form method="POST" action="{{route("analisisSeo")}}">
+                    @csrf
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="site" class="input-standard-grey" placeholder="URL Sitio Web" type="text" required>
+							<input name="tSitioWeb" class="input-standard-grey" placeholder="URL Sitio Web" type="text" required>
 						</div>
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="name" class="input-standard-grey" placeholder="Tu nombre" type="text" required>
+							<input name="tNombre" class="input-standard-grey" placeholder="Tu nombre" type="text" required>
 						</div>
 
 					</div>
 
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="email" class="input-standard-grey" placeholder="Email" type="email" required>
+							<input name="tEmail" class="input-standard-grey" placeholder="Email" type="email" required>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<input name="phone" class="input-standard-grey" placeholder="Celular" type="text">
+							<input name="tTelefono" class="input-standard-grey" placeholder="Celular" type="text">
 						</div>
 					</div>
 
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-							<textarea name="message" class="input-standard-grey" placeholder="Detalles"></textarea>
+							<textarea name="tMensaje" class="input-standard-grey" placeholder="Detalles"></textarea>
 						</div>
 					</div>
 					<div class="row">
 						<div class="submit-block table">
 							<div class="col-lg-3 table-cell">
-								<button class="btn btn-small btn--primary">
+								<button class="btn btn-small btn--primary" type="submit">
 									<span class="text">Saber Más</span>
 								</button>
 							</div>

@@ -100,7 +100,7 @@
 		</div>
 	</div>
 
-	<div class="container-fluid medium-padding80">
+	<div id="precios" class="container-fluid medium-padding80">
 		<div class="row pb30">
 			<div class="heading mb30 align-center">
 				<h4 class="h2 heading-title c-brand-p">3 Planes</h4>
@@ -109,7 +109,7 @@
 					<span class="long-line bg-primary-social"></span>
 				</div>
 			</div>
-			<div id="precios" class="pricing-tables pricing-tables-head bg-white-color">
+			<div class="pricing-tables pricing-tables-head bg-white-color">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">

@@ -4,19 +4,29 @@
     <title>Diseño de Paginas Web Para Empresas - NEBULA Peru</title>
 @endsection
 @section('content')
-    <div class="container-fluid">
-		<div class="row">
-			<div class="content-page-404">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-							<div class="subtitle">EN PROCESO DE CONTRUCCIÓN</div>
-							<a href="/#servicios" class="btn btn-small btn--primary btn-hover-shadow">
-								<span class="text">Ir a Inicio</span>
-							</a>
-						</div>
-					</div>
-				</div>
+	<div class="stunning-header stunning-header-bg-lightblue">
+		<div class="stunning-header-content">
+			<h1 class="stunning-header-title">Nebula Edu</h1>
+			<ul class="breadcrumbs">
+				<li class="breadcrumbs-item">
+					<a href="/">Home</a>
+					<i class="seoicon-right-arrow"></i>
+				</li>
+				<li class="breadcrumbs-item active">
+					<span>Nebula edu</span>
+					<i class="seoicon-right-arrow"></i>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="container">
+		<div class=row>
+		<div style="overflow: hidden; margin-top: -100px; margin-left: -15px;">
+			<iframe 
+			src="https://www.tiktok.com/@nebulamarketing/video/6933966253895781638" scrolling="no" 
+			style="height: 600px; border: 0px none; width: 550px; margin-top: -55px; margin-left: 5px; 
+			margin-right: 0px; ">
+			</iframe>
 			</div>
 		</div>
 	</div>

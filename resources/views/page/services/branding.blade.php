@@ -34,7 +34,7 @@
         </div>
         <div class="container col-lg-8 col-lg-offset-2 pb30">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
-                <img loading="lazy" src="img/creacion-de-marca.jpg" alt="creacion-de-marca">
+                <img loading="lazy" src="img/branding/branding.png" alt="creacion-de-marca">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>Escuchamos tus ideas, nos encargamos de crear y actualizar tu identidad, definir la esencia de la marca y transmitir el mensaje correcto para generar un mayor impacto y tener presencia.</p>
@@ -84,7 +84,7 @@
                 <p>No creemos en plantillas, trabajamos en equipo para que tu logo refleje la esencia de tu marca y sea realmente único.</p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
-                <img loading="lazy" src="img/diseño-logotipo.jpg" alt="diseño-logotipo">
+                <img loading="lazy" src="img/branding/diseño-logotipo.png" alt="diseño-logotipo">
             </div>
         </div>
         <div class="container">
@@ -126,9 +126,9 @@
         </div>
         <div class="container col-lg-8 col-lg-offset-2 pb30">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
-                <img loading="lazy" src="img/manual-de-marca.jpg" alt="manual-de-marca">
+                <img loading="lazy" src="img/branding/manual-de-marca.png" alt="manual-de-marca">
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify pt60">
                 <p>Un manual de marca tiene como premisa fundamental decir cómo debe ser usada una marca.</p>
             </div>
         </div>
@@ -216,7 +216,7 @@
         </div>
         <div class="container col-lg-8 col-lg-offset-2 pb30">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
-                <img loading="lazy" src="img/manual-de-marca.jpg" alt="papeleria-corporativa">
+                <img loading="lazy" src="img/branding/papeleria-coorporativa.png" alt="papeleria-corporativa">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                 <p>
@@ -268,7 +268,7 @@
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
-                <img loading="lazy" src="img/manual-de-marca.jpg" alt="diseño-grafico">
+                <img loading="lazy" src="img/branding/diseño-grafico.png" alt="diseño-grafico">
             </div>
         </div>
         <div class="container">

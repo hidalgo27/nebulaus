@@ -46,49 +46,53 @@
 <!-- End Overlay Search -->
 
 <!--TALKING-->
-<div class="container-fluid">
-    <div class="row">
-        <div class="seo-score scrollme">
-            <div class="container">
+<div id="contacto" class="container-fluid ">
+    @if (session('status'))
+        <div class="align-center bg-alert h6 c-social-s2">
+            <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+        </div>
+    @endif
+    <div class="container medium-padding80">
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
-                        <div class="seo-score-content align-center">
-                            <div class="heading align-center">
-                                <h4 class="h1 heading-title">¿Conversamos?</h4>
-                            </div>
-                            <div class="seo-score-form">
-                                <form class="seo-score-form input-inline crumina-submit" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
-                                    <div class="row">
-                                        <div class="col-lg-12  col-md-12 col-xs-12 col-sm-12">
-                                            <input name="nombre" class="input-dark" placeholder="Nombre" required>
-                                        </div>
-                                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                            <input name="email" class="input-dark" placeholder="Email" type="email" required>
-                                        </div>
-                                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                            <input name="whatsaap" class="input-dark" placeholder="Whatsaap" type="text" required>
-                                        </div>
-                                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                            <textarea name="mensaje" class="input-dark" placeholder="Mensaje" required></textarea>
-                                        </div>
-                                    </div>
-                                    <button type="submit" class="btn btn-medium btn--green btn-hover-shadow">
-                                        <span class="text">Enviar</span>
-                                        <span class="semicircle"></span>
-                                    </button>
-                                </form>
-                            </div>
+                    <div class="heading align-center">
+                        <h4 class="h1 heading-title c-brand-p">¿Conversamos?</h4>
+                        <div class="heading-line">
+                            <span class="short-line bg-primary-brand"></span>
+                            <span class="long-line bg-primary-brand"></span>
                         </div>
+                    </div>
+                    <div >
+                        <form method="POST" action="{{route("contactForm")}}">
+                            @csrf
+                            <div class="row">
+                                <div class="col-lg-6  col-md-6 col-xs-12 col-sm-12">
+                                    <input name="tNombre" class="input-blue" placeholder="Nombre" required>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                                    <input name="tWhatssap" class="input-blue" placeholder="Whatsaap" type="text" required>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                    <input name="tEmail" class="input-blue" placeholder="Email" type="email" required>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                    <textarea name="tMensaje" class="input-blue" placeholder="Mensaje" required></textarea>
+                                </div>
+                            </div>
+                            <div class="row align-center">
+                                <button class="btn btn-medium btn--olive btn-hover-shadow" type="submit">
+                                    <span class="text">Enviar</span>
+                                    <span class="semicircle"></span>
+                                </button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>
-
-            <div class="images">
-                <img loading="lazy" src="img/seoscore1.png" alt="image">
-                <img loading="lazy" src="img/seoscore2.png" alt="image">
-                <img loading="lazy" src="img/seoscore3.png" alt="image">
-            </div>
-
         </div>
     </div>
 </div>

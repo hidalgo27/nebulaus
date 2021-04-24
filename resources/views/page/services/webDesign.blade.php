@@ -40,7 +40,7 @@
 			</div>
 		</div>
 	</div>
-    <div class="container-fluid">
+    <div id="precios" class="container-fluid">
         <div class=container>
             <div class="row pb30">
 				<div class="heading align-center pb30">

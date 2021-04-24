@@ -10,8 +10,9 @@
                 </tr>
                 <tr>
                     <td class="bodycopy">
+                        <p><strong>Sitio Web: {{$sitio}}</strong></p>
                         <p><strong>Email: {{$email}}</strong></p>
-                        <p><strong>Whatsaap: {{$whatsaap}}</strong></p>
+                        <p><strong>Telefono: {{$telefono}}</strong></p>
                         <p><strong>Mensaje: {{$mensaje}}</strong></p>
                     </td>
                 </tr>

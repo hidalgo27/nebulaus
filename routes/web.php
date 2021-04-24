@@ -62,3 +62,6 @@ Route::get('/Branding-Importance', [HomeController::class,'brandingImportance'])
 Route::get('/paginas-web', [HomeController::class,'landing'])->name('page.landing.landing');
 //EMAIL
 Route::post('/',[HomeController::class,'contactForm'])->name('contactForm');
+Route::post('/ofertas',[HomeController::class,'enviarOfertas'])->name('enviarOfertas');
+Route::post('/seo-y-posicionamiento-web-peru',[HomeController::class,'analisisSeo'])->name('analisisSeo');
+
