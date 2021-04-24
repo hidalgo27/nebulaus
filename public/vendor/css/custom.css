@@ -41,7 +41,7 @@ input.input-dark, textarea.input-dark  {
 .bg-box-audio{
     background-color: #f2919d ;}
 .bg-audio{
-    background-image: url("/img/portadas/audio-visual.png"); 
+    background-image: url("/img/portadas/audio-visual.png");
     width: 100%;
     height: auto;
     background-size: 100% 100%;}
@@ -55,7 +55,7 @@ input.input-dark, textarea.input-dark  {
 .bg-primary-seo {
     background-color: #901fdf !important ;}
 .bg-seo{
-    background-image: url("/img/portadas/seo.png"); 
+    background-image: url("/img/portadas/seo.png");
     width: 100%;
     height: auto;
     background-size: 100% 100%;}
@@ -79,7 +79,7 @@ input.input-dark, textarea.input-dark  {
 .bg-secondary-social2{
     background-color:#141e30 ;}
 .bg-social {
-    background-image: url("/img/portadas/redes-sociales.png"); 
+    background-image: url("/img/portadas/redes-sociales.png");
     width: 100%;
     height: auto;
     background-size: 100% 100%;}
@@ -95,7 +95,7 @@ input.input-dark, textarea.input-dark  {
 .c-brand-s3{
     color:#000000 !important;}
 .bg-branding {
-    background-image: url("/img/portadas/branding.png"); 
+    background-image: url("/img/portadas/branding.png");
     width: 100%;
     height: auto;
     background-size: 100% 100%;}
@@ -113,7 +113,7 @@ input.input-dark, textarea.input-dark  {
 .c-web-s2{
     color:#28e007 !important;}
 .bg-web {
-    background-image: url("/img/portadas/web.png"); 
+    background-image: url("/img/portadas/web.png");
     width: 100%;
     height: auto;
     background-size: 100% 100%;}
@@ -130,29 +130,15 @@ input.input-dark, textarea.input-dark  {
 .list--secondary a:hover, .list--secondary li:hover {
     color: #a707e0 !important; }
 .servises-item {
-<<<<<<< HEAD
-    padding: 35px 35px; !important;}
-.bg-contact {
-    background-color: #7b7960 !important;}
-.bg-alert{
-    background-color: #edf9f0;
-=======
     padding: 35px 35px !important;}
 .bg-contact {
     background-color: #7b7960 !important;}
 .bg-alert{
     background-color: #b8ffca;
->>>>>>> origin/master
     padding: 20px;
 }
 input.input-blue ,textarea.input-blue{
     border-radius: 50px;
-<<<<<<< HEAD
-    background-color: #b8b8b8;
-    color: #000000; }
-textarea::-webkit-input-placeholder, input::-webkit-input-placeholder {
-    color: #000000; }
-=======
     background-color: rgb(232, 240, 254) ;
     color: #000000; }
 textarea::-webkit-input-placeholder,
@@ -171,4 +157,3 @@ header {
     background-color: #141e30 !important;
     color: #797676 !important;
 }
->>>>>>> origin/master
