@@ -118,3 +118,15 @@ input.input-dark, textarea.input-dark  {
     color: #a707e0 !important; }
 .servises-item {
     padding: 35px 35px; !important;}
+.bg-contact {
+    background-color: #7b7960 !important;}
+.bg-alert{
+    background-color: #edf9f0;
+    padding: 20px;
+}
+input.input-blue ,textarea.input-blue{
+    border-radius: 50px;
+    background-color: #b8b8b8;
+    color: #000000; }
+textarea::-webkit-input-placeholder, input::-webkit-input-placeholder {
+    color: #000000; }

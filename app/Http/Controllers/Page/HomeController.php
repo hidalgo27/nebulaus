@@ -78,6 +78,10 @@ class HomeController extends Controller
     public function brandingImportance(){
         return view('page.blog.brandingImportance');
     }
+    //LANDING
+    public function landing(){
+        return view('landing.landing');
+    }
     //EMAIL
     public function contactForm(Request $request){
         $from = 'tania.vanessa609@gmail.com';

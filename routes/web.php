@@ -58,6 +58,7 @@ Route::get('/Marketing-B2B', [HomeController::class,'marketingB2B'])->name('page
 Route::get('/Organize-Content', [HomeController::class,'organizeWebContent'])->name('page.blog.organizeWebContent');
 
 Route::get('/Branding-Importance', [HomeController::class,'brandingImportance'])->name('page.blog.brandingImportance');
-
+//LANDING
+Route::get('/paginas-web', [HomeController::class,'landing'])->name('page.landing.landing');
 //EMAIL
 Route::post('/',[HomeController::class,'contactForm'])->name('contactForm');
