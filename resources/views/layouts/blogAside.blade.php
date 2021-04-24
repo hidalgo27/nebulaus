@@ -69,7 +69,7 @@
                                         <i class="seoicon-right-arrow"></i>
                                     </a>
                                 </div>
-                                
+
                             </div>
                         </div>
 
@@ -155,58 +155,36 @@
 
                             <div class="w-follow-wrap">
                                 <div class="w-follow-item facebook-bg-color">
-                                    <a href="#" class="w-follow-social__item table-cell">
+                                    <a href="https://www.facebook.com/nebulaperu/" class="w-follow-social__item table-cell" target="_BLANK">
                                         <i class="seoicon-social-facebook"></i>
                                     </a>
-                                    <a href="#" class="w-follow-title table-cell">Facebook
+                                    <a href="https://www.facebook.com/nebulaperu/" class="w-follow-title table-cell" target="_BLANK">Facebook
                                         <span class="w-follow-add">
-                                        <i class="seoicon-cross plus"></i>
-                                        <i class="seoicon-check-bold check"></i>
-                                    </span>
+                                            <i class="seoicon-cross plus"></i>
+                                            <i class="seoicon-check-bold check"></i>
+                                        </span>
                                     </a>
                                 </div>
-                                <div class="w-follow-item twitter-bg-color">
-                                    <a href="#" class="w-follow-social__item table-cell">
-                                        <i class=" seoicon-social-twitter"></i>
+                                <div class="w-follow-item bg-instagram">
+                                    <a href="https://www.instagram.com/nebulaperu/" class="w-follow-social__item table-cell" target="_BLANK">
+                                        <i class="seoicon-social-instagram"></i>
                                     </a>
-                                    <a href="#" class="w-follow-title table-cell">Twitter
-                                        <span class="w-follow-add active">
-                                        <i class="seoicon-cross plus"></i>
-                                        <i class="seoicon-check-bold check"></i>
-                                    </span>
+                                    <a href="https://www.instagram.com/nebulaperu/" class="w-follow-title table-cell" target="_BLANK">Instagram
+                                        <span class="w-follow-add">
+                                            <i class="seoicon-cross plus"></i>
+                                            <i class="seoicon-check-bold check"></i>
+                                        </span>
                                     </a>
                                 </div>
-                                <div class="w-follow-item linkedin-bg-color">
-                                    <a href="#" class="w-follow-social__item table-cell">
-                                        <i class="seoicon-social-linkedin"></i>
+                                <div class="w-follow-item bg-tiktok">
+                                    <a href="https://www.tiktok.com/@nebulamarketing?lang=es/" class="w-follow-social__item table-cell" target="_BLANK">
+                                        <i class="seoicon-social-instagram"></i>
                                     </a>
-                                    <a href="#" class="w-follow-title table-cell">Linkedin
+                                    <a href="https://www.tiktok.com/@nebulamarketing?lang=es" class="w-follow-title table-cell" target="_BLANK">Tiktok
                                         <span class="w-follow-add">
-                                        <i class="seoicon-cross plus"></i>
-                                        <i class="seoicon-check-bold check"></i>
-                                    </span>
-                                    </a>
-                                </div>
-                                <div class="w-follow-item google-bg-color">
-                                    <a href="#" class="w-follow-social__item table-cell">
-                                        <i class="seoicon-social-google-plus"></i>
-                                    </a>
-                                    <a href="#" class="w-follow-title table-cell">Google+
-                                        <span class="w-follow-add">
-                                        <i class="seoicon-cross plus"></i>
-                                        <i class="seoicon-check-bold check"></i>
-                                    </span>
-                                    </a>
-                                </div>
-                                <div class="w-follow-item pinterest-bg-color">
-                                    <a href="#" class="w-follow-social__item table-cell">
-                                        <i class="seoicon-social-pinterest"></i>
-                                    </a>
-                                    <a href="#" class="w-follow-title table-cell">Pinterest
-                                        <span class="w-follow-add">
-                                        <i class="seoicon-cross plus"></i>
-                                        <i class="seoicon-check-bold check"></i>
-                                    </span>
+                                            <i class="seoicon-cross plus"></i>
+                                            <i class="seoicon-check-bold check"></i>
+                                        </span>
                                     </a>
                                 </div>
                             </div>

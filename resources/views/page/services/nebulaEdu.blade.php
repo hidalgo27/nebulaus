@@ -19,15 +19,19 @@
 			</ul>
 		</div>
 	</div>
-	<div class="container">
-		<div class=row>
-		<div style="overflow: hidden; margin-top: -100px; margin-left: -15px;">
-			<iframe 
-			src="https://www.tiktok.com/@nebulamarketing/video/6933966253895781638" scrolling="no" 
-			style="height: 600px; border: 0px none; width: 550px; margin-top: -55px; margin-left: 5px; 
-			margin-right: 0px; ">
-			</iframe>
-			</div>
-		</div>
+	<div class="container medium-padding80">
+        <div class="row">
+
+        </div>
+        <div class="container">
+            <div class=row>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <iframe class="facebook" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fweb.facebook.com%2Fnebulaperu%2Fvideos%2F1159166717866062%2F&show_text=false&width=292" data-lazy="true"></iframe>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <iframe class="facebook" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fweb.facebook.com%2Fnebulaperu%2Fvideos%2F1244645565938205%2F&show_text=false&width=292" data-lazy="true"></iframe>
+                </div>
+            </div>
+        </div>
 	</div>
 @endsection

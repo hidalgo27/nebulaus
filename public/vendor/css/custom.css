@@ -157,3 +157,15 @@ header {
     background-color: #141e30 !important;
     color: #797676 !important;
 }
+iframe.facebook{
+    width:292px;
+    height:476px;
+    border:none;
+    overflow:hidden;
+}
+.bg-instagram{
+    background-color: #E1306C;
+}
+.bg-tiktok{
+    background-color: #010101;
+}

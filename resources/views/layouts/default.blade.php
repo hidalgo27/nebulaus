@@ -57,22 +57,15 @@
                 <div class="follow_us">
                     Síganos en:
                     <div class="socials">
-                        <a href="https://www.facebook.com/Nebula-USA-Web-Design-Online-Marketing-Agency-104841735011583" class="social__item" target="_BLANK">
+                        <a href="https://www.facebook.com/nebulaperu/" class="social__item" target="_BLANK">
                             <img loading="lazy" src="svg/circle-facebook.svg" alt="facebook">
                         </a>
-
-                        <a href="" class="social__item">
-                            <img loading="lazy" src="svg/twitter.svg" alt="twitter">
-                        </a>
-
-                        <a href="" class="social__item">
+                        <a href="https://www.instagram.com/nebulaperu/" class="social__item" target="_blank">
                             <img loading="lazy" src="svg/instagram.svg" alt="instagram">
                         </a>
-
-                        <a href="" class="social__item">
-                            <img loading="lazy" src="svg/youtube.svg" alt="youtube">
+                        <a href="https://www.tiktok.com/@nebulamarketing?lang=es" class="social__item" target="_blank">
+                            <img loading="lazy" src="svg/tiktok.svg" alt="tiktok">
                         </a>
-
                     </div>
                 </div>
                 <a href="#" class="top-bar-close" id="top-bar-close-js">
@@ -185,7 +178,7 @@
 
         <div class="container">
             <div class="row">
-                <a href="https://api.whatsapp.com/send?phone=51944173212" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=51960680005" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
             </div>
         </div>
 
@@ -478,7 +471,7 @@
                 </form>
             </div>
         </div>
- 
+
         <svg style="display:none;">
             <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">
                 <path d="M124.1,431.3c0.1,2,1,3.8,2.4,5.2c0,0,0.1,0.1,0.1,0.1l34.1,34.1c1.6,1.6,3.7,2.5,5.9,2.5s4.3-0.9,5.9-2.4
@@ -576,7 +569,7 @@
         <!-- /jQuery-scripts for Modules (Send Message) -->
         <script async src="//www.instagram.com/embed.js"></script>
         <script async src="https://www.tiktok.com/embed.js"></script>
-        <!-- ...end JS Script -->
+         <!-- ...end JS Script -->
         <!-- Facebook Pixel Code -->
         <script>
             !function(f,b,e,v,n,t,s)
@@ -600,7 +593,6 @@
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-
             gtag('config', 'G-ZE5Y0KQ9X1');
         </script>
     </body>
