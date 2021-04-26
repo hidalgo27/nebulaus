@@ -45,13 +45,13 @@
                                         <table border="0" cellspacing="0" cellpadding="0">
                                             <tr>
                                                 <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
-                                                    <a href="https://www.facebook.com/davisclick/" target="_blank">
-                                                        <img src="{{asset('svg/instagram.svg')}}" width="37" height="37" alt="Facebook" border="0" />
+                                                    <a href="https://www.facebook.com/nebulaperu/" target="_blank">
+                                                        <img src="{{asset('svg/circle-facebook.svg')}}" width="37" height="37" alt="Facebook" border="0" />
                                                     </a>
                                                 </td>
                                                 <td width="37" style="text-align: center; padding: 0 10px 0 10px;">
-                                                    <a href="https://www.instagram.com/davisclick/" target="_blank">
-                                                        <img src="{{asset('svg/circle-facebook.svg')}}" width="37" height="37" alt="Instagram" border="0" />
+                                                    <a href="https://www.instagram.com/nebulaperu/" target="_blank">
+                                                        <img src="{{asset('svg/instagram.svg')}}" width="37" height="37" alt="Instagram" border="0" />
                                                     </a>
                                                 </td>
                                             </tr>

@@ -124,7 +124,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-branding">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/branding.png" alt="service">
+                        <img loading="lazy" src="img/branding/branding-ico.png" alt="service">
                     </div>
                     <div class="servises-item__content align-center">
                         <h3 class="servises-title c-white">BRANDING</h3>
@@ -164,7 +164,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-social">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/redes-sociales.png" alt="redes-sociales">
+                        <img loading="lazy" src="img/redes/redes-ico.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content align-center">
                         <h3 class="servises-title c-white">REDES<br>SOCIALES</h3>
@@ -184,7 +184,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-seo">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/seo.png" alt="seo">
+                        <img loading="lazy" src="img/seo/seo-ico.png" alt="seo">
                     </div>
                     <div class="servises-item__content align-center">
 						<h3 class="servises-title c-white">SEO</h3><br>
