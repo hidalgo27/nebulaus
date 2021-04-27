@@ -47,27 +47,32 @@
                     <div class="contact-item">
                         Lunes-Viernes / 9am-6pm
                     </div>
+                    <div class="contact-item">
+                        <div class="follow_us">
+                        Síganos en:
+                        <div class="socials">
+                            <a href="https://www.facebook.com/nebulaperu/" class="social__item" target="_BLANK">
+                                <img loading="lazy" src="svg/circle-facebook.svg" alt="facebook">
+                            </a>
+                            <a href="https://www.instagram.com/nebulaperu/" class="social__item" target="_blank">
+                                <img loading="lazy" src="svg/instagram.svg" alt="instagram">
+                            </a>
+                            <a href="https://www.tiktok.com/@nebulamarketing?lang=es" class="social__item" target="_blank">
+                                <img loading="lazy" src="svg/tiktok1.svg" alt="tiktok">
+                            </a>
+                        </div>
+                    </div>
+                </div>
                 </div>
                 <!--REGISTRARSE-->
+                <!--
                 <div class="login-block">
                     <img loading="lazy" src="img/signin_dark.png" class="sign-in">
                     <a class="js-window-popup" href="#">Registrarse</a>
                 </div>
+                -->
                 <!--REDES SOCIALES-->
-                <div class="follow_us">
-                    Síganos en:
-                    <div class="socials">
-                        <a href="https://www.facebook.com/nebulaperu/" class="social__item" target="_BLANK">
-                            <img loading="lazy" src="svg/circle-facebook.svg" alt="facebook">
-                        </a>
-                        <a href="https://www.instagram.com/nebulaperu/" class="social__item" target="_blank">
-                            <img loading="lazy" src="svg/instagram.svg" alt="instagram">
-                        </a>
-                        <a href="https://www.tiktok.com/@nebulamarketing?lang=es" class="social__item" target="_blank">
-                            <img loading="lazy" src="svg/tiktok.svg" alt="tiktok">
-                        </a>
-                    </div>
-                </div>
+               
                 <a href="#" class="top-bar-close" id="top-bar-close-js">
                     <span></span>
                     <span></span>

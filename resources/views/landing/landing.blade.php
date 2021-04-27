@@ -4,39 +4,97 @@
     <title>Diseño web para empresas 2021</title>
 @endsection
 @section('content')
-    <div class="stunning-header bg-web">
-        <div class="stunning-header-content">
-            <h1 class="stunning-header-title">DISEÑO WEB</h1>
-            <ul class="breadcrumbs">
-                <li class="breadcrumbs-item">
-                    <a href="/">Home</a>
-                    <i class="seoicon-right-arrow"></i>
-                    <a href="/#servicios">Servicios</a>
-                    <i class="seoicon-right-arrow"></i>
-                </li>
-                <li class="breadcrumbs-item active">
-                    <span href="#">Diseño web</span>
-                    <i class="seoicon-right-arrow"></i>
-                </li>
-            </ul>
+    <div class="container-fluid bg-slider1">
+        <div class="container medium-padding80">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="heading pb30">
+                        <h1 class="h2 c-brand-p align-center bold">Páginas Webs para Negocios 2021</h1>
+                    </div>
+                    <div class="heading-text c-brand-s3 pb30">
+                        <p>Diseñamos tu próxima página web para negocios y/o empresas coorporativas</p>
+                    </div>
+                    <div class="align-center">
+                        <a href="#" class="btn btn-small bg-primary-brand">
+                            <span class="text">MÁS INFORMACIÓN</span>
+                            <span class="semicircle"></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
+                    <img loading="lazy" src="img/landing/diseño-web.png" alt="pagina web">
+                </div>
+            </div>
         </div>
     </div>
-    <div class="container-fluid pt80">
-        <div class="container">
+    <div class="container-fluid">
+        <div class="container medium-padding80">
             <div class="row">
-                <div class="heading align-center pb30">
-                    <h1 class="h2">Páginas Webs Para Negocios en Perú 2021</h1>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="heading pb30">
+                        <h2 class="h3"><b>Somos especialistas en las industrias del Mercado:</b></h2>
+                    </div>
+                    <div class="heading-text c-white pb30 align-center">
+                        <p>
+                            <span class="bg-servicios mr">PÁGINAS WEB DE VIAJES</span>
+                            <span class="bg-servicios mr">TIENDAS ONLINE - (Ecommerce)</span>
+                            <span class="bg-servicios mr">HOTELES</span>
+                            <span class="bg-servicios mr">DISEÑO WEB PARA INMOBILIARIAS</span>
+                            <span class="bg-servicios mr">RESTAURANTES</span>
+                        </p>
+                    </div>
                 </div>
-                <div class="heading-text c-brand-s3">
-                    <p>Diseñamos tu próxima página web para empresas/negocios</p>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
+                    <img loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-slider3">
+        <div class="container">
+            <div class="row medium-padding80">
+                <div class="col-lg-12">
+                    <div class="heading pb30">
+                        <h2 class="h5 c-white"><b>Desarrollamos los requerimientos necesarios para tu página web según tus objetivo:</b></h2>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
+                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <h6 class="c-white">Vender Productos</h6>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
+                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <h6 class="c-white">Ofrecer Servicios</h6>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
+                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <h6 class="c-white">Contactar Clientes</h6>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
+                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <h6 class="c-white">Blog Ebooks</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="container medium-padding80">
+            <div class="row bg-primary-web pading c-white align-center">
+                <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+                    <p class="h5 c-white">¡PROMOCIÓN DE REACTIVACIÓN!</p>
+                    <p class="text">Adquire tu próxima web de negocio</P>
+                </div>
+                <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                    <p class="h5 c-white">DESDE s/.390.00</p>
+                    <p class="text">¡CONSULTAR AHORA!</P>
                 </div>
             </div>
         </div>
     </div>
     <div id="precios" class="container-fluid">
-        <div class="row pb30 pt80">
+        <div class="row pb30">
             <div class="heading mb30 align-center">
-                <h4 class="h3 heading-title c-brand-p">2 Planes</h4>
+                <h4 class="h3 heading-title c-brand-p">Planes recomendados</h4>
                 <div class="heading-line">
                     <span class="short-line bg-primary-seo"></span>
                     <span class="long-line bg-primary-seo"></span>
@@ -113,7 +171,7 @@
                                         <br><b>por mes</b>
                                     </p>
                                     <a href="/#contacto" class="btn btn-medium btn--dark">
-                                        <span class="text">¡Ordenar ahora!</span>
+                                        <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>
                                 </div>
@@ -197,7 +255,7 @@
                                         <br><b>por mes</b>
                                     </p>
                                     <a href="/#contacto" class="btn btn-medium btn--dark">
-                                        <span class="text">¡Ordenar ahora!</span>
+                                        <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>
                                 </div>
@@ -293,13 +351,56 @@
                                         <br><b>por mes</b>
                                     </p>
                                     <a href="/#contacto" class="btn btn-medium btn--dark">
-                                        <span class="text">¡Ordenar ahora!</span>
+                                        <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row medium-padding80">
+                <div class="col-lg-12">
+                    <div class="heading pb30 align-center">
+                        <h3 class="h3">¿Tienes alguna pregunta?</h3>
+                        <p class="text">Nos emocionaría trabajar en tu PRÓXIMA página WEB de negocio</p>
+                    </div>
+                    <form class="contact-form crumina-submit" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
+						<div class="row">
+							<div class="col-lg-10 col-lg-offset-1">
+								<div class="row">
+									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+										<input name="name" class="input-standard-grey" placeholder="Nombre" type="text" required>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+										<input name="phone" class="input-standard-grey" placeholder="Número de celular" type="text">
+									</div>
+								</div>
+
+								<div class="row">
+									<div class="col-lg-12">
+										<input name="email" class="input-standard-grey" required placeholder="Email" type="email">
+									</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <textarea name="message" class="input-standard-grey" required placeholder="Mensaje"></textarea>
+                                    </div>
+                                </div>
+                                <div class="row align-center">
+                                    <button class="btn btn-medium btn--breez btn-hover-shadow">
+                                        <span class="text">ENVIAR</span>
+                                        <span class="semicircle"></span>
+                                    </button>
+                                </div>
+							</div>
+						</div>
+					</form>
                 </div>
             </div>
         </div>

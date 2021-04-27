@@ -9,19 +9,19 @@
         <div class="swiper-container main-slider" data-effect="fade" data-autoplay="4000">
             <!-- SLIDER -->
             <div class="swiper-wrapper">
-				<div class="swiper-slide bg-box-social">
+				<div class="swiper-slide bg-slider1">
 					<div class="container">
 						<div class="row table-cell">
 							<div class="col-lg-12">
 								<div class="slider-content align-center">
 									<h1 class="slider-content-title c-brand-p" data-swiper-parallax="-100">
-                                        Agencia de marketing digital y publicidad Cusco
+                                        Agencia de Marketing Digital y Publicidad - Cusco
                                     </h1>
 									<h5 class="slider-content-text" data-swiper-parallax="-200">
                                         Somos una agencia de marketing especializada en servicios digitales  e integrales
                                     </h5>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="/Nosotros" class="btn btn-small bg-primary-web btn-hover-shadow">
+										<a href="/Nosotros" class="btn btn-small bg-primary-social btn-hover-shadow">
 											<span class="text">¡CONÓSCANOS!</span>
 											<span class="semicircle"></span>
 										</a>
@@ -30,20 +30,20 @@
 							</div>
 							<div class="col-lg-12">
 								<div class="slider-thumb align-center" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-									<img class="img" loading="lazy" src="img/slider/slider1.png" alt="marketing">
+									<img class="img" loading="lazy" src="img/slider/marketing.png" alt="marketing">
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-box-web main-slider-bg-dark thumb-left">
+				<div class="swiper-slide bg-slider2 main-slider-bg-dark thumb-left">
 					<div class="container table">
 						<div class="row table-cell">
-							<div class="col-lg-5 table-cell">
+							<div class="col-lg-6 table-cell">
 								<div class="slider-content align-center">
 									<h3 class="slider-content-title h2" data-swiper-parallax="-100">
-										<span class="c-brand-p">¡Promoción!</span>
-                                        Diseño Web Para Empresas.</h3>
+										<span class="c-brand-p">¡PROMOCIÓN!</span>
+                                        Diseño Web para Empresas</h3>
 									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
                                         Servicio de <b>diseño</b> y desarrollo <b>web para tu negocio</b> a medida, consulta precios y promoción REACTIVACIÓN-10%reactivación
                                     </p>
@@ -122,7 +122,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-branding">
+                <div class="servises-item bg-box-brand">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/branding/branding-ico.png" alt="service">
                     </div>
@@ -142,7 +142,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-web">
+                <div class="servises-item bg-box-web">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-social">
+                <div class="servises-item bg-box-social">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/redes/redes-ico.png" alt="redes-sociales">
                     </div>
@@ -182,7 +182,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-seo">
+                <div class="servises-item bg-box-seo">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/seo/seo-ico.png" alt="seo">
                     </div>
@@ -202,7 +202,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
-                <div class="servises-item bg-audio">
+                <div class="servises-item bg-box-audio">
                     <div class="servises-item__thumb align-center">
                         <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
