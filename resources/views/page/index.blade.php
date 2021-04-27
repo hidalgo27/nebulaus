@@ -21,8 +21,8 @@
                                         Somos una agencia de marketing especializada en servicios digitales  e integrales
                                     </h5>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="/Nosotros" class="btn btn-small bg-primary-social btn-hover-shadow">
-											<span class="text">¡CONÓSCANOS!</span>
+										<a href="/Nosotros" class="btn btn-small bg-slider3 btn-hover-shadow">
+											<span class="text c-brand-p">¡CONÓSCANOS!</span>
 											<span class="semicircle"></span>
 										</a>
 									</div>
@@ -42,19 +42,19 @@
 							<div class="col-lg-6 table-cell">
 								<div class="slider-content align-center">
 									<h3 class="slider-content-title h2" data-swiper-parallax="-100">
-										<span class="c-brand-p">¡PROMOCIÓN!</span>
+										<span class="c-brand-p bold">¡PROMOCIÓN!</span>
                                         Diseño Web para Empresas</h3>
 									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
                                         Servicio de <b>diseño</b> y desarrollo <b>web para tu negocio</b> a medida, consulta precios y promoción REACTIVACIÓN-10%reactivación
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 										<a href="/#contacto"
-										   class="btn btn-medium bg-primary-audio btn-hover-shadow">
-											<span class="text">CONSULTAR</span>
+										   class="btn btn-small bg-slider1 btn-hover-shadow">
+											<span class="text c-brand-p">CONSULTAR</span>
 											<span class="semicircle"></span>
 										</a>
-										<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-medium bg-primary-audio"data-swiper-parallax="-300">
-											<span class="text">VER PRECIOS</span>
+										<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-small bg-slider1"data-swiper-parallax="-300">
+											<span class="text c-brand-p">VER PRECIOS</span>
 											<span class="semicircle"></span>
 										</a>
 									</div>
@@ -68,23 +68,23 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-box-edu main-slider-bg-dark">
+				<div class="swiper-slide bg-slider3 main-slider-bg-dark">
 					<div class="container table">
 						<div class="row table-cell">
 							<div class="col-lg-6 table-cell">
 								<div class="slider-content align-center">
-									<h3 class="h2 slider-content-title c-brand-p" data-swiper-parallax="-100"><span class="c-white">Marketing y Publicidad</span> en Redes Sociales
+									<h3 class="h2 slider-content-title c-brand-p" data-swiper-parallax="-100"><span class="c-white bold">Marketing y Publicidad</span> en Redes Sociales
                                     </h3>
 									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
-                                        Conoce nuestro servicio de Estrategias de marketing en redes sociales para empresas o negocios, ¡Solicita más Información!<b>GRATIS.</b>
+                                        Conoce nuestro servicio de Estrategias de marketing en redes sociales para empresas o negocios, ¡Solicita más Información! <b>GRATIS.</b>
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
-										<a href="/#contacto" class="btn btn-medium bg-seo-s1 btn-hover-shadow">
-											<span class="text">CONSULTAR</span>
+										<a href="/#contacto" class="btn btn-small bg-slider2 btn-hover-shadow">
+											<span class="text c-brand-p">CONSULTAR</span>
 											<span class="semicircle"></span>
 										</a>
-										<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-medium btn-hover-shadow bg-seo-s1">
-											<span class="text">VER PLANES</span>
+										<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-small btn-hover-shadow bg-slider2">
+											<span class="text c-brand-p">VER PLANES</span>
 											<span class="semicircle"></span>
                                         </a>
 									</div>
