@@ -30,7 +30,7 @@
 							</div>
 							<div class="col-lg-12">
 								<div class="slider-thumb align-center" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-									<img class="img" loading="lazy" src="img/slider/marketing.png" alt="marketing">
+									<img class="img" loading="lazy" src="img/slider/slider1.png" alt="marketing">
 								</div>
 							</div>
 						</div>
