@@ -618,37 +618,11 @@
 									<div class="swiper-wrapper">
 										<div class="testimonial-slider-item swiper-slide">
 											<div class="testimonial-content">
-												<p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-													nihil imperdiet doming id quod mazim.
+												<p class="text" data-swiper-parallax="-200">
+													Estoy muy satisfecho con el trabajo de Nebula. Gran equipo de profesionales, atención personalizada y amabilidad. Resuelven tus dudas y te asesoran en todo momento sobre el funcionamiento de la web
 												</p>
-												<a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-												<a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
-
-											</div>
-											<div class="avatar" data-swiper-parallax="-50">
-												<img loading="lazy" src="img/avatar.png" alt="avatar">
-											</div>
-										</div>
-										<div class="testimonial-slider-item swiper-slide">
-											<div class="testimonial-content">
-												<p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-													nihil imperdiet doming id quod mazim.
-												</p>
-												<a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-												<a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
-
-											</div>
-											<div class="avatar" data-swiper-parallax="-50">
-												<img loading="lazy" src="img/avatar.png" alt="avatar">
-											</div>
-										</div>
-										<div class="testimonial-slider-item swiper-slide">
-											<div class="testimonial-content">
-												<p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-													nihil imperdiet doming id quod mazim.
-												</p>
-												<a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-												<a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+												<a href="#" class="author" data-swiper-parallax="-150">Oscar Rodriguez</a>
+												<a href="#" class="company" data-swiper-parallax="-150">Gotoperu Group</a>
 
 											</div>
 											<div class="avatar" data-swiper-parallax="-50">
