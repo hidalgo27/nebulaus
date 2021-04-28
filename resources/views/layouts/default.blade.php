@@ -201,30 +201,9 @@
                     </div>
                     <p class="text">AGENCIA CREATIVA</p>
                 </div>
-                <!-- INICIAR SESION-->
-                <div class="widget login">
-                    <h4 class="login-title">Iniciar sesión</h4>
-                    <input class="input-standard-grey" placeholder="Email" type="text">
-                    <input class="password input-standard-grey" placeholder="Contraseña" type="password">
-                    <div class="login-btn-wrap">
-                        <div class="btn btn-medium btn--primary btn-hover-shadow">
-                            <span class="text align-center c-dark">Iniciar</span>
-                            <span class="semicircle"></span>
-                        </div>
-                        <div class="remember-wrap">
-                        <div class="checkbox">
-                            <input id="remember" type="checkbox" name="remember" value="remember">
-                            <label for="remember">Recordarme</label>
-                        </div>
-                    </div>
-                    </div>
-                    <div class="helped">¿Olvidaste tu contraseña?</div>
-                    <div class="helped js-window-popup">Registrarse</div>
-
-                </div>
                 <!--CONTACTO-->
                 <div class="widget contacts">
-                    <h4 class="contacts-title">Ponte en contacto</h4>
+                    <h4 class="contacts-title c-brand-p">Ponte en contacto</h4>
                     <p class="contacts-text">Comunícate con nosotros
                     </p>
                     <div class="contacts-item">
@@ -304,28 +283,23 @@
                             <div class="heading">
                                 <h3 class="heading-title">¡Compañía Nebula!</h3>
                                 <div class="heading-line">
-                                    <span class="short-line"></span>
-                                    <span class="long-line"></span>
+                                    <span class="short-line bg-amarillo"></span>
+                                    <span class="long-line bg-amarillo"></span>
                                 </div>
                                 <p class="heading-text">
                                     Somos especialistas en servicios de marketing digital en el 2021. Tendrás la oportunidad de trabajar con las mejores herramientas y profesionales desde el diseño y desarrollo web, implementación y creación de propuestas de imagen corporativa Branding y creación de contenidos audiovisuales para grandes y pequeñas empresas.
                                 </p>
                             </div>
                             <div class="socials">
-                                <a href="" class="social__item">
+                                <a href="https://www.facebook.com/nebulaperu" class="social__item">
                                     <img loading="lazy" src="svg/circle-facebook.svg" alt="facebook">
                                 </a>
-                                <a href="" class="social__item">
-                                    <img loading="lazy" src="svg/twitter.svg" alt="twitter">
                                 </a>
-                                <a href="" class="social__item">
-                                    <img loading="lazy" src="svg/google.svg" alt="google">
-                                </a>
-                                <a href="" class="social__item">
-                                    <img loading="lazy" src="svg/youtube.svg" alt="youtube">
-                                </a>
-                                <a href="" class="social__item">
+                                <a href="https://www.instagram.com/nebulaperu/" class="social__item">
                                     <img loading="lazy" src="svg/instagram.svg" alt="instagram">
+                                </a>
+                                <a href="https://www.tiktok.com/@nebulamarketing?lang=es" class="social__item">
+                                    <img loading="lazy" src="svg/tiktok1.svg" alt="instagram">
                                 </a>
                             </div>
                         </div>
@@ -334,8 +308,8 @@
                                 <div class="heading">
                                     <h3 class="heading-title">Servicios Prestados</h3>
                                     <div class="heading-line">
-                                        <span class="short-line"></span>
-                                        <span class="long-line"></span>
+                                        <span class="short-line bg-amarillo"></span>
+                                        <span class="long-line bg-amarillo"></span>
                                     </div>
                                 </div>
                                 <ul class="list list--primary">
@@ -421,61 +395,16 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <span>
-                                Copyright © 2016 <a href="index.html" class="sub-footer__link">Nebula,</a>
-                                Designed by <a href="https://themeforest.net/user/themefire/portfolio">themefire</a>
+                                Copyright © 2021 <a href="/" class="sub-footer__link">Nebula,</a>
+                                Designed by <a href="#">Nebula</a>
                             </span>
 
-                            <span>Developed by <a href="https://themeforest.net/user/crumina/portfolio">Crumina</a></span>
-                            <span>Only on <a href="https://themeforest.net/user/crumina/portfolio">Envato Market</a></span>
+                            <span>Developed by <a href="#">Nebula</a></span>
                         </div>
                     </div>
                 </div>
             </div>
         </footer>
-
-    <!-- FORM REGISTRASE -->
-        <div class="window-popup">
-            <a href="#" class="popup-close js-popup-close cd-nav-trigger">
-                <i class="seosight-icon seoicon-delete"></i>
-            </a>
-
-            <div class="sign-in-popup">
-                <h5 class="title">Register to SeoSight</h5>
-                <p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
-                <form class="form-validate contact-form">
-                    <div class="row">
-
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                            <input class="input-standard-grey" placeholder="First Name" type="text">
-                        </div>
-
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                            <input class="input-standard-grey" placeholder="Last Name" type="text">
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <input class="input-standard-grey" placeholder="Your Email" type="email">
-                            <input class="input-standard-grey" placeholder="Your Password" type="password">
-
-                            <select>
-                                <option value="MA">Male</option>
-                                <option value="FE">Female</option>
-                            </select>
-
-                            <div class="remember-wrap">
-                                <div class="checkbox">
-                                    <input id="terms" type="checkbox" name="terms" value="terms">
-                                    <label for="terms">I accept the Terms and Conditions</label>
-                                </div>
-                            </div>
-
-                            <a href="#" class="btn btn-large btn--primary">Complete Registration!</a>
-                        </div>
-
-                    </div>
-                </form>
-            </div>
-        </div>
 
         <svg style="display:none;">
             <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">
@@ -510,26 +439,6 @@
                 L12,18.5 L16.5,14 L21,18.5 L20.25,19.25 L17,16 L17,22 L17,22 Z M16,22 L16,27 L17,27 L17,22 L16,22 L16,22 Z" id="cloud-upload"></path>
             </symbol>
         </svg>
-
-<!-- Overlay Search -->
-
-        <div class="overlay_search">
-            <div class="container">
-                <div class="row">
-                    <div class="form_search-wrap">
-                        <form>
-                            <input class="overlay_search-input" placeholder="Type and hit Enter..." type="text">
-                            <a href="#" class="overlay_search-close">
-                                <span></span>
-                                <span></span>
-                            </a>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    <!-- End Overlay Search -->
 
     <!-- JS Script -->
 

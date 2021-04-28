@@ -111,14 +111,16 @@
 	<!--SERVICES-->
     <div id="servicios" class="container">
         <div class="row align-center pb30">
-            <div class="heading">
-                <h2 class="heading-title c-brand-p">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
-                <div class="heading-line">
-                    <span class="short-line bg-primary-brand"></span>
-                    <span class="long-line bg-primary-brand"></span>
-                </div>
-                <span class="heading-text">SERVICIOS</span>
-            </div>
+			<div class="col-lg-12">
+				<div class="heading">
+					<h2 class="h3 c-brand-p">AGENCIA CREATIVA CON SEDE EN CUSCO</h2>
+					<div class="heading-line">
+						<span class="short-line bg-primary-brand"></span>
+						<span class="long-line bg-primary-brand"></span>
+					</div>
+					<span class="heading-text">SERVICIOS</span>
+				</div>
+			</div>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
@@ -127,7 +129,7 @@
                         <img loading="lazy" src="img/branding/branding-ico.png" alt="service">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title c-white">BRANDING</h3>
+                        <h3 class="servises-title c-white c-brand-p">BRANDING</h3>
                         <p class="servises-text c-white">
 							Promueve tu marca ante la competencia. Desde el diseño de logos, línea gráfica, fotografía, videos, packaging, merchandising.
                         </p>
@@ -147,7 +149,7 @@
                         <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title c-white">DISEÑO<br>WEB</h3>
+                        <h3 class="servises-title c-brand-p">DISEÑO<br>WEB</h3>
                         <p class="servises-text c-white">
 							Para tiendas online (Ecommerce). agencias de viajes, restaurantes, hoteles, páginas web de servicios y empresariales.
                         </p>
@@ -167,7 +169,7 @@
                         <img loading="lazy" src="img/redes/redes-ico.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title c-white">REDES<br>SOCIALES</h3>
+                        <h3 class="servises-title c-brand-p">REDES<br>SOCIALES</h3>
                         <p class="servises-text c-white">
 							Define la red social ideal para Publicidad de productos y/o servicios, creación de contenidos, estrategia de ventas.
                         </p>
@@ -187,7 +189,7 @@
                         <img loading="lazy" src="img/seo/seo-ico.png" alt="seo">
                     </div>
                     <div class="servises-item__content align-center">
-						<h3 class="servises-title c-white">SEO</h3><br>
+						<h3 class="servises-title c-brand-p">SEO</h3><br>
                         <p class="servises-text c-white">
 							Estrategia de Marketing SEO y Posicionamiento de negocios en internet
                         </p><br><br>
@@ -207,7 +209,7 @@
                         <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
                     </div>
                     <div class="servises-item__content align-center">
-                        <h3 class="servises-title c-white">PRODUCCIÓN AUDIOVISUAL</h3>
+                        <h3 class="servises-title c-brand-p">PRODUCCIÓN AUDIOVISUAL</h3>
                         <p class="servises-text c-white">
 							Edición y producción de videos para productos, servicios y eventos.
                         </p><br><br>
@@ -227,8 +229,8 @@
                         <img loading="lazy" src="img/iconos/educacion.png" alt="educacion">
                     </div>
                     <div class="servises-item__content align-center">
-						<h3 class="servises-title">NEBULA<br>EDU</h3>
-                        <p class="servises-text c-dark">
+						<h3 class="servises-title c-brand-p">NEBULA<br>EDU</h3>
+                        <p class="servises-text c-white">
 							Aprende todo sobre nuestros productos y crea tu modelo de negocios para ti.
                         </p><br><br>
                     </div>
@@ -244,8 +246,8 @@
         </div>
     </div>
 	<!--WHY-->
-    <div class="container-fluid pt80">
-		<div class="row">
+    <div class="container-fluid">
+		<div class="row medium-padding80">
 			<div class="background-mountains scrollme">
 				<div class="images">
 					<img loading="lazy" src="img/mountain1.png" alt="mountain">
@@ -255,7 +257,7 @@
 					<div class="row align-center">
 						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
 							<div class="heading">
-								<h2 class="heading-title c-brand-p">¿POR QUÉ NEBULA?</h2>
+								<h3 class="c-brand-p">¿POR QUÉ NEBULA?</h3>
 								<div class="heading-line">
 									<span class="short-line bg-primary-brand"></span>
 									<span class="long-line bg-primary-brand"></span>
@@ -272,7 +274,7 @@
 									<img loading="lazy" src="img/iconos/nosotros.png" alt="nosotros">
 								</div>
 								<div class="info-box-content">
-									<h4 class="info-box-title">Nosotros</h4>
+									<h4 class="info-box-title c-brand-p">Nosotros</h4>
 									<p class="text c-brand-s3">Somos un equipo creativo, apasionado con ganas de ayudarte.
 									</p>
 								</div>
@@ -284,7 +286,7 @@
 									<img loading="lazy" src="img/iconos/calidad.png" alt="calidad">
 								</div>
 								<div class="info-box-content">
-									<h4 class="info-box-title">Calidad</h4>
+									<h4 class="info-box-title c-brand-p">Calidad</h4>
 									<p class="text c-brand-s3">Brindamos un servicio rentable, siempre vamos un paso adelante a la tendencia.
 									</p>
 								</div>
@@ -296,7 +298,7 @@
 									<img loading="lazy" src="img/iconos/confianza.png" alt="confianza">
 								</div>
 								<div class="info-box-content">
-									<h4 class="info-box-title">Confianza</h4>
+									<h4 class="info-box-title c-brand-p">Confianza</h4>
 									<p class="text c-brand-s3">Hemos desarrollado diferentes proyectos, dejando a nuestros clientes satisfechos.
 									</p>
 								</div>
@@ -308,7 +310,7 @@
 									<img loading="lazy" src="img/iconos/conversemos.png" alt="conversemos">
 								</div>
 								<div class="info-box-content">
-									<h4 class="info-box-title">Conversemos</h4>
+									<h4 class="info-box-title c-brand-p">Conversemos</h4>
 									<p class="text c-brand-s3">Nos gustaría ayudarte, ¡JUNTÉMONOS!.
 									</p>
 								</div>
@@ -320,115 +322,108 @@
 		</div>
 	</div>
 	<!--ABOUT YOU-->
-    <div class="container medium-padding80">
+    <div class="container">
         <div class="row align-center">
-            <div class="heading ">
-				<h2 class="heading-title c-brand-p">ACERCA DE TÍ</h2>
-				<div class="heading-line">
-					<span class="short-line bg-primary-brand"></span>
-					<span class="long-line bg-primary-brand"></span>
+			<div class="col-lg-12">
+				<div class="heading ">
+					<h3 class="heading-title c-brand-p">ACERCA DE TÍ</h3>
+					<div class="heading-line">
+						<span class="short-line bg-primary-brand"></span>
+						<span class="long-line bg-primary-brand"></span>
+					</div>
+					<p class="heading-text">¿QUÈ PERFIL TE IDENTIFICA?</p>
 				</div>
-                <p class="heading-text">¿QUE PERFIL TE IDENTIFICA?</p>
-            </div>
+			</div>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
 					<img loading="lazy" src="img/START-UP.png" alt="start-up">
-					<h6 class="case-item__title">START UP</h6>
-                    <h6 class="case-item__text">Iniciando algo grande</h6>
+					<p class="case-item__title c-brand-p">START UP</p>
+                    <p class="case-item__text">Iniciando algo grande</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
 					<img loading="lazy" src="img/EMPRENDEDOR.png" alt="emprendedor">
-					<h6 class="case-item__title">EMPRENDEDOR</h6>
-                    <h6 class="case-item__text">Listo para dar el sgte gran paso</h6>
+					<p class="case-item__title c-brand-p">EMPRENDEDOR</p>
+                    <p class="case-item__text">Listo para dar el sgte gran paso</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
 					<img loading="lazy" src="img/MIEMBRO-DE-EMPRESA.png" alt="empresa">
-					<h6 class="case-item__title">EMPRESA</h6>
-                    <h6 class="case-item__text">Servicios a la medida</h6>
+					<p class="case-item__title c-brand-p">EMPRESA</p>
+                    <p class="case-item__text">Servicios a la medida</p>
                 </div>
             </div>
 		</div>
     </div>
 	<!--OUR PROJECTS-->
-    <div class="container-fluid align-center pb80">
-        <div class="container">
+    <div class="container-fluid bg-border-color">
+        <div class="container medium-padding80">
             <div class="row">
-                <div class="heading ">
-                    <h2 class="heading-title c-brand-p">NUESTROS PROYECTOS</h2>
-                    <div class="heading-line">
-                        <span class="short-line bg-primary-brand"></span>
-                        <span class="long-line bg-primary-brand"></span>
-                    </div>
-                    <p class="heading-text">ESTOS SON ALGUNOS</p>
-                </div>
+				<div class="col-lg-12">
+					<div class="heading align-center">
+						<h3 class="c-brand-p">NUESTROS PROYECTOS</h3>
+						<div class="heading-line">
+							<span class="short-line bg-primary-brand"></span>
+							<span class="long-line bg-primary-brand"></span>
+						</div>
+						<p class="heading-text">ESTOS SON ALGUNOS</p>
+					</div>
+				</div>
             </div>
             <div class="container align-center">
                 <div class="row pb30 align-center">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="features-item">
-                            <blockquote class="instagram-media"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
-                            </blockquote>
-                        </div>
+						<blockquote class="instagram-media instagram"
+							data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
+						</blockquote>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="features-item">
-                            <blockquote class="instagram-media"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
-                            </blockquote>
-                        </div>
+						<blockquote class="instagram-media instagram"
+							data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
+						</blockquote>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="features-item">
-                            <blockquote class="instagram-media"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
-                            </blockquote>
-                        </div>
+						<blockquote class="instagram-media instagram"
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
+						</blockquote>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="features-item">
-                            <blockquote class="instagram-media"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
-                            </blockquote>
-                        </div>
+						<blockquote class="instagram-media instagram"
+							data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
+						</blockquote>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="features-item">
-                            <blockquote class="instagram-media"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
-                            </blockquote>
-                        </div>
+						<blockquote class="instagram-media instagram"
+							data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
+						</blockquote>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="features-item">
-                            <blockquote class="instagram-media"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
-                            </blockquote>
-                        </div>
+						<blockquote class="instagram-media instagram"
+							data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
+						</blockquote>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <a href="21_seo_analysis.html" class="btn btn-medium btn--blue">
-                    <span class="text">Ver mas</span>
-                    <span class="semicircle"></span>
-                    <span class="semicircle"></span>
-                </a>
+            <div class="row align-center">
+				<div class="col-lg-12">
+					<a href="https://www.instagram.com/nebulacreativestudio/" class="btn btn-small bg-primary-brand" target="_blank">
+						<span class="text">Ver mas</span>
+						<span class="semicircle"></span>
+						<span class="semicircle"></span>
+					</a>
+				</div>
             </div>
         </div>
     </div>
     <!--PRICES-->
-	<div class="container-fluid pb80">
-
-		<div class="pricing-tables">
+	<div class="container-fluid">
+		<div class="pricing-tables medium-padding80">
 			<div class="heading align-center pb30">
-				<h2 class="heading-title c-brand-p">NUESTROS PRECIOS</h2>
+				<h3 class="c-brand-p">NUESTROS PRECIOS</h3>
 				<div class="heading-line">
 					<span class="short-line bg-primary-brand"></span>
 					<span class="long-line bg-primary-brand"></span>
@@ -442,7 +437,7 @@
 							<div class="pricing-tables-icon">
 								<img loading="lazy" src="img/pricing1.png" alt="personal">
 							</div>
-							<a href="/diseño-paginas-web-para-empresas-en-peru" class="pricing-title">Diseño Web</a>
+							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="pricing-title c-brand-p">Diseño Web</a>
 							<b class="h5 c-secondary">Landing</b><br><br>
 							<ul class="pricing-tables-position">
 								<li class="position-item">
@@ -466,7 +461,7 @@
 								</li>
 							</ul>
 							<h4 class="rate">$49.99</h4>
-							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-medium btn--dark">
+							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-small bg-primary-brand">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
 							</a>
@@ -479,7 +474,7 @@
 							<div class="pricing-tables-icon">
 								<img loading="lazy" src="img/pricing2.png" alt="personal">
 							</div>
-							<a href="/publicidad-marketing-en-redes-sociales" class="pricing-title">Redes Sociales</a>
+							<a href="/publicidad-marketing-en-redes-sociales" class="pricing-title c-brand-p">Redes Sociales</a>
 							<b class="h5 c-secondary">Combo Emprendedor</b><br><br>
 							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item h5">
@@ -517,7 +512,7 @@
 								<br><b>4to mes Dscto</b>
 								<span class="rate">25%</span>
 							</p>
-							<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-medium btn--dark">
+							<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-small bg-primary-brand">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
 							</a>
@@ -529,7 +524,7 @@
 							<div class="pricing-tables-icon">
 								<img loading="lazy" src="img/pricing3.png" alt="personal">
 							</div>
-							<a href="/seo-y-posicionamiento-web-peru" class="pricing-title">SEO</a>
+							<a href="/seo-y-posicionamiento-web-peru" class="pricing-title c-brand-p">SEO</a>
 							<b class="h5 c-secondary">Plan Básico</b><br><br>
 							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item">
@@ -566,7 +561,7 @@
 								<span class="rate">s/.650</span>
 								<br><b>por mes</b>
 							</p>
-							<a href="/seo-y-posicionamiento-web-peru#precios" class="btn btn-medium btn--dark">
+							<a href="/seo-y-posicionamiento-web-peru#precios" class="btn btn-small bg-primary-brand">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
 							</a>
@@ -684,140 +679,142 @@
     <div id="clientes" class="container-fluid bg-border-color">
 		<div class="container medium-padding80">
             <div class="row">
-				<div class="heading align-center">
-					<h2 class="heading-title c-brand-p">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
-					<div class="heading-line">
-						<span class="short-line bg-primary-brand"></span>
-						<span class="long-line bg-primary-brand"></span>
+				<div class="col-lg-12">
+					<div class="heading align-center">
+						<h2 class="heading-title c-brand-p">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
+						<div class="heading-line">
+							<span class="short-line bg-primary-brand"></span>
+							<span class="long-line bg-primary-brand"></span>
+						</div>
 					</div>
 				</div>
             </div>
             <div class="row">
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web8.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web12.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web3.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web4.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web5.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web6.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web13.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web10.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web15.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web24.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web16.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web23.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web21.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web18.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web1.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web2.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web11.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web7.png" alt="cliente" class="hover">
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web9.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web14.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web17.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web19.png" alt="cliente" class="hover">
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web20.png" alt="cliente" class="hover">
                         </a>
                     </div>
 
                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="#" class="client-image">
+                        <a href="/#clientes" class="client-image">
                             <img loading="lazy" src="img/clientes/web22.png" alt="cliente" class="hover">
                         </a>
                     </div>
@@ -826,14 +823,17 @@
         </div>
     </div>
 	<!--TALKING-->
-    <div id="contacto" class="container-fluid ">
+    <div id="contacto" class="container-fluid bg-slider2">
 		@if (session('status'))
-			<div class="align-center bg-alert h6 c-social-s2">
+			<div class="align-center bg-alert h6 c-brand-p">
 				<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
 			</div>
 		@endif
 		<div class="container medium-padding80">
 			<div class="row">
+			<div class="align-center bg-alert h6 c-brand-p">
+				<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+			</div>
 				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
 					<div class="row">
 						<div class="heading align-center">

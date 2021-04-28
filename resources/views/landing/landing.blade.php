@@ -59,19 +59,19 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
-                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <img class="pb30" loading="lazy" src="img/landing/productos.png" alt="vender productos">
                     <h6 class="c-white">Vender Productos</h6>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
-                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <img class="pb30" loading="lazy" src="img/landing/servicio.png" alt="vender servicios">
                     <h6 class="c-white">Ofrecer Servicios</h6>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
-                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <img class="pb30" loading="lazy" src="img/landing/clientes.png" alt="contactar clientes">
                     <h6 class="c-white">Contactar Clientes</h6>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 align-center">
-                    <img class="pb30" loading="lazy" src="img/landing/servicios.png" alt="mercado web">
+                    <img class="pb30" loading="lazy" src="img/landing/blog-ebook.png" alt="blog ebook">
                     <h6 class="c-white">Blog Ebooks</h6>
                 </div>
             </div>
