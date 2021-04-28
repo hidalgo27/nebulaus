@@ -39,7 +39,7 @@
                         </select>
                     </div>
                     <div class="contact-item">
-                        (954) 900-1989
+                        960 680 005
                     </div>
                     <div class="contact-item">
                         info@nebulaperu.com
@@ -88,11 +88,7 @@
                 <div class="header-content-wrapper">
                     <div class="logo align-center">
                         <a href="/" class="full-block-link"></a>
-                        <img loading="lazy" src="img/logo/logo.png" alt="logo nebula">
-                        <div class="logo-text">
-                            <div class="logo-title">Nebula</div>
-                            <div class="logo-sub-title">Agencia de diseño web<br>y marketing digital</div>
-                        </div>
+                        <img loading="lazy" src="img/logo/logo-titulo.png" alt="logo nebula">
                     </div>
                     <nav id="primary-menu" class="primary-menu">
                         <a href='javascript:void(0)' id="menu-icon-trigger" class="menu-icon-trigger showhide">
@@ -196,10 +192,10 @@
                             <span></span>
                         </a>
                     </div>
-                    <div class="logo">
-                        <img loading="lazy" src="img/logo_nebula_color_negro.png" alt="Nebula">
+                    <div class="logo align-center">
+                        <a href="/" class="full-block-link"></a>
+                        <img loading="lazy" src="img/logo/logo-titulo.png" alt="logo nebula">
                     </div>
-                    <p class="text">AGENCIA CREATIVA</p>
                 </div>
                 <!--CONTACTO-->
                 <div class="widget contacts">
@@ -209,7 +205,7 @@
                     <div class="contacts-item">
                         <img loading="lazy" src="img/iconos/celular.png" alt="celular">
                         <div class="content">
-                            <a href="#" class="title">(954)900-1989</a>
+                            <a href="#" class="title">960 680 005</a>
                             <p class="sub-title">Lunes-Viernes 9am-6pm</p>
                         </div>
                     </div>
@@ -353,7 +349,7 @@
                                     <svg enable-background="new 0 0 64 64" version="1.1" viewBox="0 0 64 64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path d="  M45.1,44.2C42.9,42,39.6,40,37,42.6c-1.8,1.8-2.6,3.9-2.6,3.9s-4.3,2.3-11.7-5.2s-5.2-11.7-5.2-11.7s2.1-0.8,3.9-2.6  c2.6-2.6,0.6-5.9-1.7-8.1c-2.7-2.7-6.2-4.9-8.2-2.9c-3.7,3.7-4.4,8.4-4.4,8.4S9,35.5,18.7,45.3s20.9,11.6,20.9,11.6s4.7-0.7,8.4-4.4  C50,50.4,47.8,46.9,45.1,44.2z" fill="none" stroke="#fcb03b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/><path d="  M18.4,12.2C22.2,9.5,26.9,8,32,8c13.3,0,24,10.8,24,24c0,4-1.3,9-4.4,12.2" fill="none" stroke="#fcb03b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/><path d="  M27.3,55.6c-9.8-1.9-17.5-9.8-19.1-19.7" fill="none" stroke="#fcb03b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/><path d="  M30,21c0,0,4.4,0,5.2,0c1.2,0,1.8,0.2,1.8,1.1s0,0.7,0,1.3c0,0.6,0,1.4-1.6,2.5c-2.3,1.6-5.6,3.8-5.6,5.1c0,1.6,0.7,2,1.8,2  s5.3,0,5.3,0" fill="none" stroke="#fcb03b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/><path d="  M40,21c0,0,0,2.8,0,3.8S39.9,27,41.5,27c1.6,0,4.5,0,4.5,0v-6.1V33" fill="none" stroke="#fcb03b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></svg>
                                 </div>
                                 <div class="content">
-                                    <a href="#" class="title">(954) 900-1989</a>
+                                    <a href="#" class="title">960 680 005</a>
                                     <p class="sub-title">Lunes-Viernes 9am-6pm</p>
                                 </div>
                             </div>

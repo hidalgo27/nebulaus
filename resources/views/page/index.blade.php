@@ -439,28 +439,30 @@
 							</div>
 							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="pricing-title c-brand-p">Diseño Web</a>
 							<b class="h5 c-secondary">Landing</b><br><br>
-							<ul class="pricing-tables-position">
+							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item">
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
 									<span class="count">5</span>
-									Analytics Campaigns
+									Análisis de Campaña
 								</li>
 								<li class="position-item">
-									<span class="count">300</span>
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									<span class="count">Planificación </span>
 									Keywords
 								</li>
 								<li class="position-item">
-									<span class="count">250,000</span>
-									Crawled Pages
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Formulario de Clientes
 								</li>
 								<li class="position-item">
-									-
-								</li>
-								<li class="position-item">
-									<span class="count">15</span>
-									Social Accounts
-								</li>
+									<i class="fa fa-caret-right" aria-hidden="true"></i>
+									Contacto Redes Sociales
+								</li><br><br>
 							</ul>
-							<h4 class="rate">$49.99</h4>
+							<p class="h6 pb30">
+								<b>Desde</b>
+								<span class="rate">s/.350</span>
+							</p>
 							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="btn btn-small bg-primary-brand">
 								<span class="text">¡Ver más!</span>
 								<span class="semicircle"></span>
@@ -677,150 +679,167 @@
     </div>
     <!--CLIENTS BRANDS-->
     <div id="clientes" class="container-fluid bg-border-color">
-		<div class="container medium-padding80">
-            <div class="row">
-				<div class="col-lg-12">
-					<div class="heading align-center">
-						<h2 class="heading-title c-brand-p">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
-						<div class="heading-line">
-							<span class="short-line bg-primary-brand"></span>
-							<span class="long-line bg-primary-brand"></span>
+		<div class="client-carousel">
+			<div class="container medium-padding80">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="heading align-center">
+							<h2 class="heading-title c-brand-p">MÁS DE <b>100</b> CLIENTES SATISFECHOS</h2>
+							<div class="heading-line">
+								<span class="short-line bg-primary-brand"></span>
+								<span class="long-line bg-primary-brand"></span>
+							</div>
 						</div>
 					</div>
 				</div>
-            </div>
-            <div class="row">
-                <div class="row">
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web8.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web12.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web3.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web4.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web5.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web6.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web13.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web10.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web15.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web24.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web16.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web23.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web21.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web18.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web1.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web2.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web11.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web7.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web9.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web14.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web17.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web19.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web20.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
+				<div class="theme-module clients-slider-module">
+					<div class="swiper-container pagination-bottom" data-show-items="1">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide ">
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web8.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web12.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web3.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web4.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web5.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web6.png" alt="cliente" class="hover">
+										</a>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web13.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web10.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web15.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web24.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web16.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web23.png" alt="cliente" class="hover">
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web21.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web18.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web1.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web2.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web11.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web7.png" alt="cliente" class="hover">
+										</a>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web9.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web14.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web17.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web19.png" alt="cliente" class="hover">
+										</a>
+									</div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web20.png" alt="cliente" class="hover">
+										</a>
+									</div>
 
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
-                        <a href="/#clientes" class="client-image">
-                            <img loading="lazy" src="img/clientes/web22.png" alt="cliente" class="hover">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
+									<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+										<a href="/#clientes" class="client-item">
+											<img loading="lazy" src="img/clientes/web22.png" alt="cliente" class="hover">
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<svg class="btn-next">
+							<use xlink:href="#arrow-right"></use>
+						</svg>
+
+						<svg class="btn-prev">
+							<use xlink:href="#arrow-left"></use>
+						</svg>
+					</div>	
+				</div>
+			</div>
+		</div>
     </div>
 	<!--TALKING-->
     <div id="contacto" class="container-fluid bg-slider2">
@@ -831,9 +850,6 @@
 		@endif
 		<div class="container medium-padding80">
 			<div class="row">
-			<div class="align-center bg-alert h6 c-brand-p">
-				<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
-			</div>
 				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
 					<div class="row">
 						<div class="heading align-center">

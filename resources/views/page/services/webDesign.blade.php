@@ -392,13 +392,14 @@
 		<div class="row pt120">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="heading">
-					<h4 class="h1 heading-title">Tell Us About Your Project</h4>
+					<h4 class="h1 heading-title">Háblanos acerca de tu proyecto</h4>
 					<div class="heading-line">
 						<span class="short-line"></span>
 						<span class="long-line"></span>
 					</div>
 
-					<p>Let us help you get your business online and grow it with passion.
+					<p>
+						Permítanos ayudarlo a poner su negocio en línea y hacerlo crecer con pasión.
 					</p>
 				</div>
 			</div>
@@ -414,45 +415,44 @@
 							<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
 								<div class="row">
 									<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-										<input name="site" class="input-standard-grey" placeholder="Website URL" type="url" required>
+										<input name="site" class="input-standard-grey" placeholder="URL del Sitio Web" type="url" required>
 									</div>
 								</div>
 
 								<div class="row">
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="name" class="input-standard-grey" placeholder="Your Name" type="text" required>
+										<input name="name" class="input-standard-grey" placeholder="Nombre" type="text" required>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="phone" class="input-standard-grey" placeholder="Phone" type="text">
+										<input name="phone" class="input-standard-grey" placeholder="Telefono" type="text">
 									</div>
 								</div>
 
 								<div class="row">
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="email" class="input-standard-grey" required placeholder="Email Address" type="email">
+										<input name="email" class="input-standard-grey" required placeholder="Email" type="email">
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="company" class="input-standard-grey" placeholder="Company" type="text">
+										<input name="company" class="input-standard-grey" placeholder="Compañía" type="text">
 									</div>
 								</div>
 							</div>
 
 							<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-								<textarea name="message" class="input-standard-grey" required placeholder="Details" style="height: 250px;"></textarea>
+								<textarea name="message" class="input-standard-grey" required placeholder="Detalles" style="height: 250px;"></textarea>
 							</div>
 						</div>
 						<div class="row">
 							<div class="submit-block table">
 								<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 table-cell">
 									<button class="btn btn-medium btn--breez btn-hover-shadow">
-										<span class="text">Send Inquiry</span>
+										<span class="text">Enviar Consulta</span>
 										<span class="semicircle"></span>
 									</button>
 								</div>
 								<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 table-cell">
 									<div class="submit-block-text">
-										Please, let us know any particular things to check and the best time
-										to contact you by phone (if provided).
+										Por favor, háganos saber cualquier cosa en particular para verificar; para asi, poder comunicarnos con usted por teléfono (si se proporciona).
 									</div>
 								</div>
 							</div>

@@ -85,7 +85,7 @@
                     <p class="text">Adquire tu próxima web de negocio</P>
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
-                    <p class="h5 c-white">DESDE s/.390.00</p>
+                    <p class="h5 c-white">DESDE s/.350.00</p>
                     <p class="text">¡CONSULTAR AHORA!</P>
                 </div>
             </div>
@@ -167,8 +167,7 @@
                                     </ul><br><br><br><br><br>
                                     <p class="h6 pb30">
                                         <b>Desde</b>
-                                        <span class="rate">s/.650</span>
-                                        <br><b>por mes</b>
+                                        <span class="rate">s/.600</span>
                                     </p>
                                     <a href="/#contacto" class="btn btn-medium btn--dark">
                                         <span class="text">CONSULTAR</span>
@@ -251,8 +250,7 @@
                                     </ul><br><br><br>
                                     <p class="h6 pb30">
                                         <b>Desde</b>
-                                        <span class="rate">s/.1350</span>
-                                        <br><b>por mes</b>
+                                        <span class="rate">s/.750</span>
                                     </p>
                                     <a href="/#contacto" class="btn btn-medium btn--dark">
                                         <span class="text">CONSULTAR</span>
@@ -347,8 +345,7 @@
                                     </ul>
                                     <p class="h6 pb30">
                                         <b>Desde</b>
-                                        <span class="rate">s/.1350</span>
-                                        <br><b>por mes</b>
+                                        <span class="rate">s/.1,000</span>
                                     </p>
                                     <a href="/#contacto" class="btn btn-medium btn--dark">
                                         <span class="text">CONSULTAR</span>

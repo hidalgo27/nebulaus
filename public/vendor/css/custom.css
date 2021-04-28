@@ -163,11 +163,10 @@ header {
 .top-bar .nice-select span {
     color: #FFF !important;
 }
-.primary-menu-menu ul.dropdown li a {
-    color: #141e30 !important;
-}
-.primary-menu-menu li .indicator{
-    color: #141e30 !important;
+.primary-menu-menu ul.dropdown li a,
+.primary-menu-menu li .indicator,
+.primary-menu-menu a{
+    color: #e8394f !important;
 }
 .primary-menu-menu > li:hover > a > .indicator {
     color: #f1d309 !important;
