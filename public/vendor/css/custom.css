@@ -139,6 +139,7 @@ input.input-dark, textarea.input-dark  {
 .bg-alert{
     background-color: #cff293;
     padding: 20px;
+    color:#141e30;
 }
 input.input-blue ,textarea.input-blue{
     border-radius: 50px;
@@ -188,10 +189,10 @@ header {
 .primary-menu-menu > li.has-megamenu .megamenu ul > li:hover a,
 .primary-menu-menu ul.dropdown a:hover > i,
 .pricing-tables-item:hover .pricing-title,
-.pricing-tables-item .rate,
 .footer .info .services .list--primary > li:hover i,
 .footer .info .services .list--primary > li:hover a,
-.footer a:hover{
+.footer a:hover,
+.c-amarillo{
     color: #f1d309 !important;
 }
 
@@ -256,4 +257,11 @@ iframe.facebook{
 .instagram{
     width:326px;
     height:390px;
+}
+.pricing-tables-item .rate,
+.c-primario{
+    color: #e8394f;
+}
+.bg-form{
+    background-color: #141e30;
 }

@@ -236,7 +236,7 @@
             <div id="oferta" class="container-fluid bg-green-color">
                 <div class="row">
                     @if (session('sta'))
-                        <div class="row align-center bg-alert h6 c-social-s2 medium-padding80">
+                        <div class="row align-center bg-alert h6 medium-padding80">
                             <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
                         </div>
                     @endif

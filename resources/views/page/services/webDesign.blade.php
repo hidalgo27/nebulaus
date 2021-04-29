@@ -169,7 +169,7 @@
 								</p>
 							</div>
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box15.png" alt="image">
+								<img loading="lazy" src="img/web/DISEÑO-PERSONALIZABLE.png" alt="web">
 							</div>
 						</div>
 					</div>
@@ -188,7 +188,7 @@
 								</p>
 							</div>
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box16.png" alt="image">
+								<img loading="lazy" src="img/web/SEGUN-EL-PLAN.png" alt="web">
 							</div>
 						</div>
 					</div>
@@ -215,7 +215,7 @@
 								</p>
 							</div>
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box17.png" alt="image">
+								<img loading="lazy" src="img/web/PUBLICACION-DE-VIDEOS.png" alt="web">
 							</div>
 						</div>
 					</div>
@@ -233,7 +233,7 @@
                                 Registro de dominio por un año
                             </div>
                             <div class="info-box-image">
-                                <img loading="lazy" src="img/info-box17.png" alt="image">
+                                <img loading="lazy" src="img/web/REGISTRO-DOMINIO.png" alt="registro dominio">
                             </div>
                         </div>
                     </div>
@@ -246,7 +246,7 @@
                                     Alojamiento de Hosting por un año
                             </div>
                             <div class="info-box-image">
-                                <img loading="lazy" src="img/info-box17.png" alt="image">
+                                <img loading="lazy" src="img/web/ALOJAMIENTOWEB.png" alt="alojamiento hosting">
                             </div>
                         </div>
                     </div>
@@ -259,7 +259,7 @@
                                 Asesoría y soporte durante el año
                             </div>
                             <div class="info-box-image">
-                                <img loading="lazy" src="img/info-box17.png" alt="image">
+                                <img loading="lazy" src="img/web/ASESORÍA-SOPORTE.png" alt="soporte">
                             </div>
                         </div>
                     </div>
@@ -272,7 +272,7 @@
                                 Correo Ilimitados
                             </div>
                             <div class="info-box-image">
-                                <img loading="lazy" src="img/info-box17.png" alt="image">
+                                <img loading="lazy" src="img/web/CORREO-ILIMITADO.png" alt="correo ilimitado">
                             </div>
                         </div>
                     </div>
@@ -316,7 +316,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<div class="info-box--standard">
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box11.png" alt="image">
+								<img loading="lazy" src="img/web/FUNCIONALIDADES.png" alt="funcionalidades">
 							</div>
 							<div class="info-box-content">
 								<h4 class="info-box-title c-brand-p">Definición de funcionalidades</h4>
@@ -329,7 +329,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<div class="info-box--standard">
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box12.png" alt="image">
+								<img loading="lazy" src="img/web/DISEÑO-UX.png" alt="diseño UX/UI">
 							</div>
 							<div class="info-box-content">
 								<h4 class="info-box-title c-brand-p">Diseño UX / UI para ecommerce</h4>
@@ -344,7 +344,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<div class="info-box--standard">
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box13.png" alt="image">
+								<img loading="lazy" src="img/web/PRUEBAS-POSICIONAMIENTO.png" alt="pruebas web">
 							</div>
 							<div class="info-box-content">
 								<h4 class="info-box-title c-brand-p">Pruebas e implementación para Ecommerce</h4>
@@ -357,7 +357,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<div class="info-box--standard">
 							<div class="info-box-image">
-								<img loading="lazy" src="img/info-box14.png" alt="image">
+								<img loading="lazy" src="img/web/POSICIONAMIENTO-WEB.png" alt="posicionamiento web">
 							</div>
 							<div class="info-box-content">
 								<h4 class="info-box-title c-brand-p">Posicionamiento web para tiendas online</h4>
@@ -371,25 +371,16 @@
 			</div>
 		</div>
 	</div>
-
-	<div class="overlay_search">
-		<div class="container">
-			<div class="row">
-				<div class="form_search-wrap">
-					<form>
-						<input class="overlay_search-input" placeholder="Type and hit Enter..." type="text">
-						<a href="#" class="overlay_search-close">
-							<span></span>
-							<span></span>
-						</a>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
 	<!-- Contact Form -->
-	<div class="container">
-		<div class="row pt120">
+	<div id="consulta" class="container">
+		<div class="row">
+            @if (session('statusSeo'))
+                <div class="row align-center bg-alert h6 medium-padding80">
+                    <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+                </div>
+            @endif
+        </div>
+		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="heading">
 					<h4 class="h1 heading-title">Háblanos acerca de tu proyecto</h4>
@@ -397,49 +388,42 @@
 						<span class="short-line"></span>
 						<span class="long-line"></span>
 					</div>
-
 					<p>
 						Permítanos ayudarlo a poner su negocio en línea y hacerlo crecer con pasión.
 					</p>
 				</div>
 			</div>
 		</div>
-
 		<div class="row pb120">
-
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-				<form class="contact-form crumina-submit" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
+				<form method="POST" action="{{route("webForm")}}">
+						@csrf
 						<div class="row">
-
 							<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
 								<div class="row">
 									<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-										<input name="site" class="input-standard-grey" placeholder="URL del Sitio Web" type="url" required>
+										<input name="tSitioWeb" class="input-standard-grey" placeholder="URL del Sitio Web" type="url" required>
 									</div>
 								</div>
-
 								<div class="row">
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="name" class="input-standard-grey" placeholder="Nombre" type="text" required>
+										<input name="tNombre" class="input-standard-grey" placeholder="Nombre" type="text" required>
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="phone" class="input-standard-grey" placeholder="Telefono" type="text">
+										<input name="tTelefono" class="input-standard-grey" placeholder="Telefono" type="text">
 									</div>
 								</div>
-
 								<div class="row">
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="email" class="input-standard-grey" required placeholder="Email" type="email">
+										<input name="tEmail" class="input-standard-grey" required placeholder="Email" type="email">
 									</div>
 									<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-										<input name="company" class="input-standard-grey" placeholder="Compañía" type="text">
+										<input name="tCompania" class="input-standard-grey" placeholder="Compañía" type="text">
 									</div>
 								</div>
 							</div>
-
 							<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-								<textarea name="message" class="input-standard-grey" required placeholder="Detalles" style="height: 250px;"></textarea>
+								<textarea name="tMensaje" class="input-standard-grey" required placeholder="Detalles" style="height: 250px;"></textarea>
 							</div>
 						</div>
 						<div class="row">

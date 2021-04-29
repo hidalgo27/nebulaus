@@ -64,4 +64,4 @@ Route::get('/paginas-web', [HomeController::class,'landing'])->name('page.landin
 Route::post('/',[HomeController::class,'contactForm'])->name('contactForm');
 Route::post('/ofertas',[HomeController::class,'enviarOfertas'])->name('enviarOfertas');
 Route::post('/seo-y-posicionamiento-web-peru',[HomeController::class,'analisisSeo'])->name('analisisSeo');
-
+Route::post('/diseño-paginas-web-para-empresas-en-peru',[HomeController::class,'webForm'])->name('webForm');

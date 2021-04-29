@@ -84,7 +84,7 @@ class HomeController extends Controller
     }
     //EMAIL
     public function contactForm(Request $request){
-        $from = 'tania.vanessa609@gmail.com';
+        $from = 'info@nebulaperu.com';
         $nombre = $request->tNombre;
         $email = $request->tEmail;
         $whatsaap = $request->tWhatssap;
@@ -93,7 +93,7 @@ class HomeController extends Controller
             Mail::send(['html' => 'email.messageClient'], ['nombre' => $nombre],
                 function ($messaje) use ($email, $nombre) { $messaje->to($email, $nombre)
                     ->subject('Nebula')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+                    ->from('info@nebulaperu.com', 'Nebula');
             });
             Mail::send(['html' => 'email.messageContact'], [
                 'nombre' => $nombre,
@@ -102,7 +102,7 @@ class HomeController extends Controller
                 'mensaje'=> $mensaje,],
                 function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
                     ->subject('Nebula - Formulario de Contacto')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+                    ->from('info@nebulaperu.com', 'Nebula');
             });
 
             return redirect('/#contacto')->with('status', 'Registro satisfactorio.');
@@ -112,20 +112,20 @@ class HomeController extends Controller
         }
     }
     public function enviarOfertas(Request $request){
-        $from = 'tania.vanessa609@gmail.com';
+        $from = 'info@nebulaperu.com';
         $email = $request->tEmail;
         try {
             Mail::send(['html' => 'email.messageClient'],[
                 'email' => $email],
                 function ($messaje) use ($email) { $messaje->to($email)
                     ->subject('Nebula')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+                    ->from('info@nebulaperu.com', 'Nebula');
                 });
             Mail::send(['html' => 'email.messageOfertas'], [
                 'email' => $email],
                 function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
                     ->subject('Nebula')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula - Enviar Ofertas ');
+                    ->from('info@nebulaperu.com', 'Nebula - Enviar Ofertas ');
                 });
 
             return redirect('/#oferta')->with('sta', 'Registro satisfactorio.');
@@ -135,7 +135,7 @@ class HomeController extends Controller
         }
     }
     public function analisisSeo(Request $request){
-        $from = 'tania.vanessa609@gmail.com';
+        $from = 'info@nebulaperu.com';
         $sitio=$request->tSitioWeb;
         $nombre=$request->tNombre;
         $email = $request->tEmail;
@@ -146,9 +146,9 @@ class HomeController extends Controller
                 'email' => $email],
                 function ($messaje) use ($email) { $messaje->to($email)
                     ->subject('Nebula')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula');
+                    ->from('info@nebulaperu.com', 'Nebula');
                 });
-            Mail::send(['html' => 'email.messageOfertas'], [
+            Mail::send(['html' => 'email.messageSeo'], [
                 'sitio'=>$sitio,
                 'nombre'=>$nombre,
                 'email' => $email,
@@ -156,10 +156,43 @@ class HomeController extends Controller
                 'mensaje' =>$mensaje],
                 function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
                     ->subject('Nebula')
-                    ->from('tania.vanessa609@gmail.com', 'Nebula - Análisis SEO');
+                    ->from('info@nebulaperu.com', 'Nebula - Análisis SEO');
                 });
 
             return redirect('/seo-y-posicionamiento-web-peru#formulario')->with('statusSeo', 'Registro satisfactorio.');
+        }
+        catch (Exception $e){
+            return $e;
+        }
+    }
+    public function webForm(Request $request){
+        $from = 'info@nebulaperu.com';
+        $sitio=$request->tSitioWeb;
+        $nombre=$request->tNombre;
+        $email = $request->tEmail;
+        $telefono=$request->tTelefono;
+        $mensaje=$request->tMensaje;
+        $compania=$request->tCompania;
+        try {
+            Mail::send(['html' => 'email.messageClient'],[
+                'email' => $email],
+                function ($messaje) use ($email) { $messaje->to($email)
+                    ->subject('Nebula')
+                    ->from('info@nebulaperu.com', 'Nebula');
+                });
+            Mail::send(['html' => 'email.messageWeb'], [
+                'sitio'=>$sitio,
+                'nombre'=>$nombre,
+                'email' => $email,
+                'telefono'=>$telefono,
+                'mensaje' =>$mensaje,
+                'compania'=>$compania],
+                function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
+                    ->subject('Nebula')
+                    ->from('info@nebulaperu.com', 'Nebula - Análisis SEO');
+                });
+
+            return redirect('/diseño-paginas-web-para-empresas-en-peru#consulta')->with('statusSeo', 'Registro satisfactorio.');
         }
         catch (Exception $e){
             return $e;

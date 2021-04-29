@@ -10,9 +10,9 @@
             <!-- SLIDER -->
             <div class="swiper-wrapper">
 				<div class="swiper-slide bg-slider1">
-					<div class="container">
+					<div class="container table">
 						<div class="row table-cell">
-							<div class="col-lg-12">
+							<div class="col-lg-10 table-cell">
 								<div class="slider-content align-center">
 									<h1 class="slider-content-title c-brand-p" data-swiper-parallax="-100">
                                         Agencia de Marketing Digital y Publicidad - Cusco
@@ -28,23 +28,18 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-lg-12">
-								<div class="slider-thumb align-center" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-									<img class="img" loading="lazy" src="img/slider/slider1.png" alt="marketing">
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>
 				<div class="swiper-slide bg-slider2 main-slider-bg-dark thumb-left">
 					<div class="container table">
 						<div class="row table-cell">
-							<div class="col-lg-6 table-cell">
+							<div class="col-lg-10 table-cell">
 								<div class="slider-content align-center">
 									<h3 class="slider-content-title h2" data-swiper-parallax="-100">
-										<span class="c-brand-p bold">¡PROMOCIÓN!</span>
-                                        Diseño Web para Empresas</h3>
-									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
+										<span class="c-primario bold">¡PROMOCIÓN!</span>
+                                        <span class="c-brand-p">Diseño Web para Empresas</span></h3>
+									<p class="slider-content-text c-dark" data-swiper-parallax="-200">
                                         Servicio de <b>diseño</b> y desarrollo <b>web para tu negocio</b> a medida, consulta precios y promoción REACTIVACIÓN-10%reactivación
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -60,22 +55,17 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-lg-7 table-cell">
-								<div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-									<img class="img" loading="lazy" src="img/slider/slider2.png" alt="diseño-web">
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>
 				<div class="swiper-slide bg-slider3 main-slider-bg-dark">
 					<div class="container table">
 						<div class="row table-cell">
-							<div class="col-lg-6 table-cell">
+							<div class="col-lg-10 table-cell">
 								<div class="slider-content align-center">
-									<h3 class="h2 slider-content-title c-brand-p" data-swiper-parallax="-100"><span class="c-white bold">Marketing y Publicidad</span> en Redes Sociales
+									<h3 class="h2 slider-content-title c-brand-p" data-swiper-parallax="-100"><span class="c-primario bold">Marketing y Publicidad</span> en Redes Sociales
                                     </h3>
-									<p class="slider-content-text c-dark align-justify" data-swiper-parallax="-200">
+									<p class="slider-content-text c-dark" data-swiper-parallax="-200">
                                         Conoce nuestro servicio de Estrategias de marketing en redes sociales para empresas o negocios, ¡Solicita más Información! <b>GRATIS.</b>
                                     </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -88,11 +78,6 @@
 											<span class="semicircle"></span>
                                         </a>
 									</div>
-								</div>
-							</div>
-							<div class="col-lg-6 table-cell">
-								<div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-									<img class="img" loading="lazy" src="img/slider/slider3.png" alt="slider">
 								</div>
 							</div>
 						</div>
@@ -126,7 +111,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-box-brand">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/branding/branding-ico.png" alt="service">
+                        <img loading="lazy" src="img/iconos/branding.png" alt="branding">
                     </div>
                     <div class="servises-item__content align-center">
                         <h3 class="servises-title c-white c-brand-p">BRANDING</h3>
@@ -146,7 +131,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-box-web">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/sitio-web.png" alt="pagina-Web">
+                        <img loading="lazy" src="img/iconos/diseño-web.png" alt="pagina-Web">
                     </div>
                     <div class="servises-item__content align-center">
                         <h3 class="servises-title c-brand-p">DISEÑO<br>WEB</h3>
@@ -166,7 +151,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-box-social">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/redes/redes-ico.png" alt="redes-sociales">
+                        <img loading="lazy" src="img/iconos/redes.png" alt="redes-sociales">
                     </div>
                     <div class="servises-item__content align-center">
                         <h3 class="servises-title c-brand-p">REDES<br>SOCIALES</h3>
@@ -186,13 +171,13 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-box-seo">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/seo/seo-ico.png" alt="seo">
+                        <img loading="lazy" src="img/iconos/seo.png" alt="seo">
                     </div>
                     <div class="servises-item__content align-center">
 						<h3 class="servises-title c-brand-p">SEO</h3><br>
                         <p class="servises-text c-white">
 							Estrategia de Marketing SEO y Posicionamiento de negocios en internet
-                        </p><br><br>
+                        </p><br>
 					</div>
                     <div class="align-center">
                         <a href="/seo-y-posicionamiento-web-peru" class="btn btn-small btn--olive">
@@ -206,13 +191,13 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-box-audio">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/audio-visual.png" alt="service">
+                        <img loading="lazy" src="img/iconos/audio.png" alt="produccion audiovisual">
                     </div>
                     <div class="servises-item__content align-center">
                         <h3 class="servises-title c-brand-p">PRODUCCIÓN AUDIOVISUAL</h3>
                         <p class="servises-text c-white">
 							Edición y producción de videos para productos, servicios y eventos.
-                        </p><br><br>
+                        </p><br>
                     </div>
                     <div class="align-center">
                         <a href="/Audio-Visual-Production" class="btn btn-small btn--olive">
@@ -226,7 +211,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 pb30">
                 <div class="servises-item bg-box-edu">
                     <div class="servises-item__thumb align-center">
-                        <img loading="lazy" src="img/iconos/educacion.png" alt="educacion">
+                        <img loading="lazy" src="img/iconos/nebula-edu.png" alt="educacion">
                     </div>
                     <div class="servises-item__content align-center">
 						<h3 class="servises-title c-brand-p">NEBULA<br>EDU</h3>
@@ -338,21 +323,21 @@
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
-					<img loading="lazy" src="img/START-UP.png" alt="start-up">
+					<img loading="lazy" src="img/iconos/START-UP.png" alt="start-up">
 					<p class="case-item__title c-brand-p">START UP</p>
                     <p class="case-item__text">Iniciando algo grande</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
-					<img loading="lazy" src="img/EMPRENDEDOR.png" alt="emprendedor">
+					<img loading="lazy" src="img/iconos/EMPRENDEDOR.png" alt="emprendedor">
 					<p class="case-item__title c-brand-p">EMPRENDEDOR</p>
                     <p class="case-item__text">Listo para dar el sgte gran paso</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <div class="case-item align-center">
-					<img loading="lazy" src="img/MIEMBRO-DE-EMPRESA.png" alt="empresa">
+					<img loading="lazy" src="img/iconos/EMPRESA.png" alt="empresa">
 					<p class="case-item__title c-brand-p">EMPRESA</p>
                     <p class="case-item__text">Servicios a la medida</p>
                 </div>
@@ -435,10 +420,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
 						<div class="pricing-tables-item">
 							<div class="pricing-tables-icon">
-								<img loading="lazy" src="img/pricing1.png" alt="personal">
+								<img loading="lazy" src="img/iconos/DISEÑO-WEB2.png" alt="diseño web">
 							</div>
 							<a href="/diseño-paginas-web-para-empresas-en-peru#precios" class="pricing-title c-brand-p">Diseño Web</a>
-							<b class="h5 c-secondary">Landing</b><br><br>
+							<b class="h5 c-primario">Landing</b><br><br>
 							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -474,10 +459,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
 						<div class="pricing-tables-item">
 							<div class="pricing-tables-icon">
-								<img loading="lazy" src="img/pricing2.png" alt="personal">
+								<img loading="lazy" src="img/iconos/REDES-SOCIALES2.png" alt="redes sociales">
 							</div>
 							<a href="/publicidad-marketing-en-redes-sociales" class="pricing-title c-brand-p">Redes Sociales</a>
-							<b class="h5 c-secondary">Combo Emprendedor</b><br><br>
+							<b class="h5 c-primario">Combo Emprendedor</b><br><br>
 							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item h5">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -524,10 +509,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 no-padding">
 						<div class="pricing-tables-item">
 							<div class="pricing-tables-icon">
-								<img loading="lazy" src="img/pricing3.png" alt="personal">
+								<img loading="lazy" src="img/iconos/SEO2.png" alt="seo">
 							</div>
 							<a href="/seo-y-posicionamiento-web-peru" class="pricing-title c-brand-p">SEO</a>
-							<b class="h5 c-secondary">Plan Básico</b><br><br>
+							<b class="h5 c-primario">Plan Básico</b><br><br>
 							<ul class="pricing-tables-position align-left h6">
 								<li class="position-item">
 									<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -816,7 +801,7 @@
 		</div>
     </div>
 	<!--TALKING-->
-    <div id="contacto" class="container-fluid bg-slider2">
+    <div id="contacto" class="container-fluid bg-form">
 		@if (session('status'))
 			<div class="align-center bg-alert h6 c-brand-p">
 				<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
@@ -827,7 +812,7 @@
 				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
 					<div class="row">
 						<div class="heading align-center">
-							<h4 class="h1 heading-title c-brand-p">¿Conversamos?</h4>
+							<h4 class="h1 heading-title c-white">¿Conversamos?</h4>
 							<div class="heading-line">
 								<span class="short-line bg-primary-brand"></span>
 								<span class="long-line bg-primary-brand"></span>

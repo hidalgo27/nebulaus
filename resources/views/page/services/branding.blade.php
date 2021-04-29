@@ -159,23 +159,17 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="features-item">
-                            <blockquote class="instagram-media instagram"
-                                data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-                            </blockquote>
+                            <img loading="lazy" src="img/branding/manual-marca.jpg" alt="manual de marca">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="features-item">
-                            <blockquote class="instagram-media instagram"
-                                data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-                            </blockquote>
+                            <img loading="lazy" src="img/branding/manual-marca3.jpg" alt="manual de marca">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="features-item">
-                            <blockquote class="instagram-media instagram"
-                                data-instgrm-permalink="https://www.instagram.com/p/CEU0O7PjkBt/">
-                            </blockquote>
+                            <img loading="lazy" src="img/branding/manual-marca2.jpg" alt="manual de marca">
                         </div>
                     </div>
                 </div>
@@ -200,10 +194,10 @@
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
-                            <p>La Identidad Corporativa es la personalidad de la empresa. Su forma de comunicar, tanto con los clientes como con los empleados, además de su representación e imagen gráfica en todos los ámbitos (logo, papelería, web corporativa, reds, blog,…).</p>
+                            <p><br>La Identidad Corporativa es la personalidad de la empresa. Su forma de comunicar, tanto con los clientes como con los empleados, además de su representación e imagen gráfica en todos los ámbitos (logo, papelería, web corporativa, reds, blog,…).</p>
                         </div>
                         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 align-center">
-                            <img loading="lazy" src="img/diseño-logotipo.jpg" alt="identidad-corporativa">
+                            <img loading="lazy" src="img/branding/identidad.png" alt="identidad-corporativa">
                         </div>
                     </div>
                 </div>
@@ -363,7 +357,7 @@
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
                         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 align-center">
-                            <img loading="lazy" src="img/creacion-de-marca.jpg" alt="fotografia-publicitaria">
+                            <br><img loading="lazy" src="img/branding/fotografia.png" alt="fotografia-publicitaria">
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 c-brand-s3 align-justify">
                             <p>
