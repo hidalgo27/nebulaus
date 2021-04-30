@@ -21,6 +21,7 @@
         <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/swiper.min.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/primary-menu.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/magnific-popup.css')}}">
+        
         <!--Styles for RTL-->
         <!--<link rel="stylesheet" type="text/css" href="css/rtl.css">-->
         <!--External fonts-->
@@ -72,7 +73,7 @@
                 </div>
                 -->
                 <!--REDES SOCIALES-->
-               
+
                 <a href="#" class="top-bar-close" id="top-bar-close-js">
                     <span></span>
                     <span></span>
