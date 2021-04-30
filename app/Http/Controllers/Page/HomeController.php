@@ -5,6 +5,8 @@ namespace App\Http\Controllers\Page;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Redirect;
+use Illuminate\Support\Facades\URL;
 
 class HomeController extends Controller
 {
@@ -105,7 +107,8 @@ class HomeController extends Controller
                     ->from('info@nebulaperu.com', 'Nebula');
             });
 
-            return redirect('/#contacto')->with('status', 'Registro satisfactorio.');
+//            return redirect()->back()->with('status', 'Registro satisfactorio.');
+            return Redirect::to(URL::previous() . "#contacto")->with('status', 'Registro satisfactorio.');
         }
         catch (Exception $e){
             return $e;
@@ -128,7 +131,8 @@ class HomeController extends Controller
                     ->from('info@nebulaperu.com', 'Nebula - Enviar Ofertas ');
                 });
 
-            return redirect('/#oferta')->with('sta', 'Registro satisfactorio.');
+//            return redirect('/#oferta')->with('sta', 'Reofertgistro satisfactorio.');
+            return Redirect::to(URL::previous() . "#oferta")->with('status2', 'Registro satisfactorio.');
         }
         catch (Exception $e){
             return $e;
