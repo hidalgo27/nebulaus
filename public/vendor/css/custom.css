@@ -176,6 +176,7 @@ header {
 .primary-menu-menu > li > a::before,
 .primary-menu-menu ul.dropdown li.hover-ver2 a:before,
 .pricing-tables-item:hover .btn,
+.pricing-tables-item:hover .pricing-content-wrap .btn,
 .case-item:hover ,
 .bg-amarillo,
 .right-menu .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {

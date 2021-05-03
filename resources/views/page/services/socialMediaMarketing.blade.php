@@ -99,7 +99,6 @@
 								<div class="pricing-tables-item">
 									<div class="pricing-head bg-secondary-social2"></div>
 									<div class="pricing-content-wrap">
-
 										<div class="pricing-tables-icon">
 											<img loading="lazy" src="img/pricing1.png" alt="personal">
 										</div>
