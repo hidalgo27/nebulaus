@@ -257,10 +257,12 @@ iframe.facebook{
 .instagram{
     width:326px;
     height:390px;
+    display: initial !important;
 }
 .pricing-tables-item .rate,
+.counters-modern .counter-item-modern i,
 .c-primario{
-    color: #e8394f;
+    color: #e8394f !important;
 }
 .bg-form{
     background-color: #141e30;

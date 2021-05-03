@@ -139,7 +139,7 @@
                                         </a>
                                     </li>
                                     <li class="hover-ver2">
-                                        <a href="/Audio-Visual-Production">
+                                        <a href="/produccion-de-contenido-audio-visuales">
                                             <i class="seoicon-musical"></i>
                                             Produccion Audiovisual
                                         </a>
@@ -384,7 +384,7 @@
                                     </li>
                                     <li>
                                         <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                        <a href="/Audio-Visual-Production">Producción Audiovisual</a>
+                                        <a href="/produccion-de-contenido-audio-visuales">Producción Audiovisual</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-caret-right" aria-hidden="true"></i>

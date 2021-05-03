@@ -140,7 +140,7 @@
 											<br><b>4to mes Dscto</b>
 											<span class="rate">25%</span>
 										</p>
-										<a href="#" class="btn btn-medium btn--dark">
+										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
 										</a>
@@ -202,7 +202,7 @@
 											<br><b>4to mes Dscto</b>
 											<span class="rate">25%</span>
 										</p>
-										<a href="#" class="btn btn-medium btn--dark">
+										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
 										</a>
@@ -270,7 +270,7 @@
 											<br><b>4to mes Dscto</b>
 											<span class="rate">25%</span>
 										</p>
-										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-medium btn--dark">
+										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
 										</a>

@@ -35,7 +35,7 @@ Route::get('/diseño-paginas-web-para-empresas-en-peru', [HomeController::class,
 
 Route::get('/branding-diseño-de-marca', [HomeController::class, 'branding'])->name('page.services.branding');
 
-Route::get('/Audio-Visual-Production', [HomeController::class, 'audioVisual'])->name('page.services.audioVisualProduction');
+Route::get('/produccion-de-contenido-audio-visuales', [HomeController::class, 'audioVisual'])->name('page.services.audioVisualProduction');
 
 Route::get('/Nebula-EDU', [HomeController::class, 'nebulaEdu'])->name('page.services.nebulaEdu');
 

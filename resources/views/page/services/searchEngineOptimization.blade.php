@@ -326,7 +326,7 @@
 										<span class="rate">s/.650</span>
 										<br><b>por mes</b>
 									</p>
-									<a href="/#contacto" class="btn btn-medium btn--dark">
+									<a href="/seo-y-posicionamiento-web-peru#contacto" class="btn btn-small bg-primary-brand">
 										<span class="text">¡Ordenar ahora!</span>
 										<span class="semicircle"></span>
 									</a>
@@ -383,7 +383,7 @@
 										<span class="rate">s/.1350</span>
 										<br><b>por mes</b>
 									</p>
-									<a href="/#contacto" class="btn btn-medium btn--dark">
+									<a href="/seo-y-posicionamiento-web-peru#contacto" class="btn btn-small bg-primary-brand">
 										<span class="text">¡Ordenar ahora!</span>
 										<span class="semicircle"></span>
 									</a>
