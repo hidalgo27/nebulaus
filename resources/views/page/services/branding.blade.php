@@ -50,21 +50,21 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpu5ZALFs_/">
@@ -105,21 +105,21 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media instagram"
 							data-instgrm-permalink="https://www.instagram.com/p/CNpvm9-LI8d/">
 						</blockquote>
 					</div>
 				</div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media instagram"
 							data-instgrm-permalink="https://www.instagram.com/p/CNpwF9qrD-W/">
 						</blockquote>
 					</div>
 				</div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 					<div class="features-item">
 						<blockquote class="instagram-media instagram"
 							data-instgrm-permalink="https://www.instagram.com/p/CNpwVQ-r5XX/">
@@ -157,17 +157,17 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <img loading="lazy" src="img/branding/manual-marca.jpg" alt="manual de marca">
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <img loading="lazy" src="img/branding/manual-marca3.jpg" alt="manual de marca">
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <img loading="lazy" src="img/branding/manual-marca2.jpg" alt="manual de marca">
                         </div>
@@ -204,21 +204,21 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="ccol-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpv9v3LFDZ/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpvt0aLTDO/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpwTc8LMho/">
@@ -259,21 +259,21 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="ccol-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpvlZ3Lh-S/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpwDGCLKZJ/">
@@ -314,21 +314,21 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpue3erL_7/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpv2EoLM4n/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpvpXYrBBX/">
@@ -370,21 +370,21 @@
             </div>
             <div class="container pb80">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpwbGnrPhO/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpu7mbLw5g/">
                             </blockquote>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="features-item">
                             <blockquote class="instagram-media instagram"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpuuN4rIr5/">

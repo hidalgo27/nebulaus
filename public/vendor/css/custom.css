@@ -123,7 +123,7 @@ input.input-dark, textarea.input-dark  {
     background-color: #f99b7c; }
 /**/
 .bg{
-    background-color: #f43957;
+    background-color: #f43957 !important;
 }
 .pricing-tables-head .pricing-tables-item:hover .btn {
     background-color: #141e30 !important;}
@@ -172,9 +172,9 @@ header {
 .primary-menu-menu > li:hover > a > .indicator {
     color: #f1d309 !important;
 }
-.primary-menu-menu > li > a:after, 
-.primary-menu-menu > li > a::before, 
-.primary-menu-menu ul.dropdown li.hover-ver2 a:before, 
+.primary-menu-menu > li > a:after,
+.primary-menu-menu > li > a::before,
+.primary-menu-menu ul.dropdown li.hover-ver2 a:before,
 .pricing-tables-item:hover .btn,
 .case-item:hover ,
 .bg-amarillo,
@@ -184,7 +184,7 @@ header {
 .case-item:hover{
     border-radius: 90px;
 }
-.primary-menu-menu > li.active > a, 
+.primary-menu-menu > li.active > a,
 .primary-menu-menu > li:hover > a, .primary-menu-menu > li:hover > i ,
 .primary-menu-menu > li.has-megamenu .megamenu ul > li:hover a,
 .primary-menu-menu ul.dropdown a:hover > i,
@@ -226,8 +226,8 @@ iframe.facebook{
 .bg-slider3{
     background-color: #82be94;
 }
-.btn-next, 
-.btn-prev { 
+.btn-next,
+.btn-prev {
     fill: #141e30 !important;}
 .btn-next.btn-next-black:hover,
 .btn-prev.btn-prev-black:hover{
@@ -264,4 +264,9 @@ iframe.facebook{
 }
 .bg-form{
     background-color: #141e30;
+}
+.promo-section{
+    border-radius: 10px;
+    -webkit-box-shadow: 8px 0 87px rgba(0, 0, 0, 0.15);
+    box-shadow: 8px 0 87px rgba(0, 0, 0, 0.15);
 }

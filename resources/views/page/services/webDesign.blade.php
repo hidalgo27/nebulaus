@@ -119,7 +119,7 @@
 					</div>
 					<div class="counters-modern">
 						<div class="counter-item-modern">
-							<i class="seoicon-play c-secondary " style="transform:rotate(90deg);font-size:2em"></i>
+							<i class="seoicon-play c-primario " style="transform:rotate(90deg);font-size:2em"></i>
 						</div>
                 	</div>
 					<img loading="lazy" src="img/ejemplo-mejores-practicas.jpg" alt="ejemplo-landing">
