@@ -31,6 +31,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="swiper-slide bg-slider2 main-slider-bg-dark thumb-left">
 					<div class="container table">
 						<div class="row table-cell">
@@ -795,60 +796,11 @@
 						<svg class="btn-prev">
 							<use xlink:href="#arrow-left"></use>
 						</svg>
-					</div>	
-				</div>
-			</div>
-		</div>
-    </div>
-	<!--TALKING-->
-    <div id="contacto" class="container-fluid bg-form">
-		@if (session('status'))
-			<div class="align-center bg-alert h6 c-brand-p">
-				<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
-			</div>
-		@endif
-		<div class="container medium-padding80">
-			<div class="row">
-				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
-					<div class="row">
-						<div class="heading align-center">
-							<h4 class="h1 heading-title c-white">¿Conversamos?</h4>
-							<div class="heading-line">
-								<span class="short-line bg-primary-brand"></span>
-								<span class="long-line bg-primary-brand"></span>
-							</div>
-						</div>
-						<div >
-							<form method="POST" action="{{route("contactForm")}}">
-								@csrf
-								<div class="row">
-									<div class="col-lg-6  col-md-6 col-xs-12 col-sm-12">
-										<input name="tNombre" class="input-blue" placeholder="Nombre" required>
-									</div>
-									<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-										<input name="tWhatssap" class="input-blue" placeholder="Whatsaap" type="text" required>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-										<input name="tEmail" class="input-blue" placeholder="Email" type="email" required>
-									</div>
-
-									<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-										<textarea name="tMensaje" class="input-blue" placeholder="Mensaje" required></textarea>
-									</div>
-								</div>
-								<div class="row align-center">
-									<button class="btn btn-medium btn--olive btn-hover-shadow" type="submit">
-										<span class="text">Enviar</span>
-										<span class="semicircle"></span>
-									</button>
-								</div>
-							</form>
-						</div>
 					</div>
 				</div>
 			</div>
 		</div>
     </div>
+	<!--TALKING-->
+
 @endsection
