@@ -82,7 +82,13 @@ class HomeController extends Controller
     }
     //LANDING
     public function landing(){
-        return view('landing.landing');
+        return view('landing.landing');//Diseño-web
+    }
+    public function brandingLanding(){
+        return view('landing.brandingLanding');
+    }
+    public function redesSocialesLanding(){
+        return view('landing.redesSocialesLanding');
     }
     //EMAIL
     public function contactForm(Request $request){

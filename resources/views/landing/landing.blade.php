@@ -135,7 +135,7 @@
             </div>
         </div>
     </div>
-    <div id="precios" class="container-fluid">
+    <div id="precios" class="container-fluid pb80">
         <div class="row pb30">
             <div class="heading mb30 align-center">
                 <h4 class="h3 heading-title c-brand-p">Planes Recomendados</h4>
@@ -213,7 +213,7 @@
                                         <b>Desde</b>
                                         <span class="rate">s/.600</span>
                                     </p>
-                                    <a href="/#contacto" class="btn btn-medium btn--dark">
+                                    <a href="/paginas-web#contacto" class="btn btn-medium btn--dark">
                                         <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>
@@ -296,7 +296,7 @@
                                         <b>Desde</b>
                                         <span class="rate">s/.750</span>
                                     </p>
-                                    <a href="/#contacto" class="btn btn-medium btn--dark">
+                                    <a href="/paginas-web#contacto" class="btn btn-medium btn--dark">
                                         <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>
@@ -391,7 +391,7 @@
                                         <b>Desde</b>
                                         <span class="rate">s/.1,000</span>
                                     </p>
-                                    <a href="/#contacto" class="btn btn-medium btn--dark">
+                                    <a href="/paginas-web#contacto" class="btn btn-medium btn--dark">
                                         <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>

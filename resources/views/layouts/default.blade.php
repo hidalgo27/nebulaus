@@ -239,7 +239,7 @@
             @yield('content')
 
 
-            <div id="contacto" class="container-fluid bg-form mt60">
+            <div id="contacto" class="container-fluid stunning-header-bg-gray">
                 @if (session('status'))
                     <div class="align-center bg-alert h6 c-brand-p">
                         <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
@@ -277,7 +277,7 @@
                                             </div>
                                         </div>
                                         <div class="row align-center">
-                                            <button class="btn btn-medium btn--olive btn-hover-shadow" type="submit">
+                                            <button class="btn btn-medium btn--dark" type="submit">
                                                 <span class="text">Enviar</span>
                                                 <span class="semicircle"></span>
                                             </button>

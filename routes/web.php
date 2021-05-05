@@ -59,7 +59,9 @@ Route::get('/Organize-Content', [HomeController::class,'organizeWebContent'])->n
 
 Route::get('/Branding-Importance', [HomeController::class,'brandingImportance'])->name('page.blog.brandingImportance');
 //LANDING
-Route::get('/paginas-web', [HomeController::class,'landing'])->name('page.landing.landing');
+Route::get('/paginas-web', [HomeController::class,'landing'])->name('landing.landing');//diseño-web
+Route::get('/diseño-de-marca-para-empresas', [HomeController::class,'brandingLanding'])->name('landing.brandingLanding');
+Route::get('/agencia-en-redes-sociales', [HomeController::class,'redesSocialesLanding'])->name('landing.redesSocialesLanding');
 //EMAIL
 Route::post('/',[HomeController::class,'contactForm'])->name('contactForm');
 Route::post('/ofertas',[HomeController::class,'enviarOfertas'])->name('enviarOfertas');

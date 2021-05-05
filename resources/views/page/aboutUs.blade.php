@@ -4,7 +4,7 @@
     <title>Nosotros</title>
 @endsection
 @section('content')
-	<div class="stunning-header stunning-header-bg-lightblue">
+	<div class="stunning-header stunning-header-bg-brown">
 		<div class="stunning-header-content">
 			<h1 class="stunning-header-title">Acerca de Nosotros</h1>
 			<ul class="breadcrumbs">
@@ -152,6 +152,39 @@
 			</div>
 		</div>
 	</div>
+	<!--VISION-->
+	<div class="container-fluid">
+		<div class="row bg-boxed-dark medium-padding80">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 col-md-offset-2 col-sm-12 col-xs-12">
+						<div class="heading align-center">
+							<h4 class="h1 heading-title c-white">Misión</h4>
+							<div class="heading-line">
+								<span class="short-line bg-yellow-color"></span>
+								<span class="long-line bg-yellow-color"></span>
+							</div>
+							<p class="heading-text c-white">
+								Brindar los mejores servicios de marketing digital estratégico, que contribuyan a desarrollar la presencia de nuestros clientes en Internet y que los ayuden a alcanzar sus objetivos de negocio.
+							</p>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-md-offset-2 col-sm-12 col-xs-12">
+						<div class="heading align-center">
+							<h4 class="h1 heading-title c-white">Visión</h4>
+							<div class="heading-line">
+								<span class="short-line bg-yellow-color"></span>
+								<span class="long-line bg-yellow-color"></span>
+							</div>
+							<p class="heading-text c-white">
+								Ser reconocidos como una agencia de Marketing Digital Estratégico líder en el Perú y con operaciones en los principales países de la región en los próximos	
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	<!--VALORES-->
 	<div class="container-fluid">
 		<div class="row medium-padding80 bg-border-color">
@@ -215,39 +248,5 @@
 			</div>
 		</div>
 	</div>
-	<!--VISION-->
-	<div class="container-fluid">
-		<div class="row bg-orangedark-color">
-			<div class="our-vision scrollme">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6 col-md-6 col-md-offset-2 col-sm-12 col-xs-12">
-							<div class="heading align-center">
-								<h4 class="h1 heading-title">Misión</h4>
-								<div class="heading-line">
-									<span class="short-line bg-yellow-color"></span>
-									<span class="long-line bg-yellow-color"></span>
-								</div>
-								<p class="heading-text c-white">
-									Brindar los mejores servicios de marketing digital estratégico, que contribuyan a desarrollar la presencia de nuestros clientes en Internet y que los ayuden a alcanzar sus objetivos de negocio.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-6 col-md-6 col-md-offset-2 col-sm-12 col-xs-12">
-							<div class="heading align-center">
-								<h4 class="h1 heading-title">Visión</h4>
-								<div class="heading-line">
-									<span class="short-line bg-yellow-color"></span>
-									<span class="long-line bg-yellow-color"></span>
-								</div>
-								<p class="heading-text c-white">
-									Ser reconocidos como una agencia de Marketing Digital Estratégico líder en el Perú y con operaciones en los principales países de la región en los próximos	
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 @endsection

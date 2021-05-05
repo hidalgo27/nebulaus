@@ -177,13 +177,18 @@ header {
 .primary-menu-menu ul.dropdown li.hover-ver2 a:before,
 .pricing-tables-item:hover .btn,
 .pricing-tables-item:hover .pricing-content-wrap .btn,
-.case-item:hover ,
 .bg-amarillo,
-.right-menu .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+.right-menu .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.btn .btn-medium .bg-primary-brand:hover ,
+.cat-list .cat-list__item a:before,
+.cat-list .cat-list__item a:after {
     background-color: #f1d309 !important;
 }
 .case-item:hover{
     border-radius: 90px;
+    background-color: #fff !important;
+    border-color: #f1d309 !important;
+    border-style: groove;
 }
 .primary-menu-menu > li.active > a,
 .primary-menu-menu > li:hover > a, .primary-menu-menu > li:hover > i ,
@@ -193,7 +198,9 @@ header {
 .footer .info .services .list--primary > li:hover i,
 .footer .info .services .list--primary > li:hover a,
 .footer a:hover,
-.c-amarillo{
+.c-amarillo,
+.cat-list .cat-list__item.active a ,
+.cat-list .cat-list__item a:hover {
     color: #f1d309 !important;
 }
 
@@ -260,6 +267,10 @@ iframe.facebook{
     height:390px;
     display: initial !important;
 }
+.instagram2{
+    width:326px;
+    height:390px;
+}
 .pricing-tables-item .rate,
 .counters-modern .counter-item-modern i,
 .c-primario{
@@ -272,4 +283,10 @@ iframe.facebook{
     border-radius: 10px;
     -webkit-box-shadow: 8px 0 87px rgba(0, 0, 0, 0.15);
     box-shadow: 8px 0 87px rgba(0, 0, 0, 0.15);
+}
+.uppercase{
+    text-transform: uppercase !important;
+}
+.info-box--standard .info-box-content .info-box-title{
+    text-transform: initial !important;
 }

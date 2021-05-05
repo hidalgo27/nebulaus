@@ -6,7 +6,7 @@
 @section('content')
 <!-- Stunning header -->
 
-<div class="stunning-header stunning-header-bg-blue">
+<div class="stunning-header stunning-header-bg-breez">
     <div class="stunning-header-content">
         <h1 class="stunning-header-title">Contacto</h1>
         <ul class="breadcrumbs">
@@ -24,7 +24,6 @@
 
 <!-- End Stunning header -->
 
-<!-- Overlay Search -->
 
 <div class="section">
     <!--<div id="map"></div>-->
