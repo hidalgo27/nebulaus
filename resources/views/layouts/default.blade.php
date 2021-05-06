@@ -249,12 +249,8 @@
                     <div class="row">
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 col-sm-12">
                             <div class="row">
-                                <div class="heading align-center">
+                                <div class="heading align-center pb30">
                                     <h4 class="h1 heading-title c-white">¿Conversamos?</h4>
-                                    <div class="heading-line">
-                                        <span class="short-line bg-primary-brand"></span>
-                                        <span class="long-line bg-primary-brand"></span>
-                                    </div>
                                 </div>
                                 <div >
                                     <form method="POST" action="{{route("contactForm")}}">

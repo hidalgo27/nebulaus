@@ -4,23 +4,31 @@
     <title>Diseño web para empresas 2021</title>
 @endsection
 @section('content')
-
-
-    <div class="container-fluid stunning-header stunning-header-bg-rose">
+    <div class="container-fluid medium-padding80 stunning-header-bg-rose">
         <div class="container ">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="heading pb30">
-                        <h1 class=" c-white bold">Páginas Webs para Negocios 2021</h1>
+                    <div class="heading">
+                        <h1 class="c-white bold pb30">Realizamos tu Página Web de Negocios<br><span class="c-amarillo">Desde s/.350.00</span></h1>        
+                        <div class="c-white">
+                            <p class="h4 bold c-white">Adquiere tu próxima web HOY mismo.</p>
+                            <p><span class="c-brand-p bold">Promoción válido hasta el 20 de Mayo</span></p>
+                        </div>
                     </div>
-                    <div class="heading-text pb30 c-white">
-                        <p>Diseñamos tu próxima página web para negocios y/o empresas coorporativas</p>
-                    </div>
-                    <div class="align-center">
-                        <a href="#contacto" class="btn btn-small bg-primary-brand">
-                            <span class="text">MÁS INFORMACIÓN</span>
-                            <span class="semicircle"></span>
-                        </a>
+                    <div class="row"> 
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 align-center">
+                            <a href="https://api.whatsapp.com/send?phone=51960680005" target="_blank" class="btn btn-medium btn--green">
+                                <i class="fa fa-whatsapp whatsapp-b"></i>
+                                <span class="text"> WHATSAAP</span>
+                            </a>
+                            <p class="text">¡Resolvemos tus dudas en minutos!</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 align-center">
+                            <a href="#contacto" class="btn btn-medium bg-primary-brand">
+                                <span class="text">MÁS INFORMACIÓN</span>
+                                <span class="semicircle"></span>
+                            </a>
+                        </div>                   
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
@@ -31,7 +39,7 @@
     </div>
 
     <div class="container">
-        <div class="row medium-padding120">
+        <div class="row medium-padding80">
             <div class="col-lg-12">
                 <div class="offers">
                     <div class="row">
@@ -95,10 +103,10 @@
     </div>
 
     <div class="container-fluid bg-green-color">
-        <div class="container">
-            <div class="row medium-padding80">
-                <div class="col-lg-12">
-                    <div class="heading pb30 align-center">
+        <div class="container medium-padding80">
+            <div class="row">
+                <div class="col-lg-12 pb30">
+                    <div class="heading align-center">
                         <h2 class="h5 c-white"><b>Desarrollamos los requerimientos necesarios para tu página web según tus objetivo</b></h2>
                     </div>
                 </div>

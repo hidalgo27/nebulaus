@@ -102,7 +102,7 @@
 										<div class="pricing-tables-icon">
 											<img loading="lazy" src="img/pricing1.png" alt="personal">
 										</div>
-										<a href="#" class="pricing-title c-brand-p">Combo<br>Emprendedor</a><br>
+										<a href="#" class="pricing-title c-brand-p">Combo<br>Básico</a><br>
 										<ul class="pricing-tables-position align-left h6">
 											<li class="position-item h5">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -136,14 +136,11 @@
 										<p class="h6 pb30">
 											<b>Inversión 1 mes</b>
 											<span class="rate">s/.320</span>
-											<br><b>4to mes Dscto</b>
-											<span class="rate">25%</span>
 										</p>
 										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
-										</a>
-
+										</a><br><br>
 									</div>
 								</div>
 							</div>
@@ -156,15 +153,15 @@
 										<div class="pricing-tables-icon">
 											<img loading="lazy" src="img/pricing2.png" alt="personal">
 										</div>
-										<a href="#" class="pricing-title c-brand-p">Combo<br>MYPE</a><br>
+										<a href="#" class="pricing-title c-brand-p">Combo<br>Emprendedor</a><br>
 										<ul class="pricing-tables-position align-left h6">
 											<li class="position-item h5">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
-												<span class="count">18</span> POST
+												<span class="count">15</span> POST
 											</li>
 											<li class="position-item">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
-												<span class="count">13</span> Diseños gráficos para su post
+												<span class="count">10</span> Diseños gráficos para su post
 											</li>
 											<li class="position-item">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -199,7 +196,7 @@
 											<b>Inversión 1 mes</b>
 											<span class="rate">s/.500</span>
 											<br><b>4to mes Dscto</b>
-											<span class="rate">25%</span>
+											<span class="rate">15%</span>
 										</p>
 										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
@@ -224,11 +221,11 @@
 										<ul class="pricing-tables-position align-left h6">
 											<li class="position-item h5">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
-												<span class="count">28</span> POST
+												<span class="count">25</span> POST
 											</li>
 											<li class="position-item">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
-												<span class="count">20</span> Diseños gráficos para su post
+												<span class="count">17</span> Diseños gráficos para su post
 											</li>
 											<li class="position-item">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -237,6 +234,10 @@
 											<li class="position-item">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
 												<span class="count">1</span> Diseño gráfico para su portada
+											</li>
+											<li class="position-item">
+												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<span class="count">1</span> Video portada
 											</li>
 											<li class="position-item">
 												<i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -267,7 +268,7 @@
 											<b>Inversión 1 mes</b>
 											<span class="rate">s/.800</span>
 											<br><b>4to mes Dscto</b>
-											<span class="rate">25%</span>
+											<span class="rate">20%</span>
 										</p>
 										<a href="/publicidad-marketing-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>

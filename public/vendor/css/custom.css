@@ -26,6 +26,10 @@ input.input-dark, textarea.input-dark  {
 .whatsapp-icon {
     margin-top:13px;
 }
+.whatsapp-b{
+    font-size:15px !important;
+    padding-right: 15px !important;
+}
 /*EDU*/
 .bg-box-edu{
     background-color: #9df291;}
@@ -290,3 +294,8 @@ iframe.facebook{
 .info-box--standard .info-box-content .info-box-title{
     text-transform: initial !important;
 }
+.responsive-img {
+    width: auto;
+    min-height: 150px;
+    height: 400px;
+  }
