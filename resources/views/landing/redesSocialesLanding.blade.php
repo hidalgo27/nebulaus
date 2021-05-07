@@ -8,17 +8,26 @@
         <div class="container ">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="heading pb30">
-                        <h1 class="h1 c-white bold pb30">Servicio de Publicidad en Redes Sociales</h1>
-                        <p class="heading-text pb30 c-dark align-justify">
+                    <div class="heading">
+                        <h1 class="h2 uppercase align-center bold c-white pb30">Servicio de Publicidad en Redes Sociales</h1>
+                        <p class="heading-text c-dark align-justify">
                             Gestionamos tus redes sociales de tu negocio desde la creación de contenidos y planificación de campañas de publicidad.
                         </p>
-                        <div class="align-center">
-                            <a href="/agencia-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
+                    </div>
+					<div class="row align-center"> 
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="https://api.whatsapp.com/send?phone=51960680005" target="_blank" class="btn btn-medium btn--green">
+                                <i class="fa fa-whatsapp whatsapp-b"></i>
+                                <span class="text"> WHATSAAP</span>
+                            </a>
+                            <p class="text c-primario">¡Resolvemos tus dudas en minutos!</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="/agencia-en-redes-sociales#contacto" class="btn btn-medium bg-primary-brand">
                                 <span class="text">MÁS INFORMACIÓN</span>
                                 <span class="semicircle"></span>
                             </a>
-                        </div>
+                        </div>                   
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
@@ -32,12 +41,12 @@
 		<div class="row  mb30">
 			<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
 				<div class="heading align-center">
-					<h2 class="heading-title h2">Marketing para redes sociales</h2>
+					<h2 class="h3 bold c.brad-p">Marketing para redes sociales</h2>
 					<div class="heading-line">
-						<span class="short-line bg-primary-brand"></span>
-						<span class="long-line bg-primary-brand"></span>
+						<span class="short-line bg-amarillo"></span>
+						<span class="long-line bg-amarillo"></span>
 					</div>
-					<p class="heading-text">
+					<p class="heading-text c-dark">
 						Las redes sociales son una ventana de oportunidades para tener contacto con un  potencial cliente y para muchas empresas ha dejado de ser solamente una opción como estrategia de Marketing.
 					</p>
 				</div>
@@ -88,12 +97,12 @@
 							</div>	
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item admi">
 								<div class="mb30 align-center">
-									<img class="" loading="lazy" src="img/landing/administracion.jpg" alt="facebook ads">
+									<img loading="lazy" src="img/landing/administracion.jpg" alt="facebook ads">
 								</div>	
 							</div>	
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item publi">
 								<div class="mb30 align-center">
-									<img class="" loading="lazy" src="img/landing/facebook-ads.png" alt="facebook ads">
+									<img loading="lazy" src="img/landing/facebook-ads.png" alt="facebook ads">
 								</div>	
 							</div>						
 						</div>    
@@ -106,10 +115,10 @@
 		<div class="container pb80">
 			<div class="row pb30">
 				<div class="heading mb30 align-center">
-					<h4 class="h2 heading-title c-brand-p">3 Planes</h4>
+					<h3 class="heading-title c-brand-p">Planes Recomendados</h3>
 					<div class="heading-line">
-						<span class="short-line bg-primary-brand"></span>
-						<span class="long-line bg-primary-brand"></span>
+						<span class="short-line bg-amarillo"></span>
+						<span class="long-line bg-amarillo"></span>
 					</div>
 				</div>
 				<div class="pricing-tables pricing-tables-head bg-white-color">
@@ -163,7 +172,7 @@
 											<b>Inversión</b>
 											<span class="rate">s/.320</span>
 										</p>
-										<a href="/agencia-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
+										<a href="/agencia-en-redes-sociales#contacto" class="btn btn-medium bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
 										</a><br><br><br><br>
@@ -228,7 +237,7 @@
 											<br><b>4to mes Dscto</b>
 											<span class="rate">15%</span>
 										</p>
-										<a href="/agencia-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
+										<a href="/agencia-en-redes-sociales#contacto" class="btn btn-medium bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
 										</a><br><br>
@@ -301,7 +310,7 @@
 											<br><b>4to mes Dscto</b>
 											<span class="rate">20%</span>
 										</p>
-										<a href="/agencia-en-redes-sociales#contacto" class="btn btn-small bg-primary-brand">
+										<a href="/agencia-en-redes-sociales#contacto" class="btn btn-medium bg-primary-brand">
 											<span class="text">¡Ordenar ahora!</span>
 											<span class="semicircle"></span>
 										</a>

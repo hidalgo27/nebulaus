@@ -8,17 +8,26 @@
         <div class="container ">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="heading pb30">
-                        <h1 class="h2 c-white bold align-center uppercase pb30">Diseño de Marca e Imagen Empresarial</h1>
-                        <p class="heading-subtitle pb30 c-white align-justify">
+                    <div class="heading">
+                        <h1 class="h2 c-white bold align-center uppercase pb30">Diseño de Marca e <span class="c-amarillo">Imagen Empresarial</span></h1>
+                        <p class="heading-text c-white align-justify">
                             Te asesoramos completamente GRATIS en el BRANDING de tu emprendimiento desde la creación de marca (Logos, Banners, Post de RRSS) y servicios digitales.
                         </p>
-                        <div class="align-center">
-                            <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-small btn--gray">
+                    </div>
+                    <div class="row align-center"> 
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 ">
+                            <a href="https://api.whatsapp.com/send?phone=51960680005" target="_blank" class="btn btn-medium btn--green">
+                                <i class="fa fa-whatsapp whatsapp-b"></i>
+                                <span class="text"> WHATSAAP</span>
+                            </a>
+                            <p class="text">¡Resolvemos tus dudas en minutos!</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 ">
+                            <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium bg-primary-brand">
                                 <span class="text">MÁS INFORMACIÓN</span>
                                 <span class="semicircle"></span>
                             </a>
-                        </div>
+                        </div>                   
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 align-center">
@@ -35,8 +44,8 @@
 						<div class="heading align-center">
 							<h4 class="h3 bold">Conoce nuestros Procesos de Creación de Marcas</h4>
 							<div class="heading-line">
-								<span class="short-line "></span>
-								<span class="long-line "></span>
+								<span class="short-line bg"></span>
+								<span class="long-line bg"></span>
                             </div>
                         </div>
 					</div>
@@ -48,7 +57,7 @@
 								<img loading="lazy" src="img/branding/fotografia.png" alt="image">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title ">Análisis de Marca</h5>
+								<h5 class="info-box-title c-brand-p">Análisis de Marca</h5>
 								<p class="text align-justify">
                                     La base de toda la línea gráfica es el análisis, definirá la personalidad que va representar a una marca y es importante detallar desde un principio todo el concepto que quieras transmitir.
                                 </p>
@@ -62,7 +71,7 @@
 								<img loading="lazy" src="img/branding/creacion-marca.png" alt="image">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title">Diseño de Marca - Logotipo</h5>
+								<h5 class="info-box-title c-brand-p">Diseño de Marca - Logotipo</h5>
 								<p class="text align-justify">
                                     El proceso creativo de logotipos definirá la primera línea de identidad, Luego de haber definido los conceptos de nombre , colores, target y toda la gama que sume la presencia de una marca.
                                 </p>
@@ -78,7 +87,7 @@
 								<img loading="lazy" src="img/branding/diseño-logo2.png" alt="image">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title ">Diseño e Identidad de Marca</h5>
+								<h5 class="info-box-title c-brand-p">Diseño e Identidad de Marca</h5>
 								<p class="text align-justify">
                                     Sumamos a toda la órbita del Branding la identidad de marca,  desde la implementación tipográfica, artes digitales y manual de marca.
                                 </p>
@@ -92,7 +101,7 @@
 								<img loading="lazy" src="img/branding/papeleria.png" alt="image">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title">Papelería de la Marca</h5>
+								<h5 class="info-box-title c-brand-p">Papelería de la Marca</h5>
 								<p class="text align-justify">
                                     Parte de la papelería en beneficio genera una buena impresión seriedad en un negocio y/o empresa, desde unas tarjetas de presentación, sobres. Con la finalidad de generar confianza con tu audiencia.
                                 </p>
@@ -106,14 +115,14 @@
 		</div>
     </div>
     <div class="container-fluid">
-        <div class="container">
-            <div class="row medium-padding80">
+        <div class="container medium-padding80">
+            <div class="row">
                 <div class="col-lg-12">
                     <div class="heading align-center">
-                        <h3 class="heading-title">Proyectos 2021</h3>
+                        <h3 class="bold c-brand-p">Proyectos 2021</h3>
                         <div class="heading-line">
-                            <span class="short-line "></span>
-                            <span class="long-line "></span>
+                            <span class="short-line bg"></span>
+                            <span class="long-line bg"></span>
                         </div>
                     </div>
                     <ul class="cat-list align-center sorting-menu">
@@ -121,6 +130,7 @@
                         <li class="cat-list__item" data-filter=".logo"><a href="#" class="">Logos</a></li>
                         <li class="cat-list__item" data-filter=".iden"><a href="#" class="">Identidad de marca</a></li>
                         <li class="cat-list__item" data-filter=".pape"><a href="#" class="">Papelerìa Corporativa</a></li>
+                        <li class="cat-list__item" data-filter=".pack"><a href="#" class="">Packaging</a></li>
                     </ul>
                     <div class="row sorting-container" data-layout="fitRows">
                         <div class="grid-sizer col-lg-4 col-md-4"></div>
@@ -159,36 +169,6 @@
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpvm9-LI8d/">
                             </blockquote>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
-                            <blockquote class="instagram-media instagram2"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
-                            </blockquote>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
-                            <blockquote class="instagram-media instagram2"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpwDGCLKZJ/">
-                            </blockquote>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
-                            <blockquote class="instagram-media instagram2"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
-                            </blockquote>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
-                            <blockquote class="instagram-media instagram2"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpvt0aLTDO/">
-                            </blockquote>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
-                            <blockquote class="instagram-media instagram2"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpvlZ3Lh-S/">
-                            </blockquote>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
-                            <blockquote class="instagram-media instagram2"
-                                data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
-                            </blockquote>
-                        </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item iden">
                             <blockquote class="instagram-media instagram2"
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpue3erL_7/">
@@ -219,18 +199,48 @@
                                 data-instgrm-permalink="https://www.instagram.com/p/CNpwTc8LMho/">
                             </blockquote>
                         </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
+                            <blockquote class="instagram-media instagram2"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
+                            </blockquote>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pack">
+                            <blockquote class="instagram-media instagram2"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpwDGCLKZJ/">
+                            </blockquote>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pack">
+                            <blockquote class="instagram-media instagram2"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
+                            </blockquote>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pack">
+                            <blockquote class="instagram-media instagram2"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpvt0aLTDO/">
+                            </blockquote>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pack">
+                            <blockquote class="instagram-media instagram2"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpvlZ3Lh-S/">
+                            </blockquote>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item pape">
+                            <blockquote class="instagram-media instagram2"
+                                data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
+                            </blockquote>
+                        </div>
                     </div>    
                 </div>
             </div>
         </div>
     </div>
     <div id="precios" class="container-fluid">
-        <div class="row pb30 medium-padding80">
+        <div class="row pb80">
             <div class="heading mb30 align-center">
                 <h4 class="h3 heading-title c-brand-p">Planes Recomendados</h4>
                 <div class="heading-line">
-                    <span class="short-line bg-primary-color"></span>
-                    <span class="long-line bg-primary-color"></span>
+                    <span class="short-line bg"></span>
+                    <span class="long-line bg"></span>
                 </div>
             </div>
             <div class="pricing-tables pricing-tables-head bg-white-color">
@@ -238,14 +248,14 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
                             <div class="pricing-tables-item">
-                                <div class="pricing-head bg-amarillo"></div>
+                                <div class="pricing-head bg-primary-brand"></div>
                                 <div class="pricing-content-wrap">
                                     <div class="pricing-tables-icon">
                                         <img loading="lazy" src="img/pricing1.png" alt="personal">
                                     </div>
                                     <a href="#" class="pricing-title">Emprendedor</a><br>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">análisis de marca</h6>
+                                        <h6 class="uppercase c-primario bold">análisis de marca</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Personalidad y concepto de marca
@@ -256,7 +266,7 @@
                                         </li>      
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">diseño de logotipo</h6>
+                                        <h6 class="uppercase c-primario bold">diseño de logotipo</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             <span class="count">01</span> propuesta de modificación de logo
@@ -271,7 +281,7 @@
                                         </li>   
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">identidad de marca</h6>
+                                        <h6 class="uppercase c-primario bold">identidad de marca</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Paleta de colores
@@ -285,7 +295,7 @@
                                         <b>Inversión</b>
                                         <span class="rate">s/.300</span>
                                     </p>
-                                    <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium btn--dark">
+                                    <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium bg-primary-brand">
                                         <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a><br><br><br><br>
@@ -303,7 +313,7 @@
                                     </div>
                                     <a href="#" class="pricing-title">Regular</a><br>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">análisis de marca</h6>
+                                        <h6 class="uppercase c-primario bold">análisis de marca</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Personalidad y concepto de marca
@@ -314,7 +324,7 @@
                                         </li>      
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">diseño de logotipo</h6>
+                                        <h6 class="uppercase c-primario bold">diseño de logotipo</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             <span class="count">02</span> propuestas de modificación de logo
@@ -329,7 +339,7 @@
                                         </li>   
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">identidad de marca</h6>
+                                        <h6 class="uppercase c-primario bold">identidad de marca</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Paleta de colores
@@ -351,7 +361,7 @@
                                         <b>Inversión</b>
                                         <span class="rate">s/.600</span>
                                     </p>
-                                    <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium btn--dark">
+                                    <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium bg-primary-brand">
                                         <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a><br><br><br><br>
@@ -361,7 +371,7 @@
 
                         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
                             <div class="pricing-tables-item">
-                                <div class="pricing-head bg-primary-color"></div>
+                                <div class="pricing-head bg-amarillo"></div>
                                 <div class="pricing-content-wrap">
 
                                     <div class="pricing-tables-icon">
@@ -369,7 +379,7 @@
                                     </div>
                                     <a href="#" class="pricing-title">Nebula</a><br>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">análisis de marca</h6>
+                                        <h6 class="uppercase c-primario bold">análisis de marca</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Personalidad y concepto de marca
@@ -380,14 +390,14 @@
                                         </li>      
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">diseño de logotipo</h6>
+                                        <h6 class="uppercase c-primario bold">diseño de logotipo</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                            <span class="count">02</span> propuesta de modificación de logo
+                                            <span class="count">02</span> propuestas de modificación de logo
                                         </li>   
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                            <span class="count">02</span> sesión de modificación de logo
+                                            <span class="count">02</span> sesiónes de modificación de logo
                                         </li>      
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
@@ -395,7 +405,7 @@
                                         </li>   
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">identidad de marca</h6>
+                                        <h6 class="uppercase c-primario bold">identidad de marca</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Paleta de colores
@@ -414,7 +424,7 @@
                                         </li>      
                                     </ul>
                                     <ul class="pricing-tables-position align-left h6">
-                                        <h6 class="uppercase c-primario">papelería</h6>
+                                        <h6 class="uppercase c-primario bold">papelería</h6>
                                         <li class="position-item">
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Tarjeta de presentación o tarjeta de agradecimiento
@@ -428,7 +438,7 @@
                                         <b>Desde</b>
                                         <span class="rate">s/.1,500</span>
                                     </p>
-                                    <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium btn--dark">
+                                    <a href="/diseño-de-marca-para-empresas#contacto" class="btn btn-medium bg-primary-brand">
                                         <span class="text">CONSULTAR</span>
                                         <span class="semicircle"></span>
                                     </a>

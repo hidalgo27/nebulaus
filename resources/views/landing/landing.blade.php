@@ -15,16 +15,16 @@
                             <p><span class="c-brand-p bold">Promoción válido hasta el 20 de Mayo</span></p>
                         </div>
                     </div>
-                    <div class="row"> 
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 align-center">
+                    <div class="row align-center"> 
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                             <a href="https://api.whatsapp.com/send?phone=51960680005" target="_blank" class="btn btn-medium btn--green">
                                 <i class="fa fa-whatsapp whatsapp-b"></i>
                                 <span class="text"> WHATSAAP</span>
                             </a>
                             <p class="text">¡Resolvemos tus dudas en minutos!</p>
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 align-center">
-                            <a href="#contacto" class="btn btn-medium bg-primary-brand">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="/paginas-web#contacto" class="btn btn-medium bg-primary-brand">
                                 <span class="text">MÁS INFORMACIÓN</span>
                                 <span class="semicircle"></span>
                             </a>
