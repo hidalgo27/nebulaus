@@ -362,35 +362,9 @@
             </div>
             <div class="container align-center">
                 <div class="row pb30 align-center">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<blockquote class="instagram-media instagram"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpv4eerFOo/">
-						</blockquote>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<blockquote class="instagram-media instagram"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpurFSrTfr/">
-						</blockquote>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<blockquote class="instagram-media instagram"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpvwFKrv13/">
-						</blockquote>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<blockquote class="instagram-media instagram"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpvzQrrdwn/">
-						</blockquote>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<blockquote class="instagram-media instagram"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpuyr7L0Mc/">
-						</blockquote>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<blockquote class="instagram-media instagram"
-							data-instgrm-permalink="https://www.instagram.com/p/CNpwKXhrp6z/">
-						</blockquote>
+                    <div class="col">
+                        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                        <div class="elfsight-app-34e69f7f-9e35-45f4-ad5c-601b89b1c58a"></div>
                     </div>
                 </div>
             </div>
