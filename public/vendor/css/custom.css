@@ -27,8 +27,8 @@ input.input-dark, textarea.input-dark  {
     margin-top:13px;
 }
 .whatsapp-b{
-    font-size:15px !important;
-    padding-right: 15px !important;
+    font-size:22px !important;
+    padding-right: 2px !important;
 }
 /*EDU*/
 .bg-box-edu{
@@ -299,3 +299,6 @@ iframe.facebook{
     min-height: 150px;
     height: 400px;
   }
+.text-small{
+    font-size: 10px;
+}
