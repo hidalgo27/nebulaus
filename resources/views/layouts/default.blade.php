@@ -241,7 +241,7 @@
 
             <div id="contacto" class="container-fluid stunning-header-bg-gray">
                 @if (session('status'))
-                    <div class="align-center bg-alert h6 c-brand-p">
+                    <div class="alert alert-success align-center" role="alert">
                         <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
                     </div>
                 @endif
@@ -289,7 +289,7 @@
             <div id="oferta" class="container-fluid bg-green-color">
                 <div class="row">
                     @if (session('status2'))
-                        <div class="align-center bg-alert h6 c-brand-p">
+                        <div class="alert alert-success align-center" role="alert">
                             <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
                         </div>
                     @endif

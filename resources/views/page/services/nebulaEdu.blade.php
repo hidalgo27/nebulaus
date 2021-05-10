@@ -60,7 +60,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 align-center">
-						<iframe class="facebook" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fweb.facebook.com%2Fnebulaperu%2Fvideos%2F1159166717866062%2F&show_text=false&width=292" data-lazy="true"></iframe>
+						<iframe class="facebook instagram2" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fweb.facebook.com%2Fnebulaperu%2Fvideos%2F1159166717866062%2F&show_text=false&width=292" data-lazy="true"></iframe>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 align-center">
 						<iframe class="facebook" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fweb.facebook.com%2Fnebulaperu%2Fvideos%2F1244645565938205%2F&show_text=false&width=292" data-lazy="true"></iframe>

@@ -375,9 +375,9 @@
 	<div id="consulta" class="container">
 		<div class="row">
             @if (session('statusSeo'))
-                <div class="row align-center bg-alert h6 medium-padding80">
-                    <b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
-                </div>
+				<div class="alert alert-success align-center" role="alert">
+					<b>Gracias por contactar con nosotros!</b> Su mensaje fue enviado satisfactoriamente.
+				</div>
             @endif
         </div>
 		<div class="row">

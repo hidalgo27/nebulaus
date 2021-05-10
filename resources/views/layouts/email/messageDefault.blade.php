@@ -34,13 +34,13 @@
                     <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
                     <td>
                       <a href="https://www.facebook.com/nebulaperu/" target="_blank">
-                        <img src="{{asset('svg/circle-facebook.svg')}}" alt="Facebook" width="38" height="38" style="display: block;" border="0" />
+                        <img src="{{asset('img/iconos/facebook.png')}}" alt="Facebook" width="38" height="38" style="display: block;" border="0" />
                       </a>
                     </td>
                     <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
                     <td>
                       <a href="https://www.instagram.com/nebulaperu/" target="_blank">
-                        <img src="{{asset('svg/instagram.svg')}}" alt="Instagram" width="38" height="38" style="display: block;" border="0" />
+                        <img src="{{asset('simg/iconos/instagram.png')}}" alt="Instagram" width="38" height="38" style="display: block;" border="0" />
                       </a>
                     </td>
                   </tr>

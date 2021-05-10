@@ -17,13 +17,14 @@
 					<div class="row align-center"> 
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                             <a href="https://api.whatsapp.com/send?phone=51960680005" target="_blank" class="btn btn-medium btn--green">
-                                <i class="fa fa-whatsapp whatsapp-b"></i>
+                                <i class="fa fa-whatsapp"></i>
                                 <span class="text"> WHATSAAP</span>
+								<span class="semicircle"></span>
                             </a>
-                            <p class="text c-primario">¡Resolvemos tus dudas en minutos!</p>
+                            <p class="text-small c-primario">¡Resolvemos tus dudas en minutos!</p>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                            <a href="/agencia-en-redes-sociales#contacto" class="btn btn-medium bg-primary-brand">
+                            <a href="/agencia-en-redes-sociales#contacto" class="btn btn-medium btn--rose">
                                 <span class="text">MÁS INFORMACIÓN</span>
                                 <span class="semicircle"></span>
                             </a>
@@ -66,42 +67,54 @@
 						<div class="row sorting-container" data-layout="fitRows">
 							<div class="grid-sizer col-lg-4 col-md-4"></div>
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item crear">
-								<div class="mb30 align-center">
-									<img class="responsive-img" loading="lazy" src="img/landing/contenido1.jpg" alt="creacion de contenido">
+								<div class="mb30 align-center client-item">
+									<a href="https://www.instagram.com/p/CObP9gdjfPz/" target="_blank" class="client-image">
+										<img class="block" loading="lazy" src="img/landing/contenido1.jpg" alt="creacion de contenido">
+									</a>
 								</div>	
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item crear">
-								<div class="mb30 align-center">
-									<img class="responsive-img" loading="lazy" src="img/landing/contenido2.jpg" alt="creacion de contenido">
+								<div class="mb30 align-center client-item">
+									<a href="https://web.facebook.com/INTYKACOM/photos/a.1675072819324496/2002400123258429/" target="_blank" class="client-image">
+										<img class="block" loading="lazy" src="img/landing/contenido2.jpg" alt="creacion de contenido">
+									</a>
 								</div>
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item crear">
-								<div class="mb30 align-center">
-									<img class="responsive-img" loading="lazy" src="img/landing/contenido3.jpg" alt="creacion de contenido">
+								<div class="mb30 align-center client-item">
+									<a href="https://www.instagram.com/p/CN3FGGaj2ji/" target="_blank" class="client-image">
+										<img class="block" loading="lazy" src="img/landing/contenido3.jpg" alt="creacion de contenido">
+									</a>	
 								</div>	
 							</div>		
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item crear">
-								<div class="mb30 align-center">
-									<img class="responsive-img" loading="lazy" src="img/landing/contenido4.jpg" alt="creacion de contenido">
+								<div class="mb30 align-center client-item">
+									<a href="https://www.instagram.com/p/CMR4KggMD06/" target="_blank" class="client-image">
+										<img class="block" loading="lazy" src="img/landing/contenido4.jpg" alt="creacion de contenido">
+									</a>	
 								</div>	
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item crear">
-								<div class="mb30 align-center">
-									<img class="responsive-img" loading="lazy" src="img/landing/contenido5.jpg" alt="creacion de contenido">
+								<div class="mb30 align-center client-item">
+									<a href="https://web.facebook.com/OrionCusco/posts/3903780589702626" target="_blank" class="client-image">
+										<img class="block" loading="lazy" src="img/landing/contenido5.jpg" alt="creacion de contenido">
+									</a>	
 								</div>	
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item crear">
-								<div class="mb30 align-center">
-									<img class="responsive-img" loading="lazy" src="img/landing/contenido6.jpg" alt="creacion de contenido">
+								<div class="mb30 align-center client-item">
+									<a href="https://web.facebook.com/polleriadayanaII/photos/a.101412518233846/304583107916785/" target="_blank" class="client-image">
+										<img class="block" loading="lazy" src="img/landing/contenido6.jpg" alt="creacion de contenido">
+									</a>	
 								</div>	
 							</div>	
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item admi">
-								<div class="mb30 align-center">
+								<div class="mb30 align-center client-item">
 									<img loading="lazy" src="img/landing/administracion.jpg" alt="facebook ads">
 								</div>	
 							</div>	
 							<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 sorting-item publi">
-								<div class="mb30 align-center">
+								<div class="mb30 align-center client-item">
 									<img loading="lazy" src="img/landing/facebook-ads.png" alt="facebook ads">
 								</div>	
 							</div>						
@@ -126,45 +139,47 @@
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
 								<div class="pricing-tables-item">
-									<div class="pricing-head bg-primary-brand"></div>
+									<div class="pricing-head bg-primary-color"></div>
 									<div class="pricing-content-wrap">
 										<div class="pricing-tables-icon">
 											<img loading="lazy" src="img/pricing1.png" alt="personal">
 										</div>
 										<a href="#" class="pricing-title c-brand-p">Combo<br>Básico</a><br>
 										<ul class="pricing-tables-position align-left h6">
-                                            <h6 class="c-secondary bold"><span class="count">8</span> POST</h6>							
+                                            <h6 class="c-secondary"><span class="count">8</span> POST</h6>	
+											<hr>						
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">6</span> POST : Diseño gráfico y texto
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Foto de perfil: Diseño gráfico
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Portada: Diseño gráfico
                                             </li>
                                         </ul>
                                         <ul class="pricing-tables-position align-left h6">
-											<h6 class="c-secondary bold">Configuración de campaña</h6>	
+											<h6 class="c-secondary">Configuración de campaña</h6>	
+											<hr>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Diseño de anuncios
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Facebook Ads e Instagram Ads
 											</li>
 										</ul>
 										<ul class="pricing-tables-position align-left h6">
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Administración de redes sociales<br>(Facebook e Instagram)
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Actualización de redes sociales<br>(Configuración de datos de la empresa)
 											</li>
 										</ul><br><br><br><br>
@@ -188,46 +203,48 @@
 										</div>
 										<a href="#" class="pricing-title c-brand-p">Combo<br>Emprendedor</a><br>
 										<ul class="pricing-tables-position align-left h6">
-											<h6 class="c-secondary bold"><span class="count">15</span> POST</h6>
+											<h6 class="c-secondary "><span class="count">15</span> POST</h6>
+											<hr>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">10</span> POST: Diseño gráfico y texto
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">2</span> Videos Gif animados
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Foto de perfil: Diseño gráfico
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Portada: Diseño gráfico
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Story
 											</li>
 										</ul>
 										<ul class="pricing-tables-position align-left h6">
-											<h6 class="c-secondary bold">Configuración de campaña</h6>	
+											<h6 class="c-secondary ">Configuración de campaña</h6>	
+											<hr>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Diseño de anuncios
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Facebook Ads e Instagram Ads
 											</li>
 										</ul>
 										<ul class="pricing-tables-position align-left h6">
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Administración de redes sociales<br>(Facebook e Instagram)
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Actualización de redes sociales<br>(Configuración de datos de la empresa)
 											</li>
 										</ul><br><br>
@@ -253,54 +270,56 @@
 										</div>
 										<a href="#" class="pricing-title c-brand-p">Combo<br>Nebula</a><br>
 										<ul class="pricing-tables-position align-left h6">
-											<h6 class="c-secondary bold"><span class="count">25</span> POST</h6>
+											<h6 class="c-secondary"><span class="count">25</span> POST</h6>
+											<hr>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">17</span> POST: Diseño gráfico y texto
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">2</span> Videos Gif animado
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Foto de perfil: Diseño gráfico
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Portada: Diseño gráfico
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">1</span> Video portada
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												<span class="count">3</span> Storys
 											</li>
 										</ul>
 										<ul class="pricing-tables-position align-left h6">
-											<h6 class="c-secondary bold">Configuración de campaña</h6>	
+											<h6 class="c-secondary">Configuración de campaña</h6>	
+											<hr>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Sesión de fotos en estudio<br>(Según campaña)
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Diseño de anuncios
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Facebook Ads e Instagram Ads
 											</li>
 										</ul>
 										<ul class="pricing-tables-position align-left h6">
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Administración de redes sociales<br>(Facebook e Instagram)
 											</li>
 											<li class="position-item">
-												<i class="fa fa-caret-right" aria-hidden="true"></i>
+												<i class="fa fa-check" aria-hidden="true"></i>
 												Actualización de redes sociales<br>(Configuración de datos de la empresa)
 											</li>
 										</ul>

@@ -271,9 +271,9 @@ iframe.facebook{
     height:390px;
     display: initial !important;
 }
-.instagram2{
-    width:326px;
-    height:390px;
+.block{
+    width:auto;
+    height:320px;
 }
 .pricing-tables-item .rate,
 .counters-modern .counter-item-modern i,
