@@ -185,7 +185,8 @@ header {
 .right-menu .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
 .btn .btn-medium .bg-primary-brand:hover ,
 .cat-list .cat-list__item a:before,
-.cat-list .cat-list__item a:after {
+.cat-list .cat-list__item a:after ,
+.btn-border:hover{
     background-color: #f1d309 !important;
 }
 .case-item:hover{
@@ -301,4 +302,14 @@ iframe.facebook{
   }
 .text-small{
     font-size: 10px;
+}
+.client-item-style2 {
+    padding: 30px 30px !important;}
+.client-item-style2 .client-image {
+    margin-bottom: 15px !important;}
+.client-item-style2:hover .btn {
+    border-color:#f1d309; 
+    background-color:#f1d309 !important;}
+.mt15{
+    margin-top: 15px;
 }

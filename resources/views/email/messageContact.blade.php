@@ -8,6 +8,7 @@
         </tr>
         <tr>
             <td>
+                <p><strong>Formulario de: {{$url}}</strong></p>
                 <p><strong>Email: {{$email}}</strong></p>
                 <p><strong>Whatsaap: {{$whatsaap}}</strong></p>
                 <p><strong>Mensaje: {{$mensaje}}</strong></p>

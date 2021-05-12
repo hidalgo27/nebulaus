@@ -97,6 +97,9 @@ class HomeController extends Controller
         $email = $request->tEmail;
         $whatsaap = $request->tWhatssap;
         $mensaje=$request->tMensaje;
+        $url=url()->previous();
+        $url2=explode('https://nebulaperu.com/',$url);    
+        $url3=str_replace('-', ' ', $url2[1]);
         try {
             Mail::send(['html' => 'email.messageClient'], ['nombre' => $nombre],
                 function ($messaje) use ($email, $nombre) { $messaje->to($email, $nombre)
@@ -107,7 +110,8 @@ class HomeController extends Controller
                 'nombre' => $nombre,
                 'email' => $email,
                 'whatsaap' => $whatsaap,
-                'mensaje'=> $mensaje,],
+                'mensaje'=> $mensaje,
+                'url' =>$url3,],
                 function ($messaje) use ($from) { $messaje->to($from, 'Nebula')
                     ->subject('Nebula - Formulario de Contacto')
                     ->from('info@nebulaperu.com', 'Nebula');

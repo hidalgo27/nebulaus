@@ -18,10 +18,11 @@
                     <div class="row align-center"> 
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                             <a href="https://api.whatsapp.com/send?phone=51960680005" target="_blank" class="btn btn-medium btn--green">
-                                <i class="fa fa-whatsapp whatsapp-b"></i>
-                                <span class="text"> WHATSAAP</span>
+                                <i class="fa fa-whatsapp"></i>
+                                <span class="text">WHATSAAP</span>
+                                <span class="semicircle"></span>
                             </a>
-                            <p class="text">¡Resolvemos tus dudas en minutos!</p>
+                            <p class="text-small">¡Resolvemos tus dudas en minutos!</p>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                             <a href="/paginas-web#contacto" class="btn btn-medium bg-primary-brand">
@@ -143,8 +144,205 @@
             </div>
         </div>
     </div>
-    <div id="precios" class="container-fluid pb80">
-        <div class="row pb30">
+    <div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="heading align-center">
+					<h4 class="h2 heading-title">Proyectos web</h4>
+					<div class="heading-line">
+						<span class="short-line"></span>
+						<span class="long-line"></span>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="clients-grid">
+					<ul class="cat-list-bg-style align-center sorting-menu">
+						<li class="cat-list__item active" data-filter="*"><a href="#" class="">Todos</a></li>
+						<li class="cat-list__item" data-filter=".aca"><a href="#" class="">Académicos</a></li>
+						<li class="cat-list__item" data-filter=".via"><a href="#" class="">Viajes</a></li>
+						<li class="cat-list__item" data-filter=".res"><a href="#" class="">Restaurantes</a></li>
+						<li class="cat-list__item" data-filter=".hot"><a href="#" class="">Hoteles</a></li>
+                        <li class="cat-list__item" data-filter=".tie"><a href="#" class="">Tiendas</a></li>
+                        <li class="cat-list__item" data-filter=".ser"><a href="#" class="">Servicios</a></li>
+					</ul>
+					<div class="row sorting-container" id="clients-grid" data-layout="masonry">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item tie">
+							<div class="client-item-style2 col-3 bg-border-color  mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('img/landing/Orion.png')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">Orion Supermercados</h6>
+                                </div>							
+								<a href="https://orion.com.pe/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item aca ser">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/starking.jpg')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">starking7</h6>
+                                </div>							
+								<a href="https://starking7.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item aca">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('img/landing/Green.png')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">Green</h6>
+                                </div>						
+								<a href="https://green.com.pe/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/GO TPeru.png')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">go to perú</h6>
+                                </div>							
+								<a href="https://gotoperu.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>                      
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/GO TP.png')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">go to perú - méxico</h6>
+                                </div>
+								<a href="https://gotoperu.com.mx/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>                     
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('img/landing/Isabel TP.png')}}" alt="pagina web">
+                                    <h6 class="uppercase c-primario mt15">Isabel Travel Perú</h6>
+                                </div>								
+								<a href="http://isabeltravelperu.com/es/inicio/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+						</div>					
+						<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item tie">
+							<div class="client-item-style2 col-3 bg-border-color  mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('img/landing/M Caoba.png')}}" alt="pagina web">
+                                    <h6 class="uppercase c-primario mt15">Muebles Kaoba</h6>
+                                </div>                             
+								<a href="https://www.muebleskaoba.pe/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/mountain.jpg')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">mountain</h6>
+                                </div>								
+								<a href="http://mountaincuscotours.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item res">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('img/landing/restaurante.png')}}" alt="pagina-web">
+                                    <h6 class="uppercase c-primario mt15">Restaurant - DEMO</h6>
+                                </div>					
+								<a href="http://restaurantes.nebulaperu.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver Sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item ser">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/ana.jpg')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">ana cecilia</h6>
+                                </div>							
+								<a href="http://anacecilialucana.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item aca">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/escuela DB.jpg')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">Escuela de belleza</h6>
+                                </div>							
+								<a href="http://escueladebellezaemprender.org/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>    
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item ser">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/Nebula.jpg')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">Nebula</h6>
+                                </div>							
+								<a href="https://nebulaperu.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>                     
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item hot">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/andeamHome.jpg')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">andeam home</h6>
+                                </div>								
+								<a href="http://andeanhome.com/es/homepage/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>     
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
+							<div class="client-item-style2 col-3 bg-border-color mb30">
+								<div class="client-image">
+									<img loading="lazy" src="{{asset('/img/landing/Andes Viajes.png')}}" alt="logo">
+                                    <h6 class="uppercase c-primario mt15">andes viagens</h6>
+                                </div>							
+								<a href="https://www.andesviagens.com/" target="_blank" class="btn btn-small btn-border c-primary">
+									<span class="text">Ver sitio</span>
+									<i class="seoicon-right-arrow"></i>
+                                </a>
+							</div>
+                        </div>     
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+    <div id="precios" class="container-fluid">
+        <div class="row medium-padding80">
             <div class="heading mb30 align-center">
                 <h4 class="h3 heading-title c-brand-p">Planes Recomendados</h4>
                 <div class="heading-line">

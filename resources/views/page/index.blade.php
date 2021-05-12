@@ -470,9 +470,7 @@
 							</ul>
 							<p class="h6 pb30">
 								<b>Inversión 1 mes</b>
-								<span class="rate">s/.250</span>
-								<br><b>4to mes Dscto</b>
-								<span class="rate">25%</span>
+								<span class="rate">s/.320</span>
 							</p>
 							<a href="/publicidad-marketing-en-redes-sociales#precios" class="btn btn-small bg-primary-brand">
 								<span class="text">¡Ver más!</span>
