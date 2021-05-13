@@ -313,3 +313,11 @@ iframe.facebook{
 .mt15{
     margin-top: 15px;
 }
+@media (max-width: 1024px){
+.header .header-content-wrapper {
+    flex-wrap: initial !important;
+    padding-top: 35px !important;
+}
+.header .logo {
+    margin: 20px auto 10px !important;
+}}

@@ -171,7 +171,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item tie">
 							<div class="client-item-style2 col-3 bg-border-color  mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('img/landing/Orion.png')}}" alt="logo">
+									<img loading="lazy" src="{{asset('img/landing/Orion.png')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">Orion Supermercados</h6>
                                 </div>							
 								<a href="https://orion.com.pe/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -183,7 +183,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item aca ser">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/starking.jpg')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/starking.jpg')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">starking7</h6>
                                 </div>							
 								<a href="https://starking7.com/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -195,7 +195,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item aca">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('img/landing/Green.png')}}" alt="logo">
+									<img loading="lazy" src="{{asset('img/landing/Green.png')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">Green</h6>
                                 </div>						
 								<a href="https://green.com.pe/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -207,7 +207,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/GO TPeru.png')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/GO TPeru.png')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">go to perú</h6>
                                 </div>							
 								<a href="https://gotoperu.com/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -219,7 +219,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/GO TP.png')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/GO TP.png')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">go to perú - méxico</h6>
                                 </div>
 								<a href="https://gotoperu.com.mx/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -255,7 +255,7 @@
 						<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/mountain.jpg')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/mountain.jpg')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">mountain</h6>
                                 </div>								
 								<a href="http://mountaincuscotours.com/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -279,7 +279,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item ser">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/ana.jpg')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/ana.jpg')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">ana cecilia</h6>
                                 </div>							
 								<a href="http://anacecilialucana.com/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -291,7 +291,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item aca">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/escuela DB.jpg')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/escuela DB.jpg')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">Escuela de belleza</h6>
                                 </div>							
 								<a href="http://escueladebellezaemprender.org/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -303,7 +303,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item ser">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/Nebula.jpg')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/Nebula.jpg')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">Nebula</h6>
                                 </div>							
 								<a href="https://nebulaperu.com/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -315,7 +315,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item hot">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/andeamHome.jpg')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/andeamHome.jpg')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">andeam home</h6>
                                 </div>								
 								<a href="http://andeanhome.com/es/homepage/" target="_blank" class="btn btn-small btn-border c-primary">
@@ -327,7 +327,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 sorting-item via">
 							<div class="client-item-style2 col-3 bg-border-color mb30">
 								<div class="client-image">
-									<img loading="lazy" src="{{asset('/img/landing/Andes Viajes.png')}}" alt="logo">
+									<img loading="lazy" src="{{asset('/img/landing/Andes Viajes.png')}}" alt="pagina web">
                                     <h6 class="uppercase c-primario mt15">andes viagens</h6>
                                 </div>							
 								<a href="https://www.andesviagens.com/" target="_blank" class="btn btn-small btn-border c-primary">
