@@ -316,7 +316,7 @@ iframe.facebook{
 @media (max-width: 1024px){
 .header .header-content-wrapper {
     flex-wrap: initial !important;
-    padding-top: 35px !important;
+    padding-top: 25px !important;
 }
 .header .logo {
     margin: 20px auto 10px !important;
