@@ -17,9 +17,9 @@
 									<h1 class="slider-content-title c-brand-p" data-swiper-parallax="-100">
                                         Agencia de Marketing Digital y Publicidad - Cusco
                                     </h1>
-									<h5 class="slider-content-text" data-swiper-parallax="-200">
+									<p class="h5 slider-content-text" data-swiper-parallax="-200">
                                         Somos una agencia de marketing especializada en servicios digitales  e integrales
-                                    </h5>
+                                    </p>
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 										<a href="/Nosotros" class="btn btn-small bg-slider3 btn-hover-shadow">
 											<span class="text c-brand-p">¡CONÓSCANOS!</span>

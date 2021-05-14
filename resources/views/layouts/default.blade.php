@@ -224,7 +224,7 @@
                             <p class="sub-title">200 S Biscayne Blvd, Miami, FL 33131</p>
 
                             <a href="#" class="title">Cusco, PERÚ</a>
-                            <p class="sub-title">Ave El Sol 449 - Oficina 301</p>
+                            <p class="sub-title">Av. El Sol 449 - Oficina 301</p>
                         </div>
                     </div>
                 </div>
@@ -430,7 +430,7 @@
                                     <a href="#" class="title">Miami, USA</a>
                                     <p class="sub-title">200 S Biscayne Blvd, Miami, FL 33131</p>
                                     <a href="#" class="title">Cusco, PERÚ</a>
-                                    <p class="sub-title">Ave El Sol 449 - Oficina 301</p>
+                                    <p class="sub-title">Av. El Sol 449 - Oficina 301</p>
                                 </div>
                             </div>
                         </div>
