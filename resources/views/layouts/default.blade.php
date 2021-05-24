@@ -27,6 +27,11 @@
         <!--External fonts-->
         <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
         <meta name="facebook-domain-verification" content="xs1rdqin0103ifyxzdcqt6jasisjxm" />
+        <!--SEO
+        <link rel="canonical" href="https://nebulaperu.com/"/>
+        <meta property="og:type" content="website" data-react-helmet="true"/>
+        <meta property="og:url" content="https://nebulaperu.com/" data-react-helmet="true"/>
+        <meta property="og:image" content="website" data-react-helmet="true"/>-->
     </head>
     <body>
         <div class="top-bar top-bar-dark">
@@ -551,12 +556,12 @@
             /></noscript>
         <!-- End Facebook Pixel Code -->
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE5Y0KQ9X1"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WLV2NTFVFS"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-ZE5Y0KQ9X1');
+            gtag('config', 'G-WLV2NTFVFS');
         </script>
     </body>
 </html>
