@@ -27,7 +27,7 @@
         <!--External fonts-->
         <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
         <meta name="facebook-domain-verification" content="xs1rdqin0103ifyxzdcqt6jasisjxm" />
-        <!--SEO
+        <!--SEO-->
         <link rel="canonical" href="https://nebulaperu.com/"/>
         <meta property="og:title" content="Agencia de Diseño Web y Marketing Digital NEBULA Cusco 2021"/>
         <meta property="og:type" content="website"/>
@@ -36,8 +36,7 @@
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="1366" />
         <meta property="og:image:height" content="768" />
-        <meta property="og:description" content="Somos Nebula Agencia de Marketing en Cusco,  Especializados en Diseño Web Para Empresas, Diseño Gráfico-Branding y Publicidad Para Negocios." />
-        -->
+        <meta property="og:description" content="Somos Nebula Agencia de Marketing en Cusco,  Especializados en Diseño Web Para Empresas, Diseño Gráfico-Branding y Publicidad Para Negocios." />    
     </head>
     <body>
         <div class="top-bar top-bar-dark">
