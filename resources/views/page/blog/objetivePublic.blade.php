@@ -1,4 +1,7 @@
 @extends('layouts.blogAside')
+@section('titleBlog')
+    <title>¿Cómo analizar y definir el público objetivo de una empresa?</title>
+@endsection
 @section('headBlog')
 	<div class="stunning-header stunning-header-bg-lightviolet">
 		<div class="stunning-header-content">

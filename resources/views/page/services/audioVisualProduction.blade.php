@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
+	<title>Producción de Videos Promocionales y Grabaciones en Dron</title>
 	<meta name="description" content="Producción y grabación de videos promocionales para empresas, somos especialistas en publicidad y vídeos para redes sociales, videos de presentación de productos, corporativos." />
-    <title>Producción de Videos Promocionales y Grabaciones en Dron</title>
 @endsection
 @section('content')
 	<div class="stunning-header stunning-header-bg-red">

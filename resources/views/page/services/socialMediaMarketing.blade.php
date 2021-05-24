@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
+	<title>publicidad y marketing en redes sociales 2021</title>
 	<meta name="description" content="La Publicidad en redes sociales es la mejor forma de generar oportunidades de negocios a corto y mediano plazo.¡ Conoce a tu público objetivo.!" />
-    <title>publicidad y marketing en redes sociales 2021</title>
 @endsection
 @section('content')
 	<!-- Stunning Header -->

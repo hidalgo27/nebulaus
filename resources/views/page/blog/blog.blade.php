@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
-	<meta name="description" content="En Nebula Creativo somos una agenciaa de marketing especilizado en diseño web para empresas, branding y marketing digital en Cusco."/>
-    <title>Blog</title>
+	<title>▷Blog | Nebula Perú  2021</title>
+	<meta name="description" content="En Nebula Perú Te Mantendremos Actualizado Con Las Últimas Tendencias y Estrategias de Marketing Digital"/>
 @endsection
 @section('content')
 	<div class="stunning-header stunning-header-bg-lightviolet">
@@ -9,7 +9,7 @@
 			<h1 class="stunning-header-title">Blog</h1>
 			<ul class="breadcrumbs">
 				<li class="breadcrumbs-item">
-					<a href="index.html">Home</a>
+					<a href="/">Home</a>
 					<i class="seoicon-right-arrow"></i>
 				</li>
 				<li class="breadcrumbs-item active">

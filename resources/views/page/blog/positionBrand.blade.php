@@ -1,4 +1,7 @@
 @extends('layouts.blogAside')
+@section('titleBlog')
+    <title>¿Por qué es importante posicionar tu marca digital?</title>
+@endsection
 @section('headBlog')
 	<div class="stunning-header stunning-header-bg-lightviolet">
 		<div class="stunning-header-content">

@@ -1,4 +1,7 @@
 @extends('layouts.blogAside')
+@section('titleBlog')
+    <title>El audio y el video dominarán las tendencias del 2021</title>
+@endsection
 @section('headBlog')
 	<div class="stunning-header stunning-header-bg-lightviolet">
 		<div class="stunning-header-content">
@@ -17,7 +20,6 @@
 	</div>
 @endsection
 @section('contentBlog')
-
 	<article class="hentry post post-standard-details">   
 		<div class="post__content">
 			<div class="post-additional-info">

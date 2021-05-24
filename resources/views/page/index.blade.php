@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
-	<meta name="description" content="En Nebula Creativo somos una agencia de marketing especilizado en diseño web para empresas, branding y marketing digital en Cusco."/>
-    <title>Agencia de Diseño Web y Marketing Digital | NEBULA Cusco 2021</title>
+	<title>Agencia de Diseño Web y Marketing Digital NEBULA Cusco 2021</title>
+	<meta name="description" content="Somos Nebula Agencia de Marketing en Cusco,  Especializados en Diseño Web Para Empresas, Diseño Gráfico-Branding y Publicidad Para Negocios."/>
 @endsection
 @section('content')
 	<!--SLIDER-->

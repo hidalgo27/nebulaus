@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
+	<title>SEO y Posicionamiento Para Paginas Web</title>
 	<meta name="description" content="Ofrecemos Posicionamiento web/SEO como estrategia de marketing y posicionamiento para sitios web de empresas y negocios."/>
-    <title>SEO y Posicionamiento Para Paginas Web</title>
 @endsection
 @section('content')
 	<div class="stunning-header bg-seo">
@@ -220,7 +220,7 @@
 			</div>
 
 			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-				<a href="22_contacts.html" class="btn btn-medium btn--purple btn-hover-shadow mb30">
+				<a href="/seo-y-posicionamiento-web-peru#contacto" class="btn btn-medium btn--purple btn-hover-shadow mb30">
 					<span class="text">COTIZACIÓN GRATIS</span>
 					<span class="semicircle"></span>
 				</a>

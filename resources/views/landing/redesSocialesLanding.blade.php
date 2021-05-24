@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
-    <meta name="description" content="Somos Nebula Agencia especializada en administración de redes sociales para publicidad, y creación de contenidos para redes sociales de negocios." />
-    <title>Gestión de Publicidad para Redes Sociales</title>
+	<title>Gestión de Publicidad para Redes Sociales</title>
+	<meta name="description" content="Somos Nebula Agencia especializada en administración de redes sociales para publicidad, y creación de contenidos para redes sociales de negocios." />
 @endsection
 @section('content')
     <div class="container-fluid medium-padding80 stunning-header-bg-orange">

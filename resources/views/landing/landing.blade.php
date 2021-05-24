@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
-    <meta name="description" content="Diseño web para negocios y empresas corporativas, En Nebula creativo desarrollamos páginas web profesionales a medida para todo negocios en el 2021." />
     <title>Diseño web para empresas 2021</title>
+    <meta name="description" content="Diseño web para negocios y empresas corporativas, En Nebula creativo desarrollamos páginas web profesionales a medida para todo negocios en el 2021." />
 @endsection
 @section('content')
     <div class="container-fluid medium-padding80 stunning-header-bg-rose">

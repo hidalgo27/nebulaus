@@ -1,4 +1,7 @@
 @extends('layouts.blogAside')
+@section('titleBlog')
+    <title>Marketing B2B 2021</title>
+@endsection
 @section('headBlog')
 	<div class="stunning-header stunning-header-bg-lightviolet">
 		<div class="stunning-header-content">

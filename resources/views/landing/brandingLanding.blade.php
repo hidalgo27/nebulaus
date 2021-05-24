@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
-    <meta name="description" content="Creamos la identidad corporativa de tu negocio, Desde diseño de logos y creación de toda una línea gráfica presentativo a tu empresa." />
     <title>Agencia de Branding e Imagen Empresarial</title>
+    <meta name="description" content="Creamos la identidad corporativa de tu negocio, Desde diseño de logos y creación de toda una línea gráfica presentativo a tu empresa." />
 @endsection
 @section('content')
     <div class="container-fluid medium-padding80 stunning-header-bg-olive">

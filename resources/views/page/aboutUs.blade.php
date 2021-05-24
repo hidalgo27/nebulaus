@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
+	<title>Nosotros</title>
 	<meta name="description" content="Empresa de diseño web en peru,  especializada en el desarrollo de las mejores páginas web para ventas online, ecommerce agencias de viajes." />
-    <title>Nosotros</title>
 @endsection
 @section('content')
 	<div class="stunning-header stunning-header-bg-brown">

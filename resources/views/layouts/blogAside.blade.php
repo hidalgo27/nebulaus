@@ -1,5 +1,6 @@
 @extends('layouts.default')
 @section('content')
+    @yield('titleBlog')
     @yield('headBlog')
     <!-- Sidebar-->
     <div class="container">

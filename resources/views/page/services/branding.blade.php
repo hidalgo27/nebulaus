@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title')
-    <meta name="description" content="Desarrollamos un branding estratégico para tu empresa, desde la creación y diseño de logos que comuniquen la identidad de tu marca."/>
     <title>Branding y diseño de marca</title>
+    <meta name="description" content="Desarrollamos un branding estratégico para tu empresa, desde la creación y diseño de logos que comuniquen la identidad de tu marca."/>
 @endsection
 @section('content')
 	<div class="stunning-header bg-branding">
