@@ -36,7 +36,69 @@
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="1366" />
         <meta property="og:image:height" content="768" />
-        <meta property="og:description" content="Somos Nebula Agencia de Marketing en Cusco,  Especializados en Diseño Web Para Empresas, Diseño Gráfico-Branding y Publicidad Para Negocios." />    
+        <meta property="og:description" content="Somos Nebula Agencia de Marketing en Cusco,  Especializados en Diseño Web Para Empresas, Diseño Gráfico-Branding y Publicidad Para Negocios." />  
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "address": 
+                {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Cusco, Perú",
+                    "streetAddress": "Av. El Sol 449 - Oficina 301"
+                },
+                "email": "info@nebulaperu.com",
+                "name": "Nebula Perú",
+                "telephone": "960 680 005",
+                "url": "https://nebulaperu.com/",
+                "sameAs": 
+                [
+                    "https://www.instagram.com/nebulaperu/",
+                    "https://web.facebook.com/nebulaperu",
+                    "https://nebulaperu.com/Contacto"
+                ],
+                "logo": "https://nebulaperu.com/img/logo/logo-titulo.png",
+                "image":
+                {
+                    "@type" : "ImageObject" , 
+                    "contentUrl" : "https://nebulaperu.com/img/nebula-portada.jpg" , 
+                    "description" : "Nebula Agencia de Marketing en Cusco, especializados en Diseño Web, Diseño Gráfico-Branding y Publicidad Para Negocios." , 
+                    "name" : "Nebula Perú" 
+                },
+                "hasOfferCatalog" : { 
+                    "@type" : "OfferCatalog" , 
+                    "name" : "Servicios" , 
+                    "itemListElement" : 
+                    [ 
+                        {
+                            "@type" : "OfferCatalog" , 
+                            "name" : "Branding" , 
+                            "url": "https://nebulaperu.com/branding-dise%C3%B1o-de-marca"
+                        },
+                        {
+                            "@type" : "OfferCatalog" , 
+                            "name" : "Diseño Web" , 
+                            "url": "https://nebulaperu.com/dise%C3%B1o-paginas-web-para-empresas-en-peru"
+                        },
+                        {
+                            "@type" : "OfferCatalog" , 
+                            "name" : "Redes Sociales" , 
+                            "url": "https://nebulaperu.com/publicidad-marketing-en-redes-sociales"
+                        },
+                        {
+                            "@type" : "OfferCatalog" , 
+                            "name" : "SEO" , 
+                            "url": "https://nebulaperu.com/seo-y-posicionamiento-web-peru"
+                        },
+                        {
+                            "@type" : "OfferCatalog" , 
+                            "name" : "Producción Audiovisual" , 
+                            "url": "https://nebulaperu.com/produccion-de-contenido-audio-visuales"
+                        }  
+                    ]
+                }
+            }
+        </script>  
     </head>
     <body>
         <div class="top-bar top-bar-dark">
@@ -240,9 +302,6 @@
                 </div>
             </div>
         </div>
-
-
-
 
         <!-- CONTENIDO -->
         <div class="content-wrapper">
