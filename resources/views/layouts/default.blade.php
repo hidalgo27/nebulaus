@@ -4,6 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         @yield('title')
+        <meta name="theme-color" content="#f43957"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="#f43957">
         <link rel="icon" type="image/ico" href="img/favicon.ico" />
         <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/fonts.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('vendor/css/crumina-fonts.css')}}">
@@ -294,7 +296,6 @@
                         <div class="content">
                             <a href="#" class="title">Miami, USA</a>
                             <p class="sub-title">200 S Biscayne Blvd, Miami, FL 33131</p>
-
                             <a href="#" class="title">Cusco, PERÚ</a>
                             <p class="sub-title">Av. El Sol 449 - Oficina 301</p>
                         </div>
