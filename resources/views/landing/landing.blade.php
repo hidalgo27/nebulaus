@@ -414,13 +414,13 @@
                                             <i class="fa fa-caret-right" aria-hidden="true"></i>
                                             Certificado SSL por 1 Año
                                         </li>
-                                    </ul><br><br><br><br><br>
+                                    </ul><br><br><br>
                                     <p class="h6 pb30">
                                         <b>Desde</b>
                                         <span class="rate">s/.600</span>
-                                    </p>
+                                    </p><br>
                                     <a href="/paginas-web#contacto" class="btn btn-medium btn--dark">
-                                        <span class="text">CONSULTAR</span>
+                                        <span class="text">COTIZAR</span>
                                         <span class="semicircle"></span>
                                     </a>
                                 </div>
@@ -499,11 +499,11 @@
                                         </li>
                                     </ul><br><br><br>
                                     <p class="h6 pb30">
-                                        <b>Desde</b>
-                                        <span class="rate">s/.750</span>
+                                        <!--<b>Desde</b>
+                                        <span class="rate">s/.750</span>-->
                                     </p>
                                     <a href="/paginas-web#contacto" class="btn btn-medium btn--dark">
-                                        <span class="text">CONSULTAR</span>
+                                        <span class="text">COTIZAR</span>
                                         <span class="semicircle"></span>
                                     </a>
                                 </div>
@@ -594,11 +594,11 @@
                                         </li>
                                     </ul>
                                     <p class="h6 pb30">
-                                        <b>Desde</b>
-                                        <span class="rate">s/.1,000</span>
+                                        <!--<b>Desde</b>
+                                        <span class="rate">s/.1,000</span>-->
                                     </p>
                                     <a href="/paginas-web#contacto" class="btn btn-medium btn--dark">
-                                        <span class="text">CONSULTAR</span>
+                                        <span class="text">Cotizar</span>
                                         <span class="semicircle"></span>
                                     </a>
                                 </div>
