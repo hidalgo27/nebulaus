@@ -18,4 +18,15 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
+
+    RewriteEngine on
+    RewriteCond %{HTTP_HOST} ^https://nebulaperu.com/logos-branding[NC,OR]
+    RewriteRule ^(.*)$ https://nebulaperu.com/branding-dise%C3%B1o-de-marca/$1 [L,R=301,NC]
+
+    RewriteEngine on
+    RewriteCond %{HTTP_HOST} ^https://nebulaperu.com/community-manager[NC,OR]
+    RewriteRule ^(.*)$ https://nebulaperu.com/publicidad-marketing-en-redes-sociales/$1 [L,R=301,NC]
+
+    
+
 </IfModule>
